@@ -1,33 +1,46 @@
 # San Andreas Vehicle & Traffic Code (SAVC)
 
-> Verkehrs- und Fahrerlaubnisrecht des State of San Andreas – RP-Fassung
+> Verkehrs- und Fahrerlaubnisrecht des State of San Andreas
 
 ## Präambel
 
-Der San Andreas Vehicle & Traffic Code regelt die sichere und geordnete Teilnahme am Straßenverkehr. Die Vorschriften sind realistisch, jedoch an die technischen und spielerischen Besonderheiten von GTA V Roleplay angepasst. Geringfügige, eindeutig durch Spielmechaniken verursachte Abweichungen sollen nicht unangemessen verfolgt werden.
+Der San Andreas Vehicle & Traffic Code regelt die sichere und geordnete Teilnahme am öffentlichen Straßenverkehr im State of San Andreas. Er bestimmt insbesondere Vorfahrtsregeln, zulässige Höchstgeschwindigkeiten, Fahrerlaubnispflichten, Verhaltenspflichten bei Verkehrsunfällen sowie die Befugnisse zuständiger Vollzugsbehörden.
 
-Konkrete Geldstrafen, Hafteinheiten und Nebenfolgen werden im `Sentencing & Fine Schedule` festgelegt.
+Geldstrafen, Hafteinheiten und Nebenfolgen richten sich nach dem San Andreas Sentencing & Fine Schedule.
 
 ---
 
-# Title I – Allgemeine Verkehrsregeln
+# Title I – Allgemeine Verkehrsregeln und Vorfahrt
 
 ## SAVC § 101 – Allgemeine Sorgfaltspflicht
-Jeder Verkehrsteilnehmer hat sich so zu verhalten, dass andere Personen nicht vermeidbar gefährdet oder erheblich behindert werden.
+Jeder Verkehrsteilnehmer hat sich so zu verhalten, dass andere Personen nicht vermeidbar gefährdet, geschädigt oder erheblich behindert werden.
 
-## SAVC § 102 – Befolgung von Verkehrszeichen und Signalen
-Verkehrszeichen, Lichtsignale und rechtmäßige Anweisungen zuständiger Vollzugsbeamter sind zu beachten.
+## SAVC § 102 – Verkehrszeichen und behördliche Weisungen
+Amtlich angeordnete Verkehrszeichen und rechtmäßige Weisungen zuständiger Vollzugsbeamter sind zu beachten.
 
-## SAVC § 103 – Rechtsfahrgebot
+Lichtzeichenanlagen regeln im State of San Andreas weder die Vorfahrt noch begründen sie eine eigenständige Haltpflicht. Das Überfahren eines roten Lichtsignals stellt für sich allein keinen Verkehrsverstoß dar.
+
+## SAVC § 103 – Grundsatz „Rechts vor Links“
+An Kreuzungen und Einmündungen hat grundsätzlich der von rechts kommende Verkehr Vorfahrt.
+
+Dieser Grundsatz gilt, soweit nicht durch ein Stoppschild, eine besondere Verkehrsregel, eine Ausfahrtssituation oder die rechtmäßige Weisung eines Vollzugsbeamten etwas anderes bestimmt ist.
+
+## SAVC § 104 – Stoppschilder
+An einem Stoppschild ist das Fahrzeug vollständig zum Stillstand zu bringen. Die Weiterfahrt ist erst zulässig, wenn sie ohne Gefährdung oder Behinderung des bevorrechtigten Verkehrs möglich ist.
+
+## SAVC § 105 – Ausfahrten und untergeordnete Zufahrten
+Wer aus einem Grundstück, Parkplatz, Feldweg, unbefestigten Weg, Betriebsgelände oder einer vergleichbaren untergeordneten Zufahrt auf eine öffentliche Straße einfährt, muss vor dem Einfahren vollständig anhalten und dem fließenden Verkehr Vorfahrt gewähren.
+
+## SAVC § 106 – Rechtsfahrgebot
 Fahrzeuge haben grundsätzlich die vorgesehene Fahrbahnseite und Fahrtrichtung zu nutzen. Abweichungen sind zulässig, soweit sie zur Gefahrenabwehr oder aufgrund besonderer Verkehrslagen erforderlich sind.
 
-## SAVC § 104 – Sicheres Überholen
+## SAVC § 107 – Sicheres Überholen
 Überholen ist nur zulässig, wenn dies ohne unangemessene Gefährdung anderer Verkehrsteilnehmer möglich ist.
 
-## SAVC § 105 – Sicherheitsabstand
+## SAVC § 108 – Sicherheitsabstand
 Fahrzeugführer müssen einen der Geschwindigkeit und Verkehrslage angemessenen Sicherheitsabstand einhalten.
 
-## SAVC § 106 – Ablenkung am Steuer
+## SAVC § 109 – Ablenkung am Steuer
 Ein Fahrzeug darf nicht geführt werden, wenn der Fahrer durch vermeidbare Tätigkeiten so abgelenkt ist, dass eine sichere Fahrzeugführung nicht gewährleistet ist.
 
 ---
@@ -35,21 +48,28 @@ Ein Fahrzeug darf nicht geführt werden, wenn der Fahrer durch vermeidbare Täti
 # Title II – Geschwindigkeiten und Fahrverhalten
 
 ## SAVC § 201 – Allgemeine Geschwindigkeitsregel
-Fahrzeugführer müssen ihre Geschwindigkeit jederzeit den Straßen-, Verkehrs- und Sichtverhältnissen anpassen.
+Fahrzeugführer müssen ihre Geschwindigkeit jederzeit den Straßen-, Verkehrs-, Sicht- und Witterungsverhältnissen anpassen.
 
-## SAVC § 202 – Zulässige Höchstgeschwindigkeit
-Soweit durch Beschilderung oder behördliche Bekanntmachung nichts anderes bestimmt ist, gelten die im State of San Andreas festgelegten allgemeinen Geschwindigkeitsgrenzen.
+## SAVC § 202 – Allgemeine Höchstgeschwindigkeiten
+Soweit keine abweichende Geschwindigkeitsbegrenzung ausdrücklich angeordnet ist, gelten folgende Höchstgeschwindigkeiten:
 
-## SAVC § 203 – Geschwindigkeitsüberschreitung
-Das Überschreiten einer zulässigen Höchstgeschwindigkeit stellt einen Verkehrsverstoß dar. Erhebliche oder wiederholte Überschreitungen können zu erhöhten Sanktionen und Fahrverboten führen.
+1. innerhalb geschlossener Ortschaften: **50 mph**,
+2. außerhalb geschlossener Ortschaften: **120 mph**,
+3. auf Highways und Freeways: **200 mph**.
 
-## SAVC § 204 – Reckless Driving
+## SAVC § 203 – Abweichende Geschwindigkeitsbegrenzungen
+Durch amtliche Beschilderung angeordnete abweichende Höchstgeschwindigkeiten gehen den allgemeinen Höchstgeschwindigkeiten nach SAVC § 202 vor.
+
+## SAVC § 204 – Geschwindigkeitsüberschreitung
+Das Überschreiten einer zulässigen Höchstgeschwindigkeit stellt einen Verkehrsverstoß dar. Erhebliche oder wiederholte Überschreitungen können zu erhöhten Sanktionen und Maßnahmen gegen die Fahrerlaubnis führen.
+
+## SAVC § 205 – Reckless Driving
 Wer ein Fahrzeug in grob rücksichtsloser Weise führt und dadurch andere konkret gefährdet, begeht Reckless Driving.
 
-## SAVC § 205 – Careless Driving
+## SAVC § 206 – Careless Driving
 Wer durch erhebliche Unachtsamkeit gegen grundlegende Sorgfaltspflichten verstößt, ohne die Voraussetzungen des Reckless Driving zu erfüllen, begeht Careless Driving.
 
-## SAVC § 206 – Gefährdung von Fußgängern
+## SAVC § 207 – Gefährdung von Fußgängern
 Fußgänger dürfen durch die Führung eines Fahrzeugs nicht vorsätzlich oder grob fahrlässig gefährdet werden.
 
 ---
@@ -139,7 +159,7 @@ Die bloße Flucht mit einem Fahrzeug rechtfertigt nicht automatisch den Einsatz 
 
 ---
 
-# Title VII – Illegale Straßenrennen und Tuning
+# Title VII – Illegale Straßenrennen und Fahrzeugumbauten
 
 ## SAVC § 701 – Illegal Street Racing
 Die Teilnahme an einem nicht genehmigten Straßenrennen auf öffentlichen Verkehrsflächen ist verboten.
@@ -153,16 +173,16 @@ Eine erhebliche konkrete Gefährdung Unbeteiligter während eines illegalen Renn
 ## SAVC § 704 – Genehmigte Motorsportveranstaltungen
 Rennen auf genehmigten Strecken oder aufgrund einer gültigen behördlichen Veranstaltungsgenehmigung sind zulässig.
 
-## SAVC § 705 – Fahrzeugtuning
-Fahrzeugtuning ist grundsätzlich legal, soweit dadurch die sichere Teilnahme am öffentlichen Straßenverkehr nicht erheblich beeinträchtigt wird.
+## SAVC § 705 – Fahrzeugumbauten
+Umbauten an Fahrzeugen sind grundsätzlich zulässig, soweit dadurch die sichere Teilnahme am öffentlichen Straßenverkehr nicht erheblich beeinträchtigt wird.
 
 ## SAVC § 706 – Verkehrsuntaugliche Umbauten
 Fahrzeuge mit erheblich gefährlichen oder verkehrsuntauglichen Umbauten können bis zur Behebung der Mängel aus dem öffentlichen Straßenverkehr gezogen werden.
 
 ## SAVC § 707 – Nitrous Oxide Systems (NOS)
-Der Einbau von Nitro- oder vergleichbaren Leistungssteigerungssystemen ist nicht automatisch strafbar. Die Nutzung auf öffentlichen Straßen kann eingeschränkt oder bei konkreter Gefährdung als Verkehrsverstoß geahndet werden.
+Der Einbau von Nitro- oder vergleichbaren Leistungssteigerungssystemen ist nicht grundsätzlich verboten. Ihre Nutzung auf öffentlichen Straßen kann bei konkreter Gefährdung als Verkehrsverstoß geahndet werden.
 
-## SAVC § 708 – Fahrzeugbeschlagnahme bei illegalen Rennen
+## SAVC § 708 – Fahrzeugsicherstellung bei illegalen Rennen
 Bei schweren oder wiederholten illegalen Straßenrennen kann das eingesetzte Fahrzeug vorübergehend sichergestellt werden. Eine dauerhafte Einziehung bedarf grundsätzlich einer gerichtlichen Entscheidung.
 
 ---
@@ -170,7 +190,7 @@ Bei schweren oder wiederholten illegalen Straßenrennen kann das eingesetzte Fah
 # Title VIII – Fahrzeugzulassung und Kennzeichen
 
 ## SAVC § 801 – Zulassungspflicht
-Fahrzeuge, für die nach den Systemen des State of San Andreas eine Zulassung vorgesehen ist, dürfen im öffentlichen Straßenverkehr nur ordnungsgemäß zugelassen geführt werden.
+Zulassungspflichtige Fahrzeuge dürfen im öffentlichen Straßenverkehr nur mit einer gültigen Zulassung geführt werden.
 
 ## SAVC § 802 – Kennzeichenpflicht
 Ein vorgeschriebenes Kennzeichen muss ordnungsgemäß angebracht und grundsätzlich sichtbar sein.
@@ -179,25 +199,34 @@ Ein vorgeschriebenes Kennzeichen muss ordnungsgemäß angebracht und grundsätzl
 Das vorsätzliche Fälschen, Verändern, Verdecken oder missbräuchliche Verwenden eines Kennzeichens zur Täuschung oder Verhinderung der Identifizierung ist verboten.
 
 ## SAVC § 804 – Falsche Fahrzeugidentität
-Die vorsätzliche Verwendung einer falschen Fahrzeugidentität oder manipulierten Zulassungsinformation ist strafbar.
+Die vorsätzliche Verwendung einer falschen Fahrzeugidentität oder manipulierter Zulassungsinformationen ist strafbar.
 
 ## SAVC § 805 – Nicht verkehrssicheres Fahrzeug
 Ein Fahrzeug mit erheblichen sicherheitsrelevanten Mängeln kann vorübergehend stillgelegt werden, wenn von ihm eine konkrete Gefahr ausgeht.
 
 ---
 
-# Title IX – Parken, Abschleppen und Sicherstellung
+# Title IX – Halten, Parken, Abschleppen und Sicherstellung
 
-## SAVC § 901 – Unzulässiges Parken
-Fahrzeuge dürfen nicht so abgestellt werden, dass Rettungswege, Einsatzstellen, wesentliche Verkehrswege oder besonders geschützte Bereiche erheblich blockiert werden.
+## SAVC § 901 – Grundsatz des Haltens und Parkens
+Halten und Parken sind grundsätzlich zulässig, soweit dieses Gesetz, eine amtliche Verkehrsregelung oder eine konkrete Gefahrenlage nichts anderes bestimmt und andere Verkehrsteilnehmer nicht erheblich behindert oder gefährdet werden.
 
-## SAVC § 902 – Abschleppen verkehrsbehindernder Fahrzeuge
-Erheblich verkehrsbehindernd oder gefährlich abgestellte Fahrzeuge können durch zuständige Stellen umgesetzt oder abgeschleppt werden.
+## SAVC § 902 – Rote Bordsteine
+An rot gekennzeichneten Bordsteinen gilt absolutes Halteverbot. Ein Fahrzeug darf dort weder gehalten noch geparkt werden, soweit nicht eine unmittelbare Notlage oder eine rechtmäßige Einsatzmaßnahme dies erfordert.
 
-## SAVC § 903 – Abschleppen nach Verkehrsdelikten
+## SAVC § 903 – Geh- und Fußwege
+Fahrzeuge dürfen nicht auf Gehwegen, Fußwegen oder ausschließlich dem Fußgängerverkehr bestimmten Flächen gehalten oder geparkt werden.
+
+## SAVC § 904 – Verkehrs- und Rettungswege
+Fahrzeuge dürfen nicht so gehalten oder abgestellt werden, dass Rettungswege, Feuerwehrzufahrten, Einsatzstellen, wesentliche Verkehrswege oder andere besonders geschützte Bereiche erheblich blockiert werden.
+
+## SAVC § 905 – Abschleppen verkehrsbehindernder Fahrzeuge
+Erheblich verkehrsbehindernd, gefährlich oder entgegen SAVC §§ 902 bis 904 abgestellte Fahrzeuge können durch zuständige Stellen umgesetzt oder abgeschleppt werden.
+
+## SAVC § 906 – Abschleppen nach Verkehrsdelikten
 Fahrzeuge können vorübergehend sichergestellt oder abgeschleppt werden, wenn dies zur Gefahrenabwehr, Beweissicherung oder aufgrund eines schweren Verkehrsdelikts erforderlich ist.
 
-## SAVC § 904 – Schutz fremden Eigentums
+## SAVC § 907 – Schutz fremden Eigentums
 Die dauerhafte Einziehung eines Fahrzeugs ist von der bloßen Sicherstellung oder dem Abschleppen zu unterscheiden und bedarf grundsätzlich einer besonderen gesetzlichen oder gerichtlichen Grundlage.
 
 ---
@@ -205,7 +234,7 @@ Die dauerhafte Einziehung eines Fahrzeugs ist von der bloßen Sicherstellung ode
 # Title X – Einsatzfahrzeuge und Sonderrechte
 
 ## SAVC § 1001 – Anerkannte Einsatzfahrzeuge
-Als Einsatzfahrzeuge gelten ordnungsgemäß eingesetzte Fahrzeuge staatlicher oder gesetzlich anerkannter Polizei-, Sheriff-, Highway-Patrol-, Feuerwehr-, EMS- und vergleichbarer Einsatzdienste.
+Als Einsatzfahrzeuge gelten ordnungsgemäß eingesetzte Fahrzeuge staatlicher oder gesetzlich anerkannter Polizei-, Sheriff-, Highway-Patrol-, Feuerwehr-, Emergency-Medical-Services- und vergleichbarer Einsatzdienste.
 
 ## SAVC § 1002 – Sonderrechte
 Einsatzfahrzeuge dürfen bei dringenden Einsatzlagen von einzelnen Verkehrsregeln abweichen, soweit dies zur Aufgabenerfüllung erforderlich und unter Berücksichtigung der konkreten Gefahr vertretbar ist.
@@ -233,7 +262,7 @@ Eine Verfolgung kann oder soll abgebrochen werden, wenn die Gefahr für Unbeteil
 Straßensperren dürfen bei geeigneten Einsatzlagen eingerichtet werden. Ihre Ausgestaltung muss die konkrete Gefahr und den verfolgten Zweck berücksichtigen.
 
 ## SAVC § 1104 – PIT-Manöver
-Ein PIT-Manöver oder vergleichbare kontrollierte Stop-Technik darf durch entsprechend befugte Einsatzkräfte eingesetzt werden, wenn die konkrete Situation dies rechtfertigt und die Gefahren für Unbeteiligte angemessen berücksichtigt wurden.
+Ein PIT-Manöver oder eine vergleichbare kontrollierte Stop-Technik darf durch entsprechend befugte Einsatzkräfte eingesetzt werden, wenn die konkrete Situation dies rechtfertigt und die Gefahren für Unbeteiligte angemessen berücksichtigt wurden.
 
 ## SAVC § 1105 – Hochrisikomaßnahmen
 Besonders gefährliche Stop-Techniken dürfen nur eingesetzt werden, wenn mildere Maßnahmen nicht ausreichend erscheinen und die Gefahrenlage den Einsatz rechtfertigt.
@@ -256,19 +285,16 @@ Luft- und Wasserfahrzeuge dürfen nicht in einer Weise gelandet oder angelegt we
 
 ---
 
-# Title XIII – RP-Grundsatz und Verhältnismäßigkeit
+# Title XIII – Verhältnismäßigkeit und Wiederholungsverstöße
 
-## SAVC § 1301 – GTA-typische Spielmechaniken
-Eindeutig geringfügige Verstöße, die ausschließlich oder überwiegend durch unvermeidbare GTA-Spielmechaniken, Synchronisationsfehler oder vergleichbare technische Besonderheiten entstehen, sollen nicht unangemessen strafrechtlich verfolgt werden.
-
-## SAVC § 1302 – Verhältnismäßigkeit
+## SAVC § 1301 – Verhältnismäßigkeit
 Verkehrsrechtliche Maßnahmen und Sanktionen müssen in einem angemessenen Verhältnis zur Schwere des Verstoßes und zur verursachten Gefahr stehen.
 
-## SAVC § 1303 – Wiederholte Verstöße
+## SAVC § 1302 – Wiederholte Verstöße
 Wiederholte schwere Verkehrsverstöße können zu erhöhten Geldstrafen, Fahrverboten oder einem gerichtlichen Fahrerlaubnisentzug führen.
 
 ---
 
-## Hinweis zum Strafkatalog
+## Schlussbestimmung
 
-Die konkreten allgemeinen Geschwindigkeitsgrenzen sowie Geldstrafen, Hafteinheiten, Dauer möglicher Fahrverbote und weitere Sanktionen werden im zentralen `Sentencing & Fine Schedule` festgelegt. Dadurch können diese Werte angepasst werden, ohne den Vehicle & Traffic Code selbst ändern zu müssen.
+Die für Verstöße gegen diesen Code vorgesehenen Geldstrafen, Hafteinheiten, Fahrverbote und sonstigen Nebenfolgen richten sich nach dem San Andreas Sentencing & Fine Schedule.
