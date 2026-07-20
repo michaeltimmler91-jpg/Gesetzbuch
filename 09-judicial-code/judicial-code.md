@@ -121,6 +121,16 @@ Das Department of Justice kann als staatliche Justizbehörde insbesondere die St
 
 Gerichte und Richter sind in ihrer Rechtsprechung nicht dem Department of Justice unterstellt. Das DOJ besitzt keine Weisungsbefugnis gegenüber Richtern und darf gerichtliche Entscheidungen nicht außerhalb gesetzlich vorgesehener Rechtsmittel beeinflussen oder aufheben.
 
+## SAJC § 509 – Nicht eingerichtete oder nicht besetzte Staatsanwaltschaft
+Ist keine zuständige Staatsanwaltschaft oder kein Department of Justice ordnungsgemäß eingerichtet oder personell besetzt, bleiben die gesetzlichen Ermittlungs-, Vollzugs- und unmittelbaren Sanktionsbefugnisse der zuständigen Strafverfolgungsbehörden uneingeschränkt bestehen.
+
+Strafsachen, die nach Gesetz keiner gerichtlichen Entscheidung bedürfen, können durch die zuständige Strafverfolgungsbehörde innerhalb ihrer gesetzlichen Befugnisse ohne Beteiligung einer Staatsanwaltschaft bearbeitet und abgeschlossen werden. Die jeweils geltenden Höchstgrenzen des Sentencing & Fine Schedule bleiben verbindlich.
+
+## SAJC § 510 – Direkte Vorlage an ein Gericht
+Bedarf eine Strafsache einer gerichtlichen Entscheidung und ist keine zuständige Staatsanwaltschaft oder kein Department of Justice ordnungsgemäß eingerichtet oder personell besetzt, darf die ermittelnde Strafverfolgungsbehörde den Fall unmittelbar dem zuständigen Gericht vorlegen.
+
+Die Vorlage soll die erhobenen Vorwürfe, die wesentlichen Tatsachen, vorhandene Beweismittel und beantragte gerichtliche Maßnahmen nachvollziehbar bezeichnen. Das Gericht prüft die Sache unabhängig und ist weder an die rechtliche Bewertung noch an die beantragte Sanktion der vorlegenden Behörde gebunden.
+
 ---
 
 # Title VI – Rechtsanwälte und Verteidigung
@@ -153,8 +163,8 @@ Ist trotz angemessener Bemühungen innerhalb einer für das Verfahren vertretbar
 
 # Title VII – Strafverfahren vor Gericht
 
-## SAJC § 701 – Anklage
-Ein gerichtliches Strafverfahren beginnt grundsätzlich mit einer formellen Anklage oder einem vergleichbaren gesetzlich vorgesehenen Verfahrensschritt.
+## SAJC § 701 – Einleitung des gerichtlichen Strafverfahrens
+Ein gerichtliches Strafverfahren beginnt grundsätzlich mit einer formellen Anklage oder einem vergleichbaren gesetzlich vorgesehenen Verfahrensschritt. Ist keine zuständige Staatsanwaltschaft oder kein Department of Justice ordnungsgemäß eingerichtet oder personell besetzt, kann das Verfahren auch durch unmittelbare Vorlage der ermittelnden Strafverfolgungsbehörde nach SAJC § 510 eingeleitet werden.
 
 ## SAJC § 702 – Information über die Vorwürfe
 Der Angeklagte muss in angemessener Weise über die gegen ihn erhobenen Vorwürfe informiert werden.
