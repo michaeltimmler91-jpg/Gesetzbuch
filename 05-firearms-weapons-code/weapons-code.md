@@ -21,20 +21,22 @@ Der rechtmäßige Besitz von Waffen ist im State of San Andreas zulässig, sowei
 Im Sinne dieses Gesetzes gelten insbesondere:
 
 1. **Handfeuerwaffen** – Pistolen und Revolver,
-2. **zivile Langwaffen** – nicht vollautomatische Gewehre und Schrotflinten, soweit sie nicht als verbotene Waffen eingestuft sind,
-3. **militärische oder vollautomatische Waffen** – Waffen mit vollautomatischer Feuerfunktion oder vergleichbarer besonderer Gefährlichkeit,
-4. **schwere Waffen** – insbesondere explosive oder großkalibrige Waffensysteme,
+2. **zivile Langwaffen** – Schrotflinten und halbautomatische Gewehre, soweit sie nicht als verbotene Waffen eingestuft sind,
+3. **vollautomatische und militärische Waffen** – insbesondere Maschinenpistolen, vollautomatische Gewehre und vergleichbare militärische Schusswaffen,
+4. **schwere Waffen und Kriegswaffen** – insbesondere Raketenwerfer, schwere Maschinenwaffen, Explosivwaffen und vergleichbare Waffensysteme,
 5. **Sprengmittel** – explosive Gegenstände oder Vorrichtungen, die zur Schädigung von Personen oder Sachen bestimmt oder geeignet sind,
 6. **Führen** – das unmittelbare zugriffsbereite Tragen einer Waffe außerhalb ausschließlich privater oder besonders zugelassener Bereiche,
 7. **Transport** – die nicht unmittelbar einsatzbereite Beförderung einer Waffe von einem Ort zu einem anderen.
 
 ## SAWC § 103 – Waffenklassen
-Waffen werden für Lizenz- und Kontrollzwecke in Klassen eingeteilt:
+Waffen werden für Lizenz- und Kontrollzwecke in folgende Klassen eingeteilt:
 
-- **Klasse I:** Handfeuerwaffen,
-- **Klasse II:** zivile Langwaffen,
-- **Klasse III:** vollautomatische, militärische und besonders regulierte Waffen,
-- **Klasse IV:** schwere Waffen, Explosivwaffen und Sprengmittel.
+- **Klasse I:** Pistolen und Revolver,
+- **Klasse II:** Schrotflinten und halbautomatische Gewehre,
+- **Klasse III:** vollautomatische Waffen, Maschinenpistolen, militärische automatische Gewehre und vergleichbare besonders regulierte Schusswaffen,
+- **Klasse IV:** Explosivstoffe, Raketenwerfer, schwere Maschinenwaffen, Explosivwaffen und vergleichbare Kriegswaffen.
+
+Waffen der Klassen I und II können von Privatpersonen im Rahmen einer gültigen Waffenlizenz rechtmäßig besessen werden. Waffen der Klassen III und IV sind für Privatpersonen grundsätzlich verboten und dürfen nur aufgrund einer besonderen gesetzlichen oder staatlichen Sondergenehmigung besessen oder geführt werden. Autorisierte staatliche Stellen bleiben im Rahmen ihrer dienstlichen Befugnisse unberührt.
 
 Die zuständige Behörde kann einzelne Waffen anhand ihrer Eigenschaften einer Klasse zuordnen.
 
@@ -43,10 +45,17 @@ Die zuständige Behörde kann einzelne Waffen anhand ihrer Eigenschaften einer K
 # Title II – Waffenlizenzen
 
 ## SAWC § 201 – Allgemeine Waffenlizenz
-Der Erwerb und Besitz von Waffen der Klasse I setzt grundsätzlich eine gültige Waffenlizenz voraus.
+Der Erwerb und Besitz von Waffen der Klassen I und II setzt grundsätzlich eine gültige Waffenlizenz voraus.
 
-## SAWC § 202 – Erweiterte Waffenlizenz
-Der Erwerb und Besitz ziviler Langwaffen der Klasse II setzt eine erweiterte Waffen- oder entsprechende Jagdlizenz voraus.
+## SAWC § 202 – Voraussetzungen der Waffenlizenz
+Eine reguläre Waffenlizenz darf grundsätzlich nur erteilt werden, wenn die antragstellende Person:
+
+1. ein gültiges positives psychologisches Eignungsgutachten des zuständigen Medical Department (MD) vorlegt,
+2. einen beim Los Santos Police Department (LSPD) erfolgreich abgelegten Nachweis der Waffensachkunde besitzt,
+3. keinem gesetzlichen Waffenverbot unterliegt und
+4. die sonstigen gesetzlichen Voraussetzungen erfüllt.
+
+Die Waffensachkunde umfasst insbesondere sichere Handhabung, Laden und Entladen, sichere Aufbewahrung sowie grundlegende Kenntnisse über rechtmäßiges Führen, Notwehr und den verantwortungsvollen Umgang mit Schusswaffen.
 
 ## SAWC § 203 – Concealed Carry Permit
 Das verdeckte zugriffsbereite Führen einer erlaubten Schusswaffe in der Öffentlichkeit setzt eine gültige `Concealed Carry Permit` voraus.
@@ -61,7 +70,13 @@ Der gewerbliche Verkauf, Ankauf oder regelmäßige Handel mit Schusswaffen setzt
 Für Waffen der Klassen III und IV können ausschließlich in gesetzlich vorgesehenen Ausnahmefällen staatliche Sondergenehmigungen erteilt werden. Normale Waffenlizenzen berechtigen nicht zu deren Besitz.
 
 ## SAWC § 207 – Prüfung und Erteilung
-Waffenlizenzen können von der zuständigen staatlichen Stelle nach Prüfung der gesetzlichen Voraussetzungen erteilt werden. Ein Anspruch auf eine bestimmte Sondergenehmigung besteht nicht.
+(1) Reguläre Waffenlizenzen werden bei Vorliegen der gesetzlichen Voraussetzungen grundsätzlich durch ein zuständiges Gericht erteilt.
+
+(2) Ist ein zuständiger Richter trotz angemessener Bemühungen innerhalb angemessener Frist nicht erreichbar, kann das Los Santos Police Department eine reguläre Waffenlizenz erteilen, sofern sämtliche Voraussetzungen nach SAWC § 202 nachgewiesen sind.
+
+(3) Eine nach Absatz 2 erteilte Lizenz besitzt die gleiche vorläufige Wirksamkeit wie eine regulär erteilte Lizenz und ist einer späteren gerichtlichen Überprüfung zugänglich.
+
+(4) Ein Anspruch auf eine Sondergenehmigung für Waffen der Klassen III oder IV besteht nicht.
 
 ## SAWC § 208 – Lizenzregister
 Erteilte, ausgesetzte und entzogene Waffenlizenzen dürfen in einem geschützten staatlichen Register dokumentiert werden.
@@ -77,10 +92,12 @@ Personen können vom Erwerb, Besitz oder Führen von Waffen ausgeschlossen werde
 Ein Gericht kann bei geeigneten Fällen ein zeitlich begrenztes oder dauerhaftes Waffenverbot als Nebenfolge einer Verurteilung oder als Schutzmaßnahme anordnen.
 
 ## SAWC § 303 – Vorläufige Aussetzung
-Bei dringendem Verdacht einer schweren Gewalt- oder Waffenstraftat kann eine Waffenlizenz nach Maßgabe des Verfahrensrechts vorläufig ausgesetzt werden.
+Bei dringendem Verdacht einer schweren Gewalt- oder Waffenstraftat kann eine Vollzugsbehörde eine Waffenlizenz vorläufig aussetzen und betroffene Waffen nach Maßgabe des Verfahrensrechts sicherstellen, wenn dies zur Abwehr einer erheblichen Gefahr erforderlich ist.
 
-## SAWC § 304 – Lizenzentzug
-Waffenlizenzen können bei schweren oder wiederholten Verstößen gegen dieses Gesetz gerichtlich oder durch eine gesetzlich zuständige Lizenzbehörde entzogen werden.
+Ist ein zuständiger Richter nicht innerhalb angemessener Frist erreichbar, darf die vorläufige Aussetzung bis zu einer möglichen gerichtlichen Überprüfung aufrechterhalten werden. Die Maßnahme ist zu dokumentieren und unverzüglich aufzuheben, sobald ihre gesetzlichen Voraussetzungen entfallen.
+
+## SAWC § 304 – Dauerhafter Lizenzentzug
+Ein dauerhafter Entzug einer Waffenlizenz oder ein dauerhaftes Waffenverbot bedarf grundsätzlich einer Entscheidung des zuständigen Gerichts.
 
 ## SAWC § 305 – Wiedererteilung
 Nach Ablauf eines zeitlich begrenzten Waffenverbots oder einer Sperrfrist kann eine erneute Erteilung beantragt werden, soweit keine fortbestehenden Ausschlussgründe vorliegen.
@@ -118,7 +135,7 @@ Auf eigenem oder mit Zustimmung des Berechtigten genutztem Privatgrundstück gel
 Der Besitz vollautomatischer, militärischer oder vergleichbar besonders regulierter Waffen ohne gültige staatliche Sondergenehmigung ist verboten.
 
 ## SAWC § 502 – Unlawful Possession of Class IV Weapons
-Der Besitz schwerer Waffen, Explosivwaffen oder Sprengmittel ohne gültige staatliche Sondergenehmigung ist verboten.
+Der Besitz schwerer Waffen, Explosivwaffen, Raketenwerfer, schwerer Maschinenwaffen oder Sprengmittel ohne gültige staatliche Sondergenehmigung ist verboten.
 
 ## SAWC § 503 – Explosive Devices
 Herstellung, Besitz, Transport oder Einsatz nicht genehmigter explosiver Vorrichtungen ist verboten.
@@ -253,7 +270,7 @@ Bei schweren Waffenverstößen können betroffene Waffen bis zur Klärung der Re
 Schwere oder wiederholte Waffenverstöße können zu einer zeitlich begrenzten Sperre für die Neuerteilung einer Waffen- oder Carry-Lizenz führen.
 
 ## SAWC § 1103 – Dauerhafter Entzug
-Ein dauerhafter Waffenlizenzentzug ist nur bei besonders schweren oder wiederholten Verstößen und grundsätzlich aufgrund einer gerichtlichen oder besonders gesetzlich vorgesehenen Entscheidung zulässig.
+Ein dauerhafter Waffenlizenzentzug ist nur bei besonders schweren oder wiederholten Verstößen und grundsätzlich aufgrund einer gerichtlichen Entscheidung zulässig.
 
 ## SAWC § 1104 – Verhältnismäßigkeit
 Waffenrechtliche Maßnahmen müssen der Schwere des Verstoßes, der konkreten Gefährdung und dem Verhalten der betroffenen Person angemessen sein.
@@ -263,13 +280,13 @@ Waffenrechtliche Maßnahmen müssen der Schwere des Verstoßes, der konkreten Ge
 # Title XII – Vorläufige und gerichtliche Maßnahmen
 
 ## SAWC § 1201 – Allgemeine Lizenzverwaltung
-Reguläre Waffenlizenzen und Carry Permits werden durch die gesetzlich zuständige Verwaltungsstelle nach den festgelegten Voraussetzungen erteilt, verlängert, ausgesetzt oder widerrufen.
+Reguläre Waffenlizenzen werden nach Maßgabe des SAWC § 207 grundsätzlich durch ein zuständiges Gericht erteilt. Ist ein zuständiger Richter innerhalb angemessener Frist nicht erreichbar, kann das Los Santos Police Department bei vollständig nachgewiesenen Voraussetzungen eine Waffenlizenz erteilen. Carry Permits und sonstige waffenrechtliche Verwaltungsakte richten sich nach der hierfür gesetzlich bestimmten Zuständigkeit.
 
 ## SAWC § 1202 – Vorläufiges Waffenverbot
-Bei dringendem Verdacht einer schweren Gewalt- oder Waffenstraftat kann die gesetzlich zuständige Stelle ein zeitlich begrenztes vorläufiges Waffenverbot anordnen, wenn dies zur Abwehr einer erheblichen Gefahr erforderlich ist.
+Bei dringendem Verdacht einer schweren Gewalt- oder Waffenstraftat kann eine zuständige Vollzugsbehörde ein zeitlich begrenztes vorläufiges Waffenverbot anordnen und Waffen sicherstellen, wenn dies zur Abwehr einer erheblichen Gefahr erforderlich ist.
 
 ## SAWC § 1203 – Dauerhafte Maßnahmen
-Dauerhafte Waffenverbote, außergewöhnliche Sondergenehmigungen für Privatpersonen und endgültige weitreichende Lizenzentzüge bedürfen der Entscheidung der hierfür gesetzlich zuständigen Behörde oder eines zuständigen Gerichts.
+Dauerhafte Waffenverbote und endgültige weitreichende Entzüge persönlicher Waffenlizenzen bedürfen grundsätzlich einer gerichtlichen Entscheidung. Außergewöhnliche Sondergenehmigungen für Waffen der Klassen III und IV richten sich nach der hierfür gesetzlich bestimmten staatlichen Zuständigkeit.
 
 ## SAWC § 1204 – Gerichtliche Überprüfung
 Vorläufige Maßnahmen, die erheblich in Waffen- oder Lizenzrechte eingreifen, unterliegen auf Antrag oder nach Maßgabe des Gesetzes der gerichtlichen Überprüfung.
