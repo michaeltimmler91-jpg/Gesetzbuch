@@ -88,7 +88,14 @@ Weitere Lizenzpflichten können durch Gesetz oder öffentlich bekannt gemachte s
 
 Soweit ein Spezialgesetz keine andere Zuständigkeit bestimmt, werden staatliche Gewerbe-, Unternehmens-, Spezial- und persönliche Berufslizenzen durch die hierfür zuständige Regierungs-, Verwaltungs- oder Berufsaufsichtsbehörde erteilt, geändert, vorübergehend ausgesetzt und dauerhaft entzogen. Die gerichtliche Überprüfung belastender endgültiger Entscheidungen bleibt gewährleistet.
 
-Die vorübergehende Nichterreichbarkeit oder fehlende personelle Besetzung der zuständigen Lizenzbehörde überträgt deren Befugnis zur endgültigen Lizenzentscheidung nicht auf eine Vollzugsbehörde. Gesetzlich zulässige vorläufige Gefahrenabwehrmaßnahmen bleiben unberührt.
+## SABLC § 310 – Übergangsweise zentrale Lizenzzuständigkeit
+Solange für eine nach diesem Gesetz vorgesehene Lizenzart keine besondere zuständige Lizenz-, Verwaltungs- oder Berufsaufsichtsbehörde ordnungsgemäß eingerichtet und personell besetzt ist, werden die betreffenden Gewerbe-, Unternehmens-, Spezial- und Berufslizenzen unmittelbar durch die Regierung des State of San Andreas oder eine von ihr hierzu bestimmte zentrale Verwaltungsstelle erteilt, geändert, vorübergehend ausgesetzt und dauerhaft entzogen.
+
+Mit der ordnungsgemäßen Einrichtung und personellen Besetzung einer gesetzlich zuständigen Fachbehörde geht die reguläre Zuständigkeit für die von ihr verwalteten Lizenzarten auf diese Behörde über.
+
+Die fehlende Einrichtung oder personelle Besetzung einer Fachbehörde überträgt keine Befugnis zur endgültigen Lizenzentscheidung auf Polizei- oder andere Vollzugsbehörden. Gesetzlich zulässige vorläufige Sicherungs- und Gefahrenabwehrmaßnahmen bleiben unberührt.
+
+Diese Übergangsregelung gilt nicht für persönliche Fahrerlaubnisse und persönliche Waffenlizenzen oder Carry Permits, soweit deren Erteilung und Entzug durch besondere Gesetze abweichend geregelt sind.
 
 ---
 
@@ -280,6 +287,8 @@ Medienunternehmen und Journalisten genießen die durch die Verfassung und andere
 
 ## SABLC § 1201 – Verwaltungsentscheidungen
 Die Regierung und die von ihr zuständig bestimmten Verwaltungs-, Lizenz- und Berufsaufsichtsstellen dürfen Unternehmensregistrierungen, Lizenzanträge, Verlängerungen und sonstige reguläre gewerbe- oder berufsrechtliche Verwaltungsverfahren im Rahmen ihrer gesetzlichen Befugnisse bearbeiten und entscheiden.
+
+Solange eine besondere Fachbehörde für eine Lizenzart noch nicht ordnungsgemäß eingerichtet und personell besetzt ist, gilt die Übergangszuständigkeit nach SABLC § 310.
 
 ## SABLC § 1202 – Schwerwiegende Maßnahmen
 Dauerhafte Unternehmensschließungen und endgültige Entzüge von Gewerbe- oder Unternehmenslizenzen sind ausschließlich durch die hierfür zuständige Regierung oder Regierungsbehörde zulässig.
