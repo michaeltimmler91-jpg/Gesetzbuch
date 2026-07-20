@@ -13,16 +13,30 @@ const laws=[
 {title:'Sentencing & Fine Schedule',short:'Straf- & Bußgeldkatalog',path:'12-sentencing-fine-schedule/sentencing-fine-schedule.md'}
 ];
 
+const pdQuick=[
+{label:'Strafgesetzbuch',index:1},
+{label:'Strafprozessordnung',index:2},
+{label:'Verkehrsrecht',index:3},
+{label:'Waffenrecht',index:4},
+{label:'Drogenrecht',index:5},
+{label:'Polizeirecht',index:9},
+{label:'Strafkatalog',index:11}
+];
+
 const nav=document.getElementById('lawNav');
 const quickGrid=document.getElementById('quickGrid');
+const pdQuickGrid=document.getElementById('pdQuickGrid');
 const documentEl=document.getElementById('document');
 const welcome=document.getElementById('welcome');
 const searchInput=document.getElementById('searchInput');
+const homeSearchInput=document.getElementById('homeSearchInput');
 const searchResults=document.getElementById('searchResults');
 const loading=document.getElementById('loading');
 const errorEl=document.getElementById('error');
 const sidebar=document.getElementById('sidebar');
 const menuButton=document.getElementById('menuButton');
+const homeButton=document.getElementById('homeButton');
+const pdButton=document.getElementById('pdButton');
 
 let cache=new Map();
 let activePath=null;
@@ -39,6 +53,14 @@ laws.forEach((law,index)=>{
   card.innerHTML=`<strong>${index+1}. ${law.short}</strong><span>${law.title}</span>`;
   card.addEventListener('click',()=>openLaw(law));
   quickGrid.appendChild(card);
+});
+
+pdQuick.forEach(item=>{
+  const btn=document.createElement('button');
+  btn.className='pd-quick';
+  btn.textContent=item.label;
+  btn.addEventListener('click',()=>openLaw(laws[item.index]));
+  pdQuickGrid.appendChild(btn);
 });
 
 async function fetchLaw(law){
@@ -74,6 +96,20 @@ async function openLaw(law){
   }
 }
 
+function showHome(){
+  activePath=null;
+  documentEl.classList.add('hidden');
+  searchResults.classList.add('hidden');
+  errorEl.classList.add('hidden');
+  welcome.classList.remove('hidden');
+  searchInput.value='';
+  homeSearchInput.value='';
+  document.querySelectorAll('.law-link').forEach(el=>el.classList.remove('active'));
+  history.replaceState(null,'',location.pathname);
+  window.scrollTo({top:0,behavior:'smooth'});
+  if(window.innerWidth<=850) sidebar.classList.remove('open');
+}
+
 function plainText(md){
   return md.replace(/```[\s\S]*?```/g,' ').replace(/[#>*_`|\-]/g,' ').replace(/\s+/g,' ').trim();
 }
@@ -88,7 +124,11 @@ function snippet(text,term){
 }
 
 async function searchAll(term){
-  if(term.trim().length<2){
+  const clean=term.trim();
+  searchInput.value=term;
+  homeSearchInput.value=term;
+
+  if(clean.length<2){
     searchResults.classList.add('hidden');
     if(activePath){
       const law=laws.find(l=>l.path===activePath);
@@ -108,13 +148,13 @@ async function searchAll(term){
     try{
       const md=await fetchLaw(law);
       const text=plainText(md);
-      if(text.toLowerCase().includes(term.toLowerCase())||law.title.toLowerCase().includes(term.toLowerCase())||law.short.toLowerCase().includes(term.toLowerCase())){
+      if(text.toLowerCase().includes(clean.toLowerCase())||law.title.toLowerCase().includes(clean.toLowerCase())||law.short.toLowerCase().includes(clean.toLowerCase())){
         matches.push({law,text});
       }
     }catch(e){/* einzelne fehlende Datei überspringen */}
   }
 
-  searchResults.innerHTML=`<h2>Suchergebnisse für „${escapeHtml(term)}“</h2>`;
+  searchResults.innerHTML=`<h2>Suchergebnisse für „${escapeHtml(clean)}“</h2>`;
   if(!matches.length){
     searchResults.innerHTML+='<p>Keine Treffer gefunden.</p>';
     return;
@@ -127,7 +167,7 @@ async function searchAll(term){
     button.textContent=`${law.short} – ${law.title}`;
     button.addEventListener('click',()=>openLaw(law));
     const p=document.createElement('p');
-    p.textContent=snippet(text,term);
+    p.textContent=snippet(text,clean);
     item.append(button,p);
     searchResults.appendChild(item);
   });
@@ -138,12 +178,16 @@ function escapeHtml(value){
 }
 
 let debounce;
-searchInput.addEventListener('input',()=>{
+function queueSearch(value){
   clearTimeout(debounce);
-  debounce=setTimeout(()=>searchAll(searchInput.value),250);
-});
+  debounce=setTimeout(()=>searchAll(value),220);
+}
 
+searchInput.addEventListener('input',()=>queueSearch(searchInput.value));
+homeSearchInput.addEventListener('input',()=>queueSearch(homeSearchInput.value));
 menuButton.addEventListener('click',()=>sidebar.classList.toggle('open'));
+homeButton.addEventListener('click',showHome);
+pdButton.addEventListener('click',()=>openLaw(laws[11]));
 
 const initial=decodeURIComponent(location.hash.slice(1));
 const initialLaw=laws.find(l=>l.path===initial);
