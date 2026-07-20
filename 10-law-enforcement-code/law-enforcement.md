@@ -1,10 +1,10 @@
 # San Andreas Law Enforcement Code (SALEC)
 
-> Polizeirecht des State of San Andreas – RP-Fassung
+> Polizeirecht des State of San Andreas
 
 ## Präambel
 
-Der San Andreas Law Enforcement Code regelt Befugnisse, Pflichten und Grenzen staatlicher Vollzugsbehörden. Ziel ist eine wirksame Strafverfolgung bei gleichzeitigem Schutz der verfassungsmäßigen Rechte aller Personen und ein nachvollziehbares, faires GTA-V-Rollenspiel.
+Der San Andreas Law Enforcement Code regelt Befugnisse, Pflichten und Grenzen staatlicher Vollzugsbehörden. Ziel ist eine wirksame und rechtsstaatliche Gefahrenabwehr und Strafverfolgung bei gleichzeitigem Schutz der verfassungsmäßigen Rechte aller Personen.
 
 ---
 
@@ -317,19 +317,19 @@ Besteht eine rechtmäßige Grundlage für die Sicherung relevanter Beweise, gelt
 
 ---
 
-# Title XVI – Übergangsregelung ohne aktive Justiz
+# Title XVI – Richterliche Nichterreichbarkeit und Eilmaßnahmen
 
 ## SALEC § 1601 – Regulärer Vollzug
-Vollzugsbehörden dürfen während der Übergangsphase die gesetzlich vorgesehenen regulären Maßnahmen und unmittelbaren Strafen anwenden.
+Vollzugsbehörden dürfen die gesetzlich vorgesehenen Maßnahmen und unmittelbar vollziehbaren Sanktionen innerhalb ihrer jeweiligen Zuständigkeit anwenden.
 
-## SALEC § 1602 – Warrants
-Ist kein Richter verfügbar, gelten die im Code of Criminal Procedure und Judicial Code vorgesehenen Übergangsregeln mit Vier-Augen-Prinzip durch eine unbeteiligte zuständige Führungskraft.
+## SALEC § 1602 – Eilgenehmigung bei richterlicher Nichterreichbarkeit
+Ist eine richterliche Entscheidung gesetzlich erforderlich, ein zuständiger Richter trotz angemessener Bemühungen jedoch nicht rechtzeitig erreichbar und würde ein Aufschub den Zweck der Maßnahme vereiteln oder eine erhebliche konkrete Gefahr begründen, gelten die im Code of Criminal Procedure und Judicial Code vorgesehenen Eilverfahren. Eine dort zugelassene vorläufige Genehmigung ist durch eine gesetzlich befugte, nicht unmittelbar am Fall beteiligte Führungsperson nach unabhängiger Prüfung zu erteilen.
 
 ## SALEC § 1603 – Grenzen
-Lebenslange Haft, endgültige umfangreiche Vermögenseinziehungen und vergleichbar schwerwiegende endgültige Entscheidungen dürfen nicht allein durch Vollzugsbehörden verhängt werden.
+Lebenslange Freiheitsstrafen, endgültige umfangreiche Vermögenseinziehungen und vergleichbar schwerwiegende endgültige Entscheidungen dürfen nicht allein durch Vollzugsbehörden verhängt werden.
 
-## SALEC § 1604 – Dokumentation
-Entscheidungen, die während der Übergangsphase anstelle einer richterlichen Genehmigung im Vier-Augen-Prinzip getroffen werden, sind besonders nachvollziehbar zu dokumentieren.
+## SALEC § 1604 – Dokumentation und gerichtliche Überprüfung
+Entscheidungen nach § 1602 sind besonders nachvollziehbar zu begründen und zu dokumentieren. Soweit gesetzlich vorgesehen, sind vorläufig genehmigte Maßnahmen dem zuständigen Gericht nach Wiederherstellung der richterlichen Erreichbarkeit unverzüglich zur Überprüfung vorzulegen.
 
 ---
 
