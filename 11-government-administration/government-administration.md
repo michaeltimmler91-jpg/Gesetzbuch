@@ -82,11 +82,17 @@ Polizei-, Sheriff-, Highway-Patrol-, State-Police- und Ermittlungsbehörden hand
 ## SAGAC § 404 – EMS und Rettungswesen
 Staatliche oder staatlich anerkannte medizinische Rettungsdienste erfüllen ihre Aufgaben nach den hierfür geltenden medizinischen und administrativen Regelungen.
 
-## SAGAC § 405 – Unabhängigkeit der Justiz
-Gerichte und Staatsanwaltschaften unterliegen hinsichtlich ihrer justiziellen Kernaufgaben den besonderen Regelungen des Judicial Code.
+## SAGAC § 405 – Justiz und Staatsanwaltschaft
+Gerichte unterliegen hinsichtlich ihrer rechtsprechenden Tätigkeit den besonderen Regelungen des Judicial Code und sind unabhängig. Staatsanwaltschaft und Department of Justice handeln innerhalb ihrer gesetzlichen Zuständigkeiten ebenfalls nach den einschlägigen Bestimmungen des Judicial Code und sonstigen Verfahrensrechts.
 
 ## SAGAC § 406 – Behördenkooperation
 Behörden dürfen im Rahmen ihrer gesetzlichen Aufgaben zusammenarbeiten und erforderliche Informationen austauschen, soweit Datenschutz und besondere Geheimhaltungsvorschriften beachtet werden.
+
+## SAGAC § 407 – Department of Justice (DOJ)
+Der State of San Andreas kann ein Department of Justice als staatliche Justizbehörde unterhalten. Das DOJ kann insbesondere die Staatsanwaltschaft, die rechtliche Vertretung des State of San Andreas sowie gesetzlich zugewiesene Aufgaben der Justizverwaltung und Rechtsberatung wahrnehmen oder organisatorisch unterstützen.
+
+## SAGAC § 408 – Unabhängigkeit der Gerichte vom DOJ
+Gerichte und Richter sind in ihrer Rechtsprechung nicht dem Department of Justice unterstellt. Das DOJ darf Richtern keine Weisungen für konkrete Entscheidungen erteilen und gerichtliche Entscheidungen nicht außerhalb gesetzlich vorgesehener Rechtsmittel aufheben oder verändern.
 
 ---
 
