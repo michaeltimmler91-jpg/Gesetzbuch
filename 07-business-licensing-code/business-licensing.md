@@ -166,26 +166,39 @@ Beschäftigungsverhältnisse können grundsätzlich beendet werden. Vertragliche
 Eine Kündigung kann zivilrechtlich überprüft werden, wenn sie nachweislich gegen einen Vertrag oder ausdrücklich geschützte gesetzliche Rechte verstößt.
 
 ## SABLC § 507 – Verantwortlichkeit von Mitarbeitern
-Mitarbeiter bleiben für eigene vorsätzliche Straftaten persönlich verantwortlich. Die bloße Beschäftigung bei einem Unternehmen begründet keine automatische strafrechtliche Verantwortung für Handlungen anderer.
+Mitarbeiter bleiben für von ihnen selbst begangene, angeordnete, vorsätzlich unterstützte oder sonst nach allgemeinem Strafrecht zurechenbare Straftaten persönlich verantwortlich. Die bloße Beschäftigung bei einem Unternehmen begründet weder eine automatische Verantwortung für Handlungen anderer Mitarbeiter noch eine persönliche Strafbarkeit der Geschäftsführung.
 
 ---
 
 # Title VI – Geschäftsführung und Unternehmensverantwortung
 
 ## SABLC § 601 – Pflichten der Geschäftsführung
-Geschäftsführer und verantwortliche Unternehmensleiter haben die grundlegenden gesetzlichen Verpflichtungen ihres Unternehmens angemessen zu beachten.
+Geschäftsführer und verantwortliche Unternehmensleiter haben die für ihren tatsächlichen Verantwortungsbereich geltenden gesetzlichen Verpflichtungen des Unternehmens angemessen zu beachten. Aus der bloßen Stellung als Eigentümer, Geschäftsführer oder Unternehmensleiter folgt jedoch keine automatische strafrechtliche Verantwortung für jede im Unternehmen begangene Rechtsverletzung.
 
-## SABLC § 602 – Persönliche Strafbarkeit
-Eine Unternehmensposition schützt nicht vor persönlicher Strafbarkeit für selbst begangene, angeordnete oder vorsätzlich unterstützte Straftaten.
+## SABLC § 602 – Persönliche Strafbarkeit verantwortlicher Personen
+Eigentümer, Geschäftsführer, Unternehmensleiter und andere verantwortliche Personen bleiben persönlich strafrechtlich verantwortlich, soweit sie eine Straftat selbst begehen, anordnen, hierzu anstiften oder sie vorsätzlich unterstützen.
 
-## SABLC § 603 – Unternehmenshaftung
-Ein Unternehmen kann nach Maßgabe des Penal Code für zurechenbare schwere Rechtsverstöße verantwortlich gemacht werden.
+Eine persönliche Verantwortlichkeit kann auch bestehen, wenn eine Person in Kenntnis einer konkreten schweren Straftat diese bewusst geschehen lässt, obwohl sie aufgrund einer ausdrücklichen gesetzlichen Pflicht für deren Verhinderung verantwortlich und tatsächlich in der Lage gewesen wäre, die Tat zu verhindern. Eine bloße Unternehmensposition oder nachträgliche Kenntnis genügt hierfür nicht.
+
+## SABLC § 603 – Zurechnung schwerer Rechtsverstöße zum Unternehmen
+Für die Unternehmensverantwortlichkeit nach SAPC § 509 ist ein schwerer Rechtsverstoß einem Unternehmen insbesondere zurechenbar, wenn:
+
+1. er von der Geschäftsführung oder einer für den betroffenen Unternehmensbereich verantwortlichen Leitungsperson im Rahmen von Unternehmensangelegenheiten begangen, angeordnet oder ausdrücklich gebilligt wurde,
+2. er im Auftrag oder zugunsten des Unternehmens begangen und von einer verantwortlichen Leitungsperson in Kenntnis der konkreten Tat vorsätzlich unterstützt oder bewusst geduldet wurde oder
+3. er Ausdruck einer nachweisbaren rechtswidrigen Unternehmenspraxis oder eines auf fortgesetzte schwere Rechtsverstöße ausgerichteten Geschäftsmodells ist.
+
+Eine eigenmächtige private Straftat eines Mitarbeiters ist dem Unternehmen nicht allein deshalb zurechenbar, weil die handelnde Person dort beschäftigt ist oder bei der Tat Betriebsmittel verwendet hat.
 
 ## SABLC § 604 – Keine automatische Haftung
-Eigentümer und Geschäftsführer haften nicht automatisch strafrechtlich für jede eigenmächtige Straftat eines Mitarbeiters.
+Eigentümer, Geschäftsführer und leitende Mitarbeiter haften nicht automatisch für eigenmächtige Straftaten anderer Personen im Unternehmen. Ebenso wird ein Unternehmen nicht automatisch für jede Straftat eines Mitarbeiters verantwortlich. Maßgeblich sind die persönliche Tatbeteiligung und, für eine Unternehmensverantwortlichkeit, die Voraussetzungen des SABLC § 603.
 
 ## SABLC § 605 – Illegale Geschäftsmodelle
 Wird ein Unternehmen nachweislich überwiegend zur Durchführung oder Verschleierung fortgesetzter schwerer Straftaten genutzt, können die gesetzlich vorgesehenen Ermittlungs-, Sicherungs- und Gerichtsverfahren eingeleitet werden. Eine dauerhafte Unternehmensschließung bleibt ausschließlich der hierfür zuständigen Regierung vorbehalten.
+
+## SABLC § 606 – Verhältnis zwischen persönlicher und unternehmerischer Verantwortlichkeit
+Die Verantwortlichkeit eines Unternehmens schließt die persönliche strafrechtliche Verantwortlichkeit der tatsächlich beteiligten natürlichen Personen nicht aus. Umgekehrt führt die Verurteilung eines Mitarbeiters oder einer Leitungsperson nicht ohne Weiteres zu einer zusätzlichen Verantwortlichkeit des Unternehmens, sofern die Voraussetzungen der gesetzlichen Unternehmenszurechnung nicht erfüllt sind.
+
+Gegen ein Unternehmen dürfen nur die gesetzlich vorgesehenen unternehmensbezogenen Geld-, Vermögens-, Lizenz- oder sonstigen Rechtsfolgen angeordnet werden. Freiheitsstrafen richten sich ausschließlich gegen verantwortliche natürliche Personen. Dauerhafte Unternehmensschließungen und endgültige Lizenzentzüge bleiben den hierfür nach diesem Gesetz zuständigen staatlichen Stellen vorbehalten.
 
 ---
 
