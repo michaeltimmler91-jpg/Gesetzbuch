@@ -78,6 +78,8 @@ Die geschädigte Partei kann Ersatz des nachweisbaren Schadens verlangen, der un
 ## SACC § 305 – Specific Performance
 Wenn Geldersatz offensichtlich nicht angemessen ist, kann ein Gericht in geeigneten Fällen die Erfüllung einer vertraglich geschuldeten Handlung anordnen.
 
+Eine solche Anordnung darf jedoch niemanden zur Aufnahme oder Fortsetzung eines Beschäftigungs- oder persönlichen Dienstverhältnisses gegen seinen Willen verpflichten. Das gesetzliche Recht von Arbeitgebern und Arbeitnehmern zur jederzeitigen Beendigung eines Beschäftigungsverhältnisses nach dem Business & Licensing Code bleibt unberührt. Bereits entstandene Vergütungs-, Herausgabe-, Schadensersatz- und sonstige Ansprüche können weiterhin gerichtlich durchgesetzt werden.
+
 ## SACC § 306 – Vertragsauflösung
 Bei einer erheblichen Vertragsverletzung kann ein Vertrag unter angemessenen Voraussetzungen beendet oder rückabgewickelt werden.
 
@@ -265,7 +267,7 @@ Parteien können einen Vergleich schließen, ohne damit zwingend eine strafrecht
 Zivilrechtliche Streitigkeiten werden durch die nach Gesetz zuständigen Gerichte entschieden.
 
 ## SACC § 1202 – Zulässige Rechtsfolgen
-Gerichte können insbesondere Schadensersatz, Rückzahlung, Herausgabe von Eigentum, Vertragserfüllung, Vertragsauflösung und Unterlassung anordnen.
+Gerichte können insbesondere Schadensersatz, Rückzahlung, Herausgabe von Eigentum, Vertragserfüllung, Vertragsauflösung und Unterlassung anordnen. Eine Anordnung zur Vertragserfüllung darf jedoch nicht die zwangsweise Aufnahme oder Fortsetzung eines Beschäftigungs- oder persönlichen Dienstverhältnisses gegen den Willen einer betroffenen Person bewirken.
 
 ## SACC § 1203 – Keine Freiheitsstrafe wegen privater Schulden
 Eine Person darf nicht allein deshalb inhaftiert werden, weil sie eine private zivilrechtliche Schuld nicht bezahlen kann. Strafbare Täuschungs- oder Betrugshandlungen bleiben hiervon unberührt.
