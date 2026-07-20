@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Behördenportal des digitalen Gesetzbuchs des State of San Andreas">
+  <title>Behördenportal | State of San Andreas</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <button id="homeButton" class="brand" type="button" aria-label="Zur Behörden-Schnellsuche">
+      <span class="seal">SA</span>
+      <span>
+        <span class="eyebrow">STATE OF SAN ANDREAS</span>
+        <strong>Behördenportal</strong>
+      </span>
+    </button>
+    <div class="top-actions">
+      <button id="menuButton" class="menu-button" type="button" aria-label="Navigation öffnen" aria-controls="sidebar" aria-expanded="false">☰</button>
+    </div>
+  </header>
+
+  <div class="app-shell">
+    <aside id="sidebar" class="sidebar">
+      <div class="search-wrap">
+        <label>Behörden-Schnellzugriff</label>
+        <div id="pdQuickGrid" class="law-nav"></div>
+      </div>
+      <nav id="lawNav" class="law-nav" aria-label="Gesetzbücher"></nav>
+    </aside>
+
+    <main class="content-wrap">
+      <section id="pdSearch" class="pd-search-view">
+        <div class="pd-search-head">
+          <div>
+            <span class="kicker">BEHÖRDENZUGANG</span>
+            <h1>PD-Schnellsuche</h1>
+            <p>Suche nach Tatbestand, Paragraph oder Stichwort. Strafrahmen und passende Gesetzesstellen werden gemeinsam angezeigt.</p>
+          </div>
+        </div>
+
+        <div class="pd-search-box">
+          <span>⌕</span>
+          <input id="pdSearchInput" type="search" placeholder="z. B. Mord, Flucht, Drogenhandel, DUI …" autocomplete="off">
+        </div>
+        <div class="pd-hint">Tipp: Die Suche funktioniert auch mit englischen Begriffen wie <strong>Murder</strong>, <strong>Robbery</strong> oder <strong>Evading</strong>.</div>
+
+        <div id="pdSearchResults" class="pd-search-results">
+          <div class="pd-empty">Gib oben einen Suchbegriff ein.</div>
+        </div>
+      </section>
+
+      <article id="document" class="document hidden"></article>
+      <div id="loading" class="status hidden">Gesetzbuch wird geladen…</div>
+      <div id="error" class="status error hidden"></div>
+    </main>
+  </div>
+
+  <footer>
+    <span>State of San Andreas · Behördenportal</span>
+    <span>Kein reales Rechtsdokument</span>
+  </footer>
+
+  <script src="pd.js"></script>
+</body>
+</html>
