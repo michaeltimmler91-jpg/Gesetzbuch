@@ -105,7 +105,7 @@ Bei dringendem Verdacht einer schweren Gewalt- oder Waffenstraftat kann eine Vol
 Ist ein zuständiger Richter nicht innerhalb angemessener Frist erreichbar, darf die vorläufige Aussetzung bis zu einer möglichen gerichtlichen Überprüfung aufrechterhalten werden. Die Maßnahme ist zu dokumentieren und unverzüglich aufzuheben, sobald ihre gesetzlichen Voraussetzungen entfallen.
 
 ## SAWC § 304 – Dauerhafter Lizenzentzug
-Ein dauerhafter Entzug einer persönlichen Waffenlizenz oder Carry Permit sowie ein dauerhaftes persönliches Waffenverbot bedürfen grundsätzlich einer Entscheidung des zuständigen Gerichts. Waffenhandelslizenzen und Sondergenehmigungen für Waffen der Klassen III und IV richten sich hinsichtlich Aussetzung und endgültigem Entzug nach SAWC §§ 205 und 206.
+Ein dauerhafter Entzug einer persönlichen Waffenlizenz oder Carry Permit sowie ein dauerhaftes persönliches Waffenverbot bedürfen einer Entscheidung des zuständigen Gerichts. Waffenhandelslizenzen und Sondergenehmigungen für Waffen der Klassen III und IV richten sich hinsichtlich Aussetzung und endgültigem Entzug nach SAWC §§ 205 und 206.
 
 ## SAWC § 305 – Wiedererteilung
 Nach Ablauf eines zeitlich begrenzten Waffenverbots oder einer Sperrfrist kann eine erneute Erteilung beantragt werden, soweit keine fortbestehenden Ausschlussgründe vorliegen.
@@ -278,7 +278,7 @@ Bei schweren Waffenverstößen können betroffene Waffen bis zur Klärung der Re
 Schwere oder wiederholte Waffenverstöße können zu einer zeitlich begrenzten Sperre für die Neuerteilung einer persönlichen Waffen- oder Carry-Lizenz führen.
 
 ## SAWC § 1103 – Dauerhafter Entzug
-Ein dauerhafter Entzug einer persönlichen Waffenlizenz oder Carry Permit ist nur bei besonders schweren oder wiederholten Verstößen und grundsätzlich aufgrund einer gerichtlichen Entscheidung zulässig. Für Waffenhandelslizenzen und Sondergenehmigungen der Klassen III und IV gelten die Zuständigkeitsregeln der SAWC §§ 205 und 206.
+Ein dauerhafter Entzug einer persönlichen Waffenlizenz oder Carry Permit ist nur bei besonders schweren oder wiederholten Verstößen und aufgrund einer gerichtlichen Entscheidung zulässig. Für Waffenhandelslizenzen und Sondergenehmigungen der Klassen III und IV gelten die Zuständigkeitsregeln der SAWC §§ 205 und 206.
 
 ## SAWC § 1104 – Verhältnismäßigkeit
 Waffenrechtliche Maßnahmen müssen der Schwere des Verstoßes, der konkreten Gefährdung und dem Verhalten der betroffenen Person angemessen sein.
@@ -296,7 +296,7 @@ Waffenhandelslizenzen werden ausschließlich durch die nach dem Business & Licen
 Bei dringendem Verdacht einer schweren Gewalt- oder Waffenstraftat kann eine zuständige Vollzugsbehörde ein zeitlich begrenztes vorläufiges Waffenverbot anordnen und Waffen sicherstellen, wenn dies zur Abwehr einer erheblichen Gefahr erforderlich ist.
 
 ## SAWC § 1203 – Dauerhafte Maßnahmen
-Dauerhafte persönliche Waffenverbote und endgültige weitreichende Entzüge persönlicher Waffenlizenzen oder Carry Permits bedürfen grundsätzlich einer gerichtlichen Entscheidung.
+Dauerhafte persönliche Waffenverbote und endgültige weitreichende Entzüge persönlicher Waffenlizenzen oder Carry Permits bedürfen einer gerichtlichen Entscheidung.
 
 Der endgültige Entzug einer Waffenhandelslizenz oder einer staatlichen Sondergenehmigung für Waffen der Klassen III und IV bleibt der jeweils zuständigen Regierung oder Regierungsbehörde vorbehalten. Eine gerichtliche Überprüfung solcher Entscheidungen bleibt nach Maßgabe des geltenden Rechts gewährleistet.
 
