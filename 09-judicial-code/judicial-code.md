@@ -4,7 +4,7 @@
 
 ## Präambel
 
-Der San Andreas Judicial Code regelt Aufbau, Zuständigkeiten und Grundprinzipien der Justiz des State of San Andreas. Ziel ist eine unabhängige, faire und rechtsstaatliche Rechtsprechung mit klaren Zuständigkeiten für Gerichte, Staatsanwaltschaft und Rechtsanwälte.
+Der San Andreas Judicial Code regelt Aufbau, Zuständigkeiten und Grundprinzipien der Justiz des State of San Andreas. Ziel ist eine unabhängige, faire und rechtsstaatliche Rechtsprechung mit klaren Zuständigkeiten für Gerichte, Department of Justice, Staatsanwaltschaft und Rechtsanwälte.
 
 ---
 
@@ -55,7 +55,7 @@ Bei begrenzter personeller Besetzung der Gerichte können Richter mehrere gerich
 # Title III – Richter
 
 ## SAJC § 301 – Richterliche Unabhängigkeit
-Richter dürfen bei ihren Entscheidungen keine Weisungen von Polizei, Staatsanwaltschaft, Regierung, Unternehmen oder Privatpersonen entgegennehmen.
+Richter dürfen bei ihren Entscheidungen keine Weisungen von Polizei, Staatsanwaltschaft, Department of Justice, Regierung, Unternehmen oder Privatpersonen entgegennehmen.
 
 ## SAJC § 302 – Neutralität
 Richter müssen Verfahren unparteiisch und ohne persönliche Interessen führen.
@@ -93,7 +93,7 @@ Wesentliche allgemein geltende Gerichtsregeln sollen öffentlich zugänglich gem
 
 ---
 
-# Title V – Staatsanwaltschaft
+# Title V – Department of Justice und Staatsanwaltschaft
 
 ## SAJC § 501 – Aufgabe der Staatsanwaltschaft
 Die Staatsanwaltschaft vertritt den State of San Andreas in Strafverfahren und führt oder begleitet strafrechtliche Anklagen.
@@ -115,6 +115,11 @@ Die Staatsanwaltschaft kann Verfahren aus rechtlichen, tatsächlichen oder angem
 
 ## SAJC § 507 – Interessenkonflikte
 Staatsanwälte dürfen Verfahren nicht aus persönlichen Interessen führen oder beeinflussen.
+
+## SAJC § 508 – Department of Justice (DOJ)
+Das Department of Justice kann als staatliche Justizbehörde insbesondere die Staatsanwaltschaft, die rechtliche Vertretung des State of San Andreas sowie gesetzlich zugewiesene Aufgaben der Justizverwaltung und Rechtsberatung wahrnehmen oder organisatorisch unterstützen.
+
+Gerichte und Richter sind in ihrer Rechtsprechung nicht dem Department of Justice unterstellt. Das DOJ besitzt keine Weisungsbefugnis gegenüber Richtern und darf gerichtliche Entscheidungen nicht außerhalb gesetzlich vorgesehener Rechtsmittel beeinflussen oder aufheben.
 
 ---
 
@@ -299,8 +304,10 @@ Polizei- und Vollzugsbehörden dürfen die im Sentencing & Fine Schedule ausdrü
 ## SAJC § 1403 – Vorläufige Eilgenehmigung richterlich vorbehaltener Maßnahmen
 Soweit nach dem Code of Criminal Procedure eine vorläufige Eilgenehmigung zulässig ist und ein zuständiger Richter nicht rechtzeitig erreichbar ist, kann die dort bestimmte unbeteiligte ranghohe Führungskraft nach dem Vier-Augen-Prinzip entscheiden. Die tatsächliche und rechtliche Grundlage ist nachvollziehbar zu dokumentieren. Die Maßnahme ist auf das unbedingt erforderliche Maß zu beschränken und einer gerichtlichen Überprüfung zuzuführen, sobald dies möglich ist.
 
-## SAJC § 1404 – Gerichtlicher Entscheidungsvorbehalt
-Lebenslange Freiheitsstrafen, endgültige umfangreiche Vermögenseinziehungen, dauerhafte Unternehmensschließungen und vergleichbar schwerwiegende endgültige Entscheidungen bleiben einem zuständigen Gericht vorbehalten und dürfen nicht aufgrund einer vorläufigen Eilzuständigkeit endgültig angeordnet werden.
+## SAJC § 1404 – Gerichtliche und administrative Entscheidungsvorbehalte
+Lebenslange Freiheitsstrafen, endgültige umfangreiche Vermögenseinziehungen und andere nach Gesetz ausschließlich Gerichten vorbehaltene endgültige Entscheidungen bleiben einem zuständigen Gericht vorbehalten und dürfen nicht aufgrund einer vorläufigen Eilzuständigkeit endgültig angeordnet werden.
+
+Dauerhafte Unternehmensschließungen und endgültige Entzüge von Gewerbe- oder Unternehmenslizenzen richten sich nach dem Business & Licensing Code und bleiben der zuständigen Regierung oder Regierungsbehörde vorbehalten. Gerichte können solche Entscheidungen nach Maßgabe des Gesetzes überprüfen, übernehmen dadurch jedoch nicht die administrative Zuständigkeit der Regierung.
 
 ## SAJC § 1405 – Vorübergehende Nichtverfügbarkeit von Rechtsbeistand
 Ist ein zugelassener Rechtsbeistand trotz angemessener Bemühungen nicht innerhalb einer vertretbaren Zeit erreichbar, gelten die besonderen Verfahrensregeln des Code of Criminal Procedure. Das Schweigerecht und das Verbot erzwungener Selbstbelastung bleiben uneingeschränkt bestehen. Bei Verfahren, die zu einer lebenslangen Freiheitsstrafe führen können, ist vor einer endgültigen Verurteilung eine angemessene Verteidigung sicherzustellen.
