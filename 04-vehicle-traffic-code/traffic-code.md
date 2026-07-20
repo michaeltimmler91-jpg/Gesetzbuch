@@ -86,16 +86,18 @@ Fußgänger dürfen durch die Führung eines Fahrzeugs nicht vorsätzlich oder g
 Kraftfahrzeuge dürfen im öffentlichen Verkehrsraum nur mit der jeweils erforderlichen gültigen Fahrerlaubnis geführt werden.
 
 ## SAVC § 302 – Fahrerlaubnisklassen und Erteilung
-Der State of San Andreas kann insbesondere folgende Fahrerlaubnisse vorsehen:
+Der State of San Andreas kann insbesondere folgende persönliche Fahrerlaubnisse und fahrerbezogene Berechtigungen vorsehen:
 
 1. PKW-Führerschein,
 2. Motorradführerschein,
 3. LKW-Führerschein,
-4. Bus- und Personenbeförderungslizenz,
-5. gewerbliche Personenbeförderungslizenz, insbesondere Taxi,
+4. Busfahrerlaubnis oder persönliche Berechtigung zur gewerblichen Personenbeförderung mit Bussen,
+5. persönliche Berechtigung zur gewerblichen Personenbeförderung, insbesondere als Taxi- oder vergleichbarer Fahrer,
 6. Helikopterlizenz,
 7. Flugzeuglizenz,
 8. Bootslizenz.
+
+Die in diesem Paragraphen geregelten Fahrerlaubnisse und fahrerbezogenen Berechtigungen sind persönliche Berechtigungen des Fahrzeugführers. Sie ersetzen keine nach dem Business & Licensing Code erforderliche Gewerbe- oder Unternehmenslizenz eines Taxi-, Bus- oder sonstigen Personenbeförderungsunternehmens.
 
 Die Erteilung einer persönlichen Fahrerlaubnis erfolgt durch die zuständige staatliche Fahrerlaubnisstelle. Voraussetzung ist grundsätzlich das erfolgreiche Bestehen einer theoretischen Prüfung über die wesentlichen Verkehrsregeln sowie einer praktischen Fahrprüfung für die jeweilige Fahrerlaubnisklasse. Die Prüfungen werden durch die zuständige staatliche Fahrerlaubnisstelle oder eine hierzu gesetzlich befugte Prüfstelle abgenommen. Ausbildung und Prüfung können auch durch staatlich anerkannte Fahrschulen oder andere hierzu befugte Prüfstellen durchgeführt werden, soweit solche Stellen eingerichtet sind.
 
@@ -114,7 +116,7 @@ Bei schweren oder wiederholten Verkehrsdelikten kann eine zuständige Vollzugsbe
 Ist ein zuständiger Richter innerhalb angemessener Frist nicht erreichbar, darf eine solche vorläufige Maßnahme bis zu einer möglichen gerichtlichen Überprüfung aufrechterhalten werden. Sie ist zu dokumentieren und aufzuheben, sobald die gesetzlichen Voraussetzungen entfallen.
 
 ## SAVC § 307 – Dauerhafter Fahrerlaubnisentzug
-Ein dauerhafter Entzug einer Fahrerlaubnis bedarf grundsätzlich einer gerichtlichen Entscheidung. Vorläufige Maßnahmen der Vollzugsbehörden nach SAVC § 306 bleiben hiervon unberührt.
+Ein dauerhafter Entzug einer Fahrerlaubnis bedarf einer gerichtlichen Entscheidung. Vorläufige Maßnahmen der Vollzugsbehörden nach SAVC § 306 bleiben hiervon unberührt.
 
 ---
 
