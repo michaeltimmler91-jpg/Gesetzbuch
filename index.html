@@ -69,6 +69,25 @@
         </section>
       </section>
 
+      <section id="pdSearch" class="pd-search-view hidden">
+        <div class="pd-search-head">
+          <div>
+            <span class="kicker">POLICE DEPARTMENT</span>
+            <h1>PD-Schnellsuche</h1>
+            <p>Suche nach Tatbestand, Paragraph oder Stichwort. Strafrahmen und passende Gesetzesstellen werden gemeinsam angezeigt.</p>
+          </div>
+          <button id="closePdButton" class="secondary-button" type="button">Zurück</button>
+        </div>
+        <div class="pd-search-box">
+          <span>⌕</span>
+          <input id="pdSearchInput" type="search" placeholder="z. B. Mord, Flucht, Drogenhandel, DUI …" autocomplete="off">
+        </div>
+        <div class="pd-hint">Tipp: Die Suche funktioniert auch mit englischen Begriffen wie <strong>Murder</strong>, <strong>Robbery</strong> oder <strong>Evading</strong>.</div>
+        <div id="pdSearchResults" class="pd-search-results">
+          <div class="pd-empty">Gib oben einen Suchbegriff ein.</div>
+        </div>
+      </section>
+
       <section id="searchResults" class="search-results hidden"></section>
       <article id="document" class="document hidden"></article>
       <div id="loading" class="status hidden">Gesetzbuch wird geladen…</div>
