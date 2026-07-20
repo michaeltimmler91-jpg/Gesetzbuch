@@ -189,16 +189,18 @@ Wird ein Unternehmen nachweislich überwiegend zur Durchführung oder Verschleie
 
 ---
 
-# Title VII – Buchführung, Steuern und Finanztransparenz
+# Title VII – Buchführung und Finanztransparenz
 
 ## SABLC § 701 – Nachvollziehbare Geschäftsvorgänge
-Unternehmen haben wesentliche Geschäftsvorgänge in einer den gesetzlichen Anforderungen entsprechenden und nachvollziehbaren Form zu dokumentieren, soweit dies für Steuer-, Eigentums-, Lizenz- oder Aufsichtszwecke erforderlich und zumutbar ist.
+Unternehmen haben wesentliche Geschäftsvorgänge in einer den gesetzlichen Anforderungen entsprechenden und nachvollziehbaren Form zu dokumentieren, soweit dies für Eigentums-, Register-, Lizenz- oder Aufsichtszwecke erforderlich und zumutbar ist.
 
-## SABLC § 702 – Steuerpflicht
-Gesetzlich festgelegte Unternehmenssteuern und Abgaben sind zu entrichten.
+## SABLC § 702 – Keine Unternehmenssteuern, Lizenzgebühren oder laufenden staatlichen Unternehmensabgaben
+Unternehmen unterliegen nach diesem Gesetz keinen allgemeinen Unternehmenssteuern, Lizenzgebühren oder sonstigen laufenden staatlichen Unternehmensabgaben. Unternehmensregistrierungen sowie die nach diesem Gesetz vorgesehenen Gewerbe-, Unternehmens-, Spezial- und Berufslizenzen werden ohne staatliche Gebühr erteilt oder geführt.
 
-## SABLC § 703 – Steuerhinterziehung
-Vorsätzliche Steuerhinterziehung richtet sich nach dem San Andreas Penal Code.
+Geldstrafen, Bußgelder, Schadensersatzansprüche und sonstige Sanktionen aufgrund von Rechtsverstößen sind keine Steuern, Gebühren oder laufenden Unternehmensabgaben im Sinne dieser Vorschrift.
+
+## SABLC § 703 – Keine Steuerstraftat ohne bestehende Steuerpflicht
+Solange keine ausdrückliche gesetzliche Unternehmenssteuer oder staatliche Unternehmensabgabe besteht, kann die Nichtzahlung einer solchen nicht bestehenden Abgabe keine Steuerhinterziehung oder vergleichbare Pflichtverletzung eines Unternehmens begründen.
 
 ## SABLC § 704 – Geldwäsche
 Unternehmen dürfen nicht wissentlich zur Verschleierung von Vermögenswerten aus Straftaten eingesetzt werden.
@@ -320,4 +322,4 @@ Unmittelbar notwendige Maßnahmen zur Abwehr konkreter erheblicher Gefahren blei
 
 ## Hinweis
 
-Konkrete Lizenzgebühren, Steuersätze, Bußgelder und besondere wirtschaftliche Grenzwerte werden durch die hierfür zuständigen gesetzgebenden oder administrativen Stellen in den dafür vorgesehenen Rechtsakten oder im zentralen `Sentencing & Fine Schedule` festgelegt. Änderungen dürfen nicht rückwirkend zu einer nachträglichen Verschärfung bereits abgeschlossener Sachverhalte führen.
+Konkrete Geldstrafen, Bußgelder und sonstige Sanktionen aufgrund von Rechtsverstößen richten sich nach den einschlägigen Gesetzen und dem zentralen `Sentencing & Fine Schedule`. Unternehmensregistrierungen und die nach diesem Gesetz vorgesehenen Lizenzen sind gebührenfrei; allgemeine Unternehmenssteuern und laufende staatliche Unternehmensabgaben werden nach diesem Gesetz nicht erhoben.
