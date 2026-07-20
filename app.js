@@ -1,26 +1,20 @@
 const laws=[
-{title:'Constitution of the State of San Andreas',short:'Verfassung',path:'01-constitution/constitution.md'},
-{title:'San Andreas Penal Code (SAPC)',short:'Strafgesetzbuch',path:'02-penal-code/penal-code.md'},
-{title:'Code of Criminal Procedure (SACCP)',short:'Strafprozessordnung',path:'03-criminal-procedure/criminal-procedure.md'},
-{title:'Vehicle & Traffic Code (SAVC)',short:'Verkehrsrecht',path:'04-vehicle-traffic-code/traffic-code.md'},
-{title:'Firearms & Weapons Code (SAWC)',short:'Waffenrecht',path:'05-firearms-weapons-code/weapons-code.md'},
-{title:'Controlled Substances Act (SACSA)',short:'Betäubungsmittelrecht',path:'06-controlled-substances-act/controlled-substances.md'},
-{title:'Business & Licensing Code (SABLC)',short:'Gewerbe & Lizenzen',path:'07-business-licensing-code/business-licensing.md'},
-{title:'Civil Code (SACC)',short:'Zivilrecht',path:'08-civil-code/civil-code.md'},
-{title:'Judicial Code (SAJC)',short:'Justiz',path:'09-judicial-code/judicial-code.md'},
-{title:'Law Enforcement Code (SALEC)',short:'Polizeirecht',path:'10-law-enforcement-code/law-enforcement.md'},
-{title:'Government & Administration Code (SAGAC)',short:'Regierung & Verwaltung',path:'11-government-administration/government-administration.md'},
-{title:'Sentencing & Fine Schedule',short:'Straf- & Bußgeldkatalog',path:'12-sentencing-fine-schedule/sentencing-fine-schedule.md'}
-];
-
-const pdQuick=[
-{label:'Strafgesetzbuch',index:1},{label:'Strafprozessordnung',index:2},{label:'Verkehrsrecht',index:3},
-{label:'Waffenrecht',index:4},{label:'Drogenrecht',index:5},{label:'Polizeirecht',index:9},{label:'Strafkatalog',index:11}
+  {title:'Constitution of the State of San Andreas',short:'Verfassung',path:'01-constitution/constitution.md'},
+  {title:'San Andreas Penal Code (SAPC)',short:'Strafgesetzbuch',path:'02-penal-code/penal-code.md'},
+  {title:'Code of Criminal Procedure (SACCP)',short:'Strafprozessordnung',path:'03-criminal-procedure/criminal-procedure.md'},
+  {title:'Vehicle & Traffic Code (SAVC)',short:'Verkehrsrecht',path:'04-vehicle-traffic-code/traffic-code.md'},
+  {title:'Firearms & Weapons Code (SAWC)',short:'Waffenrecht',path:'05-firearms-weapons-code/weapons-code.md'},
+  {title:'Controlled Substances Act (SACSA)',short:'Betäubungsmittelrecht',path:'06-controlled-substances-act/controlled-substances.md'},
+  {title:'Business & Licensing Code (SABLC)',short:'Gewerbe & Lizenzen',path:'07-business-licensing-code/business-licensing.md'},
+  {title:'Civil Code (SACC)',short:'Zivilrecht',path:'08-civil-code/civil-code.md'},
+  {title:'Judicial Code (SAJC)',short:'Justiz',path:'09-judicial-code/judicial-code.md'},
+  {title:'Law Enforcement Code (SALEC)',short:'Polizeirecht',path:'10-law-enforcement-code/law-enforcement.md'},
+  {title:'Government & Administration Code (SAGAC)',short:'Regierung & Verwaltung',path:'11-government-administration/government-administration.md'},
+  {title:'Sentencing & Fine Schedule',short:'Straf- & Bußgeldkatalog',path:'12-sentencing-fine-schedule/sentencing-fine-schedule.md'}
 ];
 
 const nav=document.getElementById('lawNav');
 const quickGrid=document.getElementById('quickGrid');
-const pdQuickGrid=document.getElementById('pdQuickGrid');
 const documentEl=document.getElementById('document');
 const welcome=document.getElementById('welcome');
 const searchInput=document.getElementById('searchInput');
@@ -31,15 +25,9 @@ const errorEl=document.getElementById('error');
 const sidebar=document.getElementById('sidebar');
 const menuButton=document.getElementById('menuButton');
 const homeButton=document.getElementById('homeButton');
-const pdButton=document.getElementById('pdButton');
-const pdSearch=document.getElementById('pdSearch');
-const pdSearchInput=document.getElementById('pdSearchInput');
-const pdSearchResults=document.getElementById('pdSearchResults');
-const closePdButton=document.getElementById('closePdButton');
 
-let cache=new Map();
+const cache=new Map();
 let activePath=null;
-let pdIndex=null;
 
 laws.forEach((law,index)=>{
   const btn=document.createElement('button');
@@ -61,14 +49,6 @@ laws.forEach((law,index)=>{
   quickGrid.appendChild(card);
 });
 
-pdQuick.forEach(item=>{
-  const btn=document.createElement('button');
-  btn.className='pd-quick';
-  btn.textContent=item.label;
-  btn.addEventListener('click',()=>openLaw(laws[item.index]));
-  pdQuickGrid.appendChild(btn);
-});
-
 async function fetchLaw(law){
   if(cache.has(law.path)) return cache.get(law.path);
   const response=await fetch(law.path);
@@ -82,7 +62,6 @@ function hideViews(){
   welcome.classList.add('hidden');
   searchResults.classList.add('hidden');
   documentEl.classList.add('hidden');
-  pdSearch.classList.add('hidden');
   errorEl.classList.add('hidden');
 }
 
@@ -95,12 +74,10 @@ function closeMobileMenu(){
   if(window.innerWidth<=850) setMenuOpen(false);
 }
 
-function updateRoute(hash,replace=false){
+function updateRoute(hash){
   const target=`${location.pathname}${location.search}${hash||''}`;
   const current=`${location.pathname}${location.search}${location.hash}`;
-  if(target===current) return;
-  if(replace) history.replaceState(null,'',target);
-  else history.pushState(null,'',target);
+  if(target!==current) history.pushState(null,'',target);
 }
 
 async function openLaw(law,updateHistory=true){
@@ -119,7 +96,9 @@ async function openLaw(law,updateHistory=true){
   }catch(err){
     errorEl.textContent=err.message;
     errorEl.classList.remove('hidden');
-  }finally{loading.classList.add('hidden');}
+  }finally{
+    loading.classList.add('hidden');
+  }
 }
 
 function showHome(updateHistory=true){
@@ -128,7 +107,6 @@ function showHome(updateHistory=true){
   welcome.classList.remove('hidden');
   searchInput.value='';
   homeSearchInput.value='';
-  pdSearchInput.value='';
   document.querySelectorAll('.law-link').forEach(el=>el.classList.remove('active'));
   if(updateHistory) updateRoute('');
   window.scrollTo({top:0,behavior:'smooth'});
@@ -151,8 +129,8 @@ async function searchAll(term){
   const clean=term.trim();
   searchInput.value=term;
   homeSearchInput.value=term;
+
   if(clean.length<2){
-    searchResults.classList.add('hidden');
     if(activePath){
       const law=laws.find(l=>l.path===activePath);
       if(law) return openLaw(law,false);
@@ -161,6 +139,7 @@ async function searchAll(term){
     welcome.classList.remove('hidden');
     return;
   }
+
   hideViews();
   searchResults.classList.remove('hidden');
   searchResults.innerHTML='<h2>Suche</h2><div class="status">Gesetzbücher werden durchsucht…</div>';
@@ -177,7 +156,11 @@ async function searchAll(term){
   const matches=checked.filter(Boolean);
 
   searchResults.innerHTML=`<h2>Suchergebnisse für „${escapeHtml(clean)}“</h2>`;
-  if(!matches.length){searchResults.innerHTML+='<p>Keine Treffer gefunden.</p>';return;}
+  if(!matches.length){
+    searchResults.innerHTML+='<p>Keine Treffer gefunden.</p>';
+    return;
+  }
+
   matches.forEach(({law,text})=>{
     const item=document.createElement('div');
     item.className='result-item';
@@ -191,102 +174,8 @@ async function searchAll(term){
   });
 }
 
-function extractSections(md,law){
-  const lines=md.split(/\r?\n/),sections=[];
-  for(let i=0;i<lines.length;i++){
-    const m=lines[i].match(/^##\s+(.+?)\s+§\s*([\d.]+)\s*[–-]\s*(.+)$/);
-    if(!m) continue;
-    const code=m[1].trim(),paragraph=m[2].trim(),title=m[3].trim();
-    let body=[];
-    for(let j=i+1;j<lines.length&&!/^##\s+/.test(lines[j]);j++){
-      const t=lines[j].trim();
-      if(t&&!/^---$/.test(t)) body.push(t);
-      if(body.join(' ').length>420) break;
-    }
-    sections.push({law,code,paragraph,title,body:plainText(body.join(' '))});
-  }
-  return sections;
-}
-
-function parseSentencingRows(md){
-  const lines=md.split(/\r?\n/),rows=[];
-  let section='Strafkatalog',headers=[];
-  for(let i=0;i<lines.length;i++){
-    const heading=lines[i].match(/^#\s+(.+)/);
-    if(heading) section=heading[1].replace(/^Title\s+[^–-]+[–-]\s*/,'').trim();
-    if(!lines[i].trim().startsWith('|')) continue;
-    const cells=lines[i].split('|').slice(1,-1).map(c=>c.trim());
-    const next=(lines[i+1]||'').trim();
-    if(next.startsWith('|')&&/^\|?[\s:|-]+\|?$/.test(next)){headers=cells;i++;continue;}
-    if(!headers.length||cells.length<2) continue;
-    const obj={section};
-    headers.forEach((h,idx)=>obj[h]=cells[idx]||'–');
-    const name=obj['Tatbestand']||obj['Klasse'];
-    if(name) rows.push({name,section,data:obj});
-  }
-  return rows;
-}
-
-async function buildPdIndex(){
-  if(pdIndex) return pdIndex;
-  const sections=[];
-  const sectionDocs=await Promise.all(laws.slice(1,11).map(async law=>{
-    try{return extractSections(await fetchLaw(law),law);}catch(e){return [];}
-  }));
-  sectionDocs.forEach(items=>sections.push(...items));
-
-  let penalties=[];
-  try{penalties=parseSentencingRows(await fetchLaw(laws[11]));}catch(e){}
-  pdIndex={sections,penalties};
-  return pdIndex;
-}
-
-function penaltyCard(row){
-  const d=row.data;
-  const money=d['Geldstrafe']||'–',jail=d['Haft']||'–',extra=d['Nebenfolgen']||d['Mögliche Nebenfolgen']||'–';
-  return `<article class="penalty-card"><div class="penalty-top"><span class="penalty-section">${escapeHtml(row.section)}</span><strong>${escapeHtml(row.name)}</strong></div><div class="penalty-grid"><div><span>Geldstrafe</span><b>${escapeHtml(money)}</b></div><div><span>Haft</span><b>${escapeHtml(jail)}</b></div><div><span>Nebenfolgen</span><b>${escapeHtml(extra)}</b></div></div></article>`;
-}
-
-function sectionCard(s){
-  return `<article class="law-hit"><button type="button" data-path="${escapeHtml(s.law.path)}"><span>${escapeHtml(s.code)} § ${escapeHtml(s.paragraph)}</span><strong>${escapeHtml(s.title)}</strong></button><p>${escapeHtml(s.body.slice(0,260))}${s.body.length>260?'…':''}</p><small>${escapeHtml(s.law.short)}</small></article>`;
-}
-
-async function runPdSearch(term){
-  const q=term.trim().toLowerCase();
-  if(q.length<2){pdSearchResults.innerHTML='<div class="pd-empty">Gib oben einen Suchbegriff ein.</div>';return;}
-  pdSearchResults.innerHTML='<div class="status">Strafkatalog und Gesetze werden durchsucht…</div>';
-  const index=await buildPdIndex();
-  const penaltyMatches=index.penalties.filter(r=>JSON.stringify(r).toLowerCase().includes(q)).slice(0,20);
-  const sectionMatches=index.sections.filter(s=>`${s.code} § ${s.paragraph} ${s.title} ${s.body} ${s.law.short}`.toLowerCase().includes(q)).slice(0,25);
-  let html=`<div class="pd-result-summary"><strong>${penaltyMatches.length+sectionMatches.length}</strong> Treffer für „${escapeHtml(term.trim())}“</div>`;
-  if(penaltyMatches.length) html+='<h2>Strafen & Maßnahmen</h2><div class="penalty-list">'+penaltyMatches.map(penaltyCard).join('')+'</div>';
-  if(sectionMatches.length) html+='<h2>Passende Paragraphen</h2><div class="law-hit-list">'+sectionMatches.map(sectionCard).join('')+'</div>';
-  if(!penaltyMatches.length&&!sectionMatches.length) html+='<div class="pd-empty">Keine passenden Treffer gefunden.</div>';
-  pdSearchResults.innerHTML=html;
-  pdSearchResults.querySelectorAll('[data-path]').forEach(btn=>btn.addEventListener('click',()=>{
-    const law=laws.find(l=>l.path===btn.dataset.path);
-    if(law) openLaw(law);
-  }));
-}
-
-async function showPdSearch(updateHistory=true){
-  activePath=null;
-  hideViews();
-  pdSearch.classList.remove('hidden');
-  document.querySelectorAll('.law-link').forEach(el=>el.classList.remove('active'));
-  if(updateHistory) updateRoute('#pd-search');
-  window.scrollTo({top:0,behavior:'smooth'});
-  closeMobileMenu();
-  setTimeout(()=>pdSearchInput.focus(),100);
-  await buildPdIndex();
-}
-
 function routeFromLocation(){
   const initial=decodeURIComponent(location.hash.slice(1));
-  if(initial==='pd-search'){
-    showPdSearch(false);
-    return;
-  }
   const initialLaw=laws.find(l=>l.path===initial);
   if(initialLaw){
     openLaw(initialLaw,false);
@@ -299,15 +188,16 @@ function escapeHtml(value){
   return String(value).replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
 }
 
-let debounce,debouncePd;
-function queueSearch(value){clearTimeout(debounce);debounce=setTimeout(()=>searchAll(value),220);}
+let debounce;
+function queueSearch(value){
+  clearTimeout(debounce);
+  debounce=setTimeout(()=>searchAll(value),220);
+}
+
 searchInput.addEventListener('input',()=>queueSearch(searchInput.value));
 homeSearchInput.addEventListener('input',()=>queueSearch(homeSearchInput.value));
-pdSearchInput.addEventListener('input',()=>{clearTimeout(debouncePd);debouncePd=setTimeout(()=>runPdSearch(pdSearchInput.value),180);});
 menuButton.addEventListener('click',()=>setMenuOpen(!sidebar.classList.contains('open')));
 homeButton.addEventListener('click',()=>showHome());
-pdButton.addEventListener('click',()=>showPdSearch());
-closePdButton.addEventListener('click',()=>showHome());
 window.addEventListener('popstate',routeFromLocation);
 window.addEventListener('resize',()=>{if(window.innerWidth>850)setMenuOpen(false);});
 document.addEventListener('keydown',event=>{if(event.key==='Escape'&&sidebar.classList.contains('open'))setMenuOpen(false);});
