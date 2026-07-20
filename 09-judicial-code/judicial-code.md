@@ -1,10 +1,10 @@
 # San Andreas Judicial Code (SAJC)
 
-> Justiz- und Gerichtsorganisationsrecht des State of San Andreas – RP-Fassung
+> Justiz- und Gerichtsorganisationsrecht des State of San Andreas
 
 ## Präambel
 
-Der San Andreas Judicial Code regelt Aufbau, Zuständigkeiten und Grundprinzipien der Justiz des State of San Andreas. Ziel ist eine unabhängige, faire und RP-taugliche Rechtsprechung mit klaren Rollen für Gerichte, Staatsanwaltschaft und Rechtsanwälte.
+Der San Andreas Judicial Code regelt Aufbau, Zuständigkeiten und Grundprinzipien der Justiz des State of San Andreas. Ziel ist eine unabhängige, faire und rechtsstaatliche Rechtsprechung mit klaren Zuständigkeiten für Gerichte, Staatsanwaltschaft und Rechtsanwälte.
 
 ---
 
@@ -47,8 +47,8 @@ Ein Supreme Court kann als höchstes Gericht des State of San Andreas eingericht
 ## SAJC § 205 – Spezialisierte Zuständigkeiten
 Der Chief Justice oder eine gesetzlich zuständige Stelle kann innerhalb der Gerichtsorganisation sachliche Zuständigkeiten verteilen, soweit dies der effizienten Rechtspflege dient.
 
-## SAJC § 206 – Kleine Justizstruktur
-Solange nur wenige Justizmitarbeiter aktiv sind, können Richter mehrere gerichtliche Zuständigkeiten wahrnehmen. Die Unabhängigkeit und Befangenheitsregeln bleiben bestehen.
+## SAJC § 206 – Begrenzte personelle Besetzung
+Bei begrenzter personeller Besetzung der Gerichte können Richter mehrere gerichtliche Zuständigkeiten wahrnehmen. Die richterliche Unabhängigkeit und die Befangenheitsregeln bleiben uneingeschränkt bestehen.
 
 ---
 
@@ -141,8 +141,8 @@ Der State of San Andreas kann ein Zulassungs- oder Bar-System für Rechtsanwält
 ## SAJC § 607 – Pflichtverteidigung
 Soweit organisatorisch möglich, kann bei schweren Strafverfahren ein Pflichtverteidiger oder staatlich bereitgestellter Rechtsbeistand vorgesehen werden.
 
-## SAJC § 608 – Fehlender Anwalt in der Übergangsphase
-Ist während der Serverstartphase kein Anwalt verfügbar, führt dies nicht automatisch zur dauerhaften Unmöglichkeit einer rechtmäßigen Strafverfolgung. Die besonderen Übergangsregeln des Code of Criminal Procedure sind zu beachten.
+## SAJC § 608 – Vorübergehende Nichtverfügbarkeit eines Rechtsanwalts
+Ist trotz angemessener Bemühungen innerhalb einer für das Verfahren vertretbaren Zeit kein zugelassener Rechtsanwalt verfügbar, führt dies nicht automatisch zur dauerhaften Unmöglichkeit einer rechtmäßigen Strafverfolgung. Die besonderen Verfahrensregeln des Code of Criminal Procedure sind zu beachten. Das Recht des Beschuldigten zu schweigen und sich nicht selbst belasten zu müssen bleibt unberührt.
 
 ---
 
@@ -194,8 +194,8 @@ Personen mit erheblichem persönlichem Interesse oder konkreter Befangenheit dü
 ## SAJC § 805 – Schutz der Jury
 Bedrohung, Bestechung oder unzulässige Beeinflussung von Jurymitgliedern ist verboten und kann strafrechtlich verfolgt werden.
 
-## SAJC § 806 – Fehlende Jury
-Ist aufgrund der Spielerzahl keine angemessene Jury verfügbar, kann ein Verfahren durch einen oder mehrere Richter entschieden werden.
+## SAJC § 806 – Nichtverfügbarkeit einer Jury
+Ist die Bildung einer ordnungsgemäß besetzten und unparteiischen Jury trotz angemessener Bemühungen nicht möglich, kann das Verfahren nach Maßgabe der Verfahrensgesetze durch einen oder mehrere Richter entschieden werden.
 
 ---
 
@@ -288,25 +288,25 @@ Richter und Staatsanwälte dürfen nicht allein deshalb persönlich verfolgt wer
 
 ---
 
-# Title XIV – Übergangsregelung ohne aktive Justiz
+# Title XIV – Außerordentliche Verfahrenszuständigkeiten
 
-## SAJC § 1401 – Ruhende reguläre Justiz
-Solange keine ausreichend besetzte aktive Justiz vorhanden ist, finden reguläre Gerichtsverfahren nur statt, wenn die erforderlichen Rollen tatsächlich besetzt werden können.
+## SAJC § 1401 – Vorübergehende Nichterreichbarkeit eines Gerichts
+Ist ein zuständiges Gericht oder ein zuständiger Richter trotz angemessener Bemühungen nicht innerhalb einer für die konkrete Maßnahme vertretbaren Zeit erreichbar, bleiben die gesetzlich vorgesehenen Ermittlungs-, Vollzugs- und Verwaltungsbefugnisse der zuständigen Behörden bestehen. Richterlich vorbehaltene Kernentscheidungen dürfen nur aufgrund einer ausdrücklich gesetzlich vorgesehenen Eilregelung vorläufig ersetzt werden.
 
-## SAJC § 1402 – Reguläre Polizeistrafen
-Polizei- und Vollzugsbehörden dürfen während der Übergangsphase die im Sentencing & Fine Schedule ausdrücklich für den unmittelbaren Vollzug vorgesehenen regulären Strafen anwenden.
+## SAJC § 1402 – Unmittelbar vollziehbare Sanktionen
+Polizei- und Vollzugsbehörden dürfen die im Sentencing & Fine Schedule ausdrücklich für den unmittelbaren Vollzug vorgesehenen Sanktionen anwenden, soweit das Gesetz die betreffende Entscheidung nicht einem Gericht vorbehält.
 
-## SAJC § 1403 – Vier-Augen-Prinzip bei Warrants
-Soweit ein Warrant erforderlich ist und kein Richter verfügbar ist, kann eine gesetzlich bestimmte unbeteiligte PD-Führungskraft im Vier-Augen-Prinzip eine vorläufige Genehmigung erteilen. Die Entscheidung ist nachvollziehbar zu dokumentieren.
+## SAJC § 1403 – Vorläufige Eilgenehmigung richterlich vorbehaltener Maßnahmen
+Soweit nach dem Code of Criminal Procedure eine vorläufige Eilgenehmigung zulässig ist und ein zuständiger Richter nicht rechtzeitig erreichbar ist, kann die dort bestimmte unbeteiligte ranghohe Führungskraft nach dem Vier-Augen-Prinzip entscheiden. Die tatsächliche und rechtliche Grundlage ist nachvollziehbar zu dokumentieren. Die Maßnahme ist auf das unbedingt erforderliche Maß zu beschränken und einer gerichtlichen Überprüfung zuzuführen, sobald dies möglich ist.
 
-## SAJC § 1404 – Grenzen der Übergangsregelung
-Lebenslange Freiheitsstrafen, endgültige umfangreiche Vermögenseinziehungen, dauerhafte Unternehmensschließungen und vergleichbar schwerwiegende endgültige Entscheidungen sind ohne aktive Justiz grundsätzlich ausgeschlossen.
+## SAJC § 1404 – Gerichtlicher Entscheidungsvorbehalt
+Lebenslange Freiheitsstrafen, endgültige umfangreiche Vermögenseinziehungen, dauerhafte Unternehmensschließungen und vergleichbar schwerwiegende endgültige Entscheidungen bleiben einem zuständigen Gericht vorbehalten und dürfen nicht aufgrund einer vorläufigen Eilzuständigkeit endgültig angeordnet werden.
 
-## SAJC § 1405 – Anwälte
-Solange keine Anwälte aktiv bespielt werden, gelten die besonderen Übergangsregeln des Code of Criminal Procedure. Sobald eine funktionsfähige Anwaltschaft vorhanden ist, treten die regulären Verfahrensrechte vollständig in den Vordergrund.
+## SAJC § 1405 – Vorübergehende Nichtverfügbarkeit von Rechtsbeistand
+Ist ein zugelassener Rechtsbeistand trotz angemessener Bemühungen nicht innerhalb einer vertretbaren Zeit erreichbar, gelten die besonderen Verfahrensregeln des Code of Criminal Procedure. Das Schweigerecht und das Verbot erzwungener Selbstbelastung bleiben uneingeschränkt bestehen. Bei Verfahren, die zu einer lebenslangen Freiheitsstrafe führen können, ist vor einer endgültigen Verurteilung eine angemessene Verteidigung sicherzustellen.
 
-## SAJC § 1406 – Aktivierung der Justiz
-Die Regierung oder eine hierzu befugte Stelle kann öffentlich bekannt geben, dass die reguläre Justiz ihren aktiven Betrieb aufgenommen hat. Ab diesem Zeitpunkt gehen richterliche Kernentscheidungen grundsätzlich auf die zuständigen Gerichte über.
+## SAJC § 1406 – Rückkehr zur ordentlichen gerichtlichen Zuständigkeit
+Sobald das zuständige Gericht oder ein zuständiger Richter erreichbar und zur Entscheidung in der Lage ist, endet eine vorläufige Ersatz- oder Eilzuständigkeit. Noch nicht abgeschlossene richterlich vorbehaltene Angelegenheiten sind unverzüglich der zuständigen Justizstelle vorzulegen.
 
 ---
 
