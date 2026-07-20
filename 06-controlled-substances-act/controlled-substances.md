@@ -6,7 +6,7 @@
 
 Der San Andreas Controlled Substances Act regelt Besitz, Erwerb, Herstellung, Verarbeitung, Transport und Handel kontrollierter Substanzen. Das Gesetz unterscheidet zwischen geringfügigem Besitz zum Eigenbedarf und organisierter Drogenkriminalität und gewährleistet eine verhältnismäßige, einheitliche und rechtsstaatliche Strafverfolgung.
 
-Konkrete Mengengrenzen, Geldstrafen, Hafteinheiten und Nebenfolgen werden im zentralen `Sentencing & Fine Schedule` festgelegt.
+Die gesetzlichen Mengengrenzen gelten einheitlich für alle kontrollierten Substanzen. Geldstrafen, Hafteinheiten und Nebenfolgen werden im zentralen `Sentencing & Fine Schedule` festgelegt.
 
 ---
 
@@ -19,10 +19,12 @@ Als kontrollierte Substanzen gelten Stoffe, deren Besitz, Herstellung, Verarbeit
 Besitz liegt vor, wenn eine Person wissentlich tatsächliche oder rechtlich zurechenbare Kontrolle über eine kontrollierte Substanz ausübt.
 
 ## SACSA § 103 – Eigenbedarf
-Eine geringe Menge einer kontrollierten Substanz kann als Besitz zum Eigenbedarf eingestuft werden, sofern keine konkreten Anzeichen für Handel, Weitergabe oder gewerbliche Verteilung vorliegen.
+Eine Menge von bis zu **5 Einheiten** einer kontrollierten Substanz gilt grundsätzlich als Menge zum Eigenbedarf, sofern keine konkreten Anzeichen für Handel, Weitergabe oder gewerbliche Verteilung vorliegen.
 
 ## SACSA § 104 – Besitz mit Handelsabsicht
 Eine Handelsabsicht kann insbesondere aus Menge, Portionierung, Verpackung, Begleitumständen, Verkaufsabsprachen oder weiteren belastbaren Beweismitteln abgeleitet werden. Die bloße Behauptung einer Handelsabsicht ohne konkrete Tatsachen genügt nicht.
+
+Auch bei einer Menge unterhalb der gesetzlichen Handelsmenge kann eine Handelsabsicht nachgewiesen werden, wenn konkrete belastbare Beweise für Verkauf oder Weitergabe vorliegen. Umgekehrt ersetzt die bloße Menge nicht in jedem Fall den erforderlichen Nachweis der für den jeweiligen Straftatbestand erforderlichen Tatabsicht.
 
 ## SACSA § 105 – Medizinische und behördliche Ausnahmen
 Der rechtmäßige Besitz oder die Verwendung kontrollierter Stoffe durch medizinische Einrichtungen, EMS, zugelassene Unternehmen oder staatliche Behörden im Rahmen ihrer Aufgaben bleibt zulässig.
@@ -54,7 +56,7 @@ Neue synthetische oder nicht ausdrücklich aufgeführte Substanzen können aufgr
 Der wissentlich rechtswidrige Besitz einer kontrollierten Substanz zum Eigenbedarf stellt Simple Possession dar.
 
 ## SACSA § 302 – Aggravated Possession
-Der Besitz erheblicher Mengen kontrollierter Substanzen kann unabhängig von einem nachgewiesenen Verkauf als verschärfter Besitz eingestuft werden.
+Der Besitz einer Menge oberhalb des Eigenbedarfs kann unabhängig von einem nachgewiesenen Verkauf als verschärfter Besitz eingestuft werden. Die konkreten Mengenstufen ergeben sich aus SACSA § 1001.
 
 ## SACSA § 303 – Public Drug Consumption
 Der öffentliche Konsum kontrollierter illegaler Substanzen kann als Ordnungs- oder Straftatbestand verfolgt werden, insbesondere wenn hierdurch andere konkret gefährdet oder öffentliche Bereiche erheblich beeinträchtigt werden.
@@ -79,7 +81,7 @@ Der Besitz kontrollierter Substanzen mit nachweisbarer Absicht zur Weitergabe od
 Der organisierte, gewerbliche oder umfangreiche Handel mit kontrollierten Substanzen stellt Drug Trafficking dar.
 
 ## SACSA § 404 – Aggravated Drug Trafficking
-Ein besonders schwerer Fall liegt insbesondere bei sehr großen Mengen, fortgesetztem organisiertem Handel oder der Nutzung krimineller Strukturen vor.
+Ein besonders schwerer Fall liegt insbesondere bei Großhandelsmengen, fortgesetztem organisiertem Handel oder der Nutzung krimineller Strukturen vor.
 
 ## SACSA § 405 – Cross-Border Drug Trafficking
 Der organisierte Transport kontrollierter Substanzen über staatliche oder besonders kontrollierte Grenzen zum Zwecke des Handels kann strafverschärfend berücksichtigt werden.
@@ -175,19 +177,28 @@ Die Vernichtung nicht mehr benötigter illegaler Substanzen erfolgt nach Abschlu
 
 ---
 
-# Title X – Strafzumessung
+# Title X – Strafzumessung und Mengenstufen
 
-## SACSA § 1001 – Mengenabhängige Einstufung
-Die Schwere eines Drogendelikts kann insbesondere von Art und Menge der kontrollierten Substanz sowie von der nachgewiesenen Tatabsicht abhängen.
+## SACSA § 1001 – Einheitliche Mengenstufen
+Für alle kontrollierten Substanzen gelten unabhängig von ihrer Stoffklasse dieselben Mengengrenzen:
+
+1. **Eigenbedarf:** bis einschließlich **5 Einheiten**,
+2. **Erweiterter Besitz:** **6 bis 15 Einheiten**,
+3. **Handelsmenge:** **16 bis 40 Einheiten**,
+4. **Großhandel:** ab **41 Einheiten**.
+
+Die Stoffklasse kann die Höhe der vorgesehenen Sanktion beeinflussen, verändert jedoch nicht die Mengengrenzen dieses Paragraphen.
+
+Die Einstufung als Handelsmenge oder Großhandel ist ein erhebliches Indiz für eine mögliche Handelsabsicht oder umfangreiche Verteilung. Soweit ein Straftatbestand eine konkrete Handelsabsicht voraussetzt, bleiben die Anforderungen des SACSA § 104 unberührt.
 
 ## SACSA § 1002 – Eigenbedarf und Verhältnismäßigkeit
 Geringfügiger Besitz zum Eigenbedarf ist grundsätzlich deutlich milder zu behandeln als Handel, Herstellung oder organisierter Schmuggel.
 
 ## SACSA § 1003 – Strafverschärfende Umstände
-Insbesondere große Handelsmengen, organisierte Strukturen, wiederholter schwerer Drogenhandel und erhebliche konkrete Gefährdungen können strafverschärfend berücksichtigt werden.
+Insbesondere Großhandelsmengen, organisierte Strukturen, wiederholter schwerer Drogenhandel und erhebliche konkrete Gefährdungen können strafverschärfend berücksichtigt werden.
 
 ## SACSA § 1004 – Strafmildernde Umstände
-Insbesondere freiwillige Kooperation, erhebliche Aufklärungshilfe und rechtmäßig vereinbarte Plea Deals können strafmildernd berücksichtigt werden.
+Insbesondere freiwillige Kooperation, erhebliche Aufklärungshilfe und rechtmäßig vereinbarte Verständigungen im Strafverfahren können strafmildernd berücksichtigt werden.
 
 ## SACSA § 1005 – Vermögenseinziehung
 Unmittelbar aus schweren Drogendelikten stammende oder hierfür eingesetzte Vermögenswerte können nach Maßgabe des Verfahrensrechts sichergestellt werden. Eine dauerhafte umfangreiche Einziehung bedarf grundsätzlich einer gerichtlichen Entscheidung.
@@ -209,4 +220,4 @@ Illegale Substanzen, Beweismittel und erforderliche Tatmittel dürfen im Rahmen 
 
 ## Hinweis zum Strafkatalog
 
-Die konkreten Mengengrenzen für Eigenbedarf, verschärften Besitz und Handelsmengen sowie die jeweiligen Geldstrafen, Hafteinheiten und Nebenfolgen werden im zentralen `Sentencing & Fine Schedule` festgelegt. Änderungen bedürfen einer ordnungsgemäßen Bekanntmachung und dürfen nicht rückwirkend strafverschärfend angewendet werden.
+Die gesetzlichen Mengengrenzen ergeben sich aus SACSA § 1001. Die jeweiligen Geldstrafen, Hafteinheiten und Nebenfolgen werden im zentralen `Sentencing & Fine Schedule` festgelegt. Änderungen bedürfen einer ordnungsgemäßen Bekanntmachung und dürfen nicht rückwirkend strafverschärfend angewendet werden.
