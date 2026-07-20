@@ -148,24 +148,41 @@ Endgültige belastende Lizenzentscheidungen der zuständigen staatlichen Lizenz-
 # Title V – Beschäftigung und Arbeitnehmer
 
 ## SABLC § 501 – Beschäftigungsverhältnisse
-Unternehmen dürfen Arbeitnehmer im Rahmen rechtmäßiger Beschäftigungsverhältnisse einstellen.
+Unternehmen dürfen Arbeitnehmer im Rahmen rechtmäßiger und freiwilliger Beschäftigungsverhältnisse einstellen. Die Aufnahme und Fortsetzung einer Beschäftigung setzt die freie Entscheidung beider Seiten voraus.
 
 ## SABLC § 502 – Arbeitsvereinbarungen
-Wesentliche Arbeitsbedingungen können schriftlich oder mündlich vereinbart werden. Bei Streitigkeiten trägt die Partei, die sich auf besondere Vereinbarungen beruft, die entsprechende Nachweislast.
+Wesentliche Arbeitsbedingungen können schriftlich oder mündlich vereinbart werden. Vereinbart werden können insbesondere Tätigkeit, Position, Vergütung und besondere betriebliche Pflichten. Bei Streitigkeiten trägt die Partei, die sich auf eine besondere Vereinbarung beruft, die entsprechende Nachweislast.
+
+Eine Vereinbarung darf das gesetzliche Recht beider Seiten zur jederzeitigen Beendigung des Beschäftigungsverhältnisses nicht ausschließen. Freiwillige Regelungen über Übergabe, Rückgabe von Firmeneigentum oder die Abwicklung bereits entstandener Ansprüche bleiben zulässig.
 
 ## SABLC § 503 – Vergütung
-Vereinbarte und nachweisbar geschuldete Vergütung ist grundsätzlich zu zahlen.
+Vereinbarte und nachweisbar bereits verdiente Vergütung ist vollständig zu zahlen. Ein allgemeiner Anspruch auf Vergütung für nicht geleistete Arbeit besteht nur, soweit dies ausdrücklich vereinbart oder gesetzlich vorgesehen ist.
 
-## SABLC § 504 – Unzulässige Beschäftigung
+Offene und fällige Vergütungsansprüche bleiben auch nach Beendigung des Beschäftigungsverhältnisses bestehen und können nach Maßgabe des Civil Code geltend gemacht werden.
+
+## SABLC § 504 – Unzulässige Beschäftigung und Zwang
 Niemand darf im Rahmen eines Beschäftigungsverhältnisses zur Begehung rechtswidriger Handlungen verpflichtet werden.
 
-## SABLC § 505 – Kündigung
-Beschäftigungsverhältnisse können grundsätzlich beendet werden. Vertragliche Regelungen und gesetzliche Schutzvorschriften bleiben zu beachten.
+Ebenso darf niemand gegen seinen Willen zur Fortsetzung einer Beschäftigung oder zur weiteren Erbringung von Arbeitsleistungen gezwungen werden.
 
-## SABLC § 506 – Rechtswidrige Kündigung
-Eine Kündigung kann zivilrechtlich überprüft werden, wenn sie nachweislich gegen einen Vertrag oder ausdrücklich geschützte gesetzliche Rechte verstößt.
+## SABLC § 505 – Jederzeitige Kündigung
+Arbeitgeber und Arbeitnehmer können ein Beschäftigungsverhältnis grundsätzlich jederzeit mit sofortiger Wirkung beenden. Eine gesetzliche Kündigungsfrist besteht nicht; ein besonderer Kündigungsgrund ist grundsätzlich nicht erforderlich.
 
-## SABLC § 507 – Verantwortlichkeit von Mitarbeitern
+Die Beendigung muss der jeweils anderen Seite eindeutig erklärt werden. Bereits entstandene Vergütungs-, Eigentums-, Schadensersatz- oder sonstige Ansprüche bleiben von der Beendigung unberührt.
+
+## SABLC § 506 – Folgen der Beendigung
+Mit Beendigung des Beschäftigungsverhältnisses sind nachweisbar bereits verdiente und fällige Vergütungen weiterhin zu zahlen.
+
+Firmeneigentum, insbesondere Fahrzeuge, Schlüssel, Ausrüstung, Dokumente oder sonstige überlassene Gegenstände, ist nach Beendigung an das Unternehmen zurückzugeben, soweit kein eigenes Recht zum Besitz besteht.
+
+Ein gesetzlicher Anspruch auf Abfindung besteht nicht. Eine Abfindung oder sonstige Abschlusszahlung kann jedoch freiwillig vereinbart oder aufgrund eines anderweitigen zivilrechtlichen Anspruchs geschuldet sein.
+
+## SABLC § 507 – Schutz bestehender Rechte
+Eine Kündigung oder sonstige Beendigung darf nicht dazu benutzt werden, bereits entstandene Lohn- oder sonstige Ansprüche zu beseitigen, Firmeneigentum unrechtmäßig zurückzuhalten oder eine Person durch Drohung oder Zwang an der Beendigung des Beschäftigungsverhältnisses zu hindern.
+
+Verstöße gegen ausdrückliche gesetzliche Rechte oder sonstige rechtswidrige Handlungen im Zusammenhang mit der Beendigung können nach Maßgabe des Civil Code gerichtlich überprüft werden. Die bloße Entscheidung, ein Beschäftigungsverhältnis jederzeit zu beenden, begründet für sich allein keinen Schadensersatzanspruch.
+
+## SABLC § 508 – Verantwortlichkeit von Mitarbeitern
 Mitarbeiter bleiben für von ihnen selbst begangene, angeordnete, vorsätzlich unterstützte oder sonst nach allgemeinem Strafrecht zurechenbare Straftaten persönlich verantwortlich. Die bloße Beschäftigung bei einem Unternehmen begründet weder eine automatische Verantwortung für Handlungen anderer Mitarbeiter noch eine persönliche Strafbarkeit der Geschäftsführung.
 
 ---
