@@ -61,7 +61,13 @@ Soweit keine abweichende Geschwindigkeitsbegrenzung ausdrücklich angeordnet ist
 Durch amtliche Beschilderung angeordnete abweichende Höchstgeschwindigkeiten gehen den allgemeinen Höchstgeschwindigkeiten nach SAVC § 202 vor.
 
 ## SAVC § 204 – Geschwindigkeitsüberschreitung
-Das Überschreiten einer zulässigen Höchstgeschwindigkeit stellt einen Verkehrsverstoß dar. Erhebliche oder wiederholte Überschreitungen können zu erhöhten Sanktionen und Maßnahmen gegen die Fahrerlaubnis führen.
+Das Überschreiten einer zulässigen Höchstgeschwindigkeit stellt einen Verkehrsverstoß dar. Für die Einordnung gelten folgende Stufen:
+
+1. **geringe Geschwindigkeitsüberschreitung:** bis einschließlich **20 mph** über der zulässigen Höchstgeschwindigkeit,
+2. **mittlere Geschwindigkeitsüberschreitung:** **21 bis 50 mph** über der zulässigen Höchstgeschwindigkeit,
+3. **erhebliche Geschwindigkeitsüberschreitung:** mehr als **50 mph** über der zulässigen Höchstgeschwindigkeit.
+
+Eine Überschreitung von mehr als **80 mph** kann zusätzlich als Reckless Driving verfolgt werden, wenn die konkrete Fahrweise grob rücksichtslos war oder andere Personen tatsächlich gefährdet wurden. Die bloße Geschwindigkeit allein ersetzt nicht die zusätzlichen Voraussetzungen des Reckless Driving.
 
 ## SAVC § 205 – Reckless Driving
 Wer ein Fahrzeug in grob rücksichtsloser Weise führt und dadurch andere konkret gefährdet, begeht Reckless Driving.
@@ -79,7 +85,7 @@ Fußgänger dürfen durch die Führung eines Fahrzeugs nicht vorsätzlich oder g
 ## SAVC § 301 – Fahrerlaubnispflicht
 Kraftfahrzeuge dürfen im öffentlichen Verkehrsraum nur mit der jeweils erforderlichen gültigen Fahrerlaubnis geführt werden.
 
-## SAVC § 302 – Fahrerlaubnisklassen
+## SAVC § 302 – Fahrerlaubnisklassen und Erteilung
 Der State of San Andreas kann insbesondere folgende Fahrerlaubnisse vorsehen:
 
 1. PKW-Führerschein,
@@ -91,6 +97,8 @@ Der State of San Andreas kann insbesondere folgende Fahrerlaubnisse vorsehen:
 7. Flugzeuglizenz,
 8. Bootslizenz.
 
+Die Erteilung einer persönlichen Fahrerlaubnis erfolgt grundsätzlich durch ein zuständiges Gericht oder die hierfür gesetzlich bestimmte richterliche Stelle.
+
 ## SAVC § 303 – Fahren ohne Fahrerlaubnis
 Wer ein fahrerlaubnispflichtiges Fahrzeug ohne die erforderliche gültige Fahrerlaubnis führt, handelt rechtswidrig.
 
@@ -100,11 +108,13 @@ Das Führen eines Fahrzeugs trotz wirksamen Fahrverbots oder entzogener Fahrerla
 ## SAVC § 305 – Mitführ- und Vorlagepflicht
 Fahrzeugführer müssen bei einer rechtmäßigen Verkehrskontrolle ihre Identität sowie die erforderliche Fahrerlaubnis und vorhandene Fahrzeugdokumente nachweisen.
 
-## SAVC § 306 – Vorläufiges Fahrverbot
-Bei schweren Verkehrsdelikten kann eine zuständige Behörde eine Fahrerlaubnis vorläufig sicherstellen oder ein zeitlich begrenztes Fahrverbot aussprechen, soweit dies gesetzlich vorgesehen ist.
+## SAVC § 306 – Vorläufiges Fahrverbot und vorläufiger Entzug
+Bei schweren Verkehrsdelikten kann eine zuständige Vollzugsbehörde eine Fahrerlaubnis vorläufig sicherstellen oder ein zeitlich begrenztes Fahrverbot aussprechen, soweit dies gesetzlich vorgesehen und zur Abwehr weiterer erheblicher Gefahren erforderlich ist.
+
+Ist ein zuständiger Richter innerhalb angemessener Frist nicht erreichbar, darf eine solche vorläufige Maßnahme bis zu einer möglichen gerichtlichen Überprüfung aufrechterhalten werden. Sie ist zu dokumentieren und aufzuheben, sobald die gesetzlichen Voraussetzungen entfallen.
 
 ## SAVC § 307 – Dauerhafter Fahrerlaubnisentzug
-Ein längerfristiger oder dauerhafter Entzug einer Fahrerlaubnis bedarf grundsätzlich einer gerichtlichen oder gesetzlich besonders vorgesehenen Entscheidung.
+Ein dauerhafter Entzug einer Fahrerlaubnis bedarf grundsätzlich einer gerichtlichen Entscheidung. Vorläufige Maßnahmen der Vollzugsbehörden nach SAVC § 306 bleiben hiervon unberührt.
 
 ---
 
@@ -291,7 +301,7 @@ Luft- und Wasserfahrzeuge dürfen nicht in einer Weise gelandet oder angelegt we
 Verkehrsrechtliche Maßnahmen und Sanktionen müssen in einem angemessenen Verhältnis zur Schwere des Verstoßes und zur verursachten Gefahr stehen.
 
 ## SAVC § 1302 – Wiederholte Verstöße
-Wiederholte schwere Verkehrsverstöße können zu erhöhten Geldstrafen, Fahrverboten oder einem gerichtlichen Fahrerlaubnisentzug führen.
+Wiederholte schwere Verkehrsverstöße können zu erhöhten Geldstrafen, vorläufigen Fahrverboten oder einem dauerhaften gerichtlichen Fahrerlaubnisentzug führen.
 
 ---
 
