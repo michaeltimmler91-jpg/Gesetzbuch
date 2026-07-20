@@ -1,10 +1,10 @@
 # San Andreas Penal Code (SAPC)
 
-> Strafgesetzbuch des State of San Andreas – RP-Fassung
+> Strafgesetzbuch des State of San Andreas
 
 ## Präambel
 
-Der San Andreas Penal Code definiert strafbare Handlungen im State of San Andreas. Er ist US-amerikanisch geprägt, wurde jedoch für ein faires und praktikables GTA-V-Rollenspiel angepasst.
+Der San Andreas Penal Code definiert strafbare Handlungen im State of San Andreas und regelt die allgemeinen Voraussetzungen strafrechtlicher Verantwortlichkeit. Er dient dem Schutz von Leben, Freiheit, Eigentum, öffentlicher Sicherheit und der verfassungsmäßigen Ordnung.
 
 Konkrete Geldstrafen, Hafteinheiten und Nebenfolgen werden zentral im `Sentencing & Fine Schedule` geregelt.
 
@@ -259,7 +259,7 @@ Planmäßige gemeinschaftliche Begehung mehrerer schwerer Straftaten im Rahmen e
 Nachweisbare konkrete Vereinbarung mehrerer Personen zur gemeinsamen Begehung einer schweren Straftat, sofern mindestens eine unmittelbar tatbezogene Handlung zur Umsetzung erfolgt ist.
 
 ## SAPC § 804 – RICO Proceedings
-Bei nachgewiesener fortgesetzter organisierter Kriminalität kann die Staatsanwaltschaft ein RICO-ähnliches Verfahren gegen verantwortliche Personen und Strukturen einleiten. Eine bloße Gruppenzugehörigkeit genügt nicht.
+Bei nachgewiesener fortgesetzter organisierter Kriminalität kann die Staatsanwaltschaft ein Verfahren nach den gesetzlichen Vorschriften über organisierte Kriminalität gegen verantwortliche Personen und Strukturen einleiten. Eine bloße Gruppenzugehörigkeit genügt nicht.
 
 ---
 
@@ -322,7 +322,7 @@ Insbesondere Wiederholungstaten, besondere Planung, erhebliche Gefährdung Unbet
 Insbesondere freiwillige Aufgabe, unverletzte Freilassung einer Geisel, Geständnis, erhebliche Kooperation und nachweisbare Schadenswiedergutmachung können strafmildernd berücksichtigt werden.
 
 ## SAPC § 1104 – Lebenslange Freiheitsstrafe
-Eine lebenslange Freiheitsstrafe darf ausschließlich durch ein zuständiges Gericht verhängt werden. Während der Übergangsphase ohne aktive Justiz ist sie ausgeschlossen.
+Eine lebenslange Freiheitsstrafe darf ausschließlich durch ein zuständiges Gericht nach einem ordnungsgemäßen Verfahren verhängt werden. Ist vorübergehend kein zuständiges Gericht erreichbar, darf eine lebenslange Freiheitsstrafe weder angeordnet noch vollstreckt werden.
 
 ## SAPC § 1105 – Todesstrafe
 Die Todesstrafe ist im State of San Andreas ausgeschlossen.
