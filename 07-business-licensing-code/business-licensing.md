@@ -52,13 +52,13 @@ Der Verkauf eines registrierten Unternehmens bedarf grundsätzlich einer schrift
 # Title III – Gewerbliche Lizenzen
 
 ## SABLC § 301 – Lizenzpflichtige Tätigkeiten
-Bestimmte Tätigkeiten können aus Gründen der öffentlichen Sicherheit, des Verbraucherschutzes oder besonderer staatlicher Interessen einer Lizenzpflicht unterliegen.
+Bestimmte Tätigkeiten können aus Gründen der öffentlichen Sicherheit, des Verbraucherschutzes oder besonderer staatlicher Interessen einer Lizenzpflicht unterliegen. Gewerbe- und Unternehmenslizenzen werden ausschließlich durch die Regierung des State of San Andreas oder eine von ihr hierzu ausdrücklich bestimmte Regierungsbehörde erteilt.
 
 ## SABLC § 302 – Waffenhandelslizenz
-Der gewerbliche Handel mit Waffen und Munition richtet sich zusätzlich nach dem San Andreas Firearms & Weapons Code.
+Der gewerbliche Handel mit Waffen und Munition richtet sich zusätzlich nach dem San Andreas Firearms & Weapons Code. Die gewerbliche Lizenzierung erfolgt durch die hierfür zuständige Regierungsbehörde.
 
 ## SABLC § 303 – Personenbeförderungslizenz
-Der gewerbliche Transport von Personen, insbesondere durch Taxi- oder vergleichbare Unternehmen, kann eine besondere Unternehmens- oder Fahrerlaubnis erfordern.
+Der gewerbliche Transport von Personen, insbesondere durch Taxi- oder vergleichbare Unternehmen, kann eine besondere Unternehmens- oder Fahrerlaubnis erfordern. Gewerbliche Unternehmenslizenzen werden durch die zuständige Regierungsbehörde erteilt; persönliche Fahrerlaubnisse richten sich nach dem Vehicle & Traffic Code.
 
 ## SABLC § 304 – Medizinische Dienstleistungen
 Gewerbliche oder staatliche medizinische Tätigkeiten dürfen nur durch hierzu befugte Personen oder Einrichtungen ausgeübt werden.
@@ -83,10 +83,10 @@ Weitere Lizenzpflichten können durch Gesetz oder öffentlich bekannt gemachte s
 # Title IV – Lizenzverfahren
 
 ## SABLC § 401 – Antrag
-Eine Lizenz ist bei der zuständigen staatlichen Stelle zu beantragen. Erforderliche Angaben müssen wahrheitsgemäß gemacht werden.
+Eine Gewerbe- oder Unternehmenslizenz ist bei der Regierung oder der von ihr zuständig bestimmten Regierungsbehörde zu beantragen. Erforderliche Angaben müssen wahrheitsgemäß gemacht werden.
 
 ## SABLC § 402 – Prüfung
-Die zuständige Stelle darf prüfen, ob die gesetzlichen Voraussetzungen für die beantragte Tätigkeit erfüllt sind.
+Die zuständige Regierungsstelle darf prüfen, ob die gesetzlichen Voraussetzungen für die beantragte Tätigkeit erfüllt sind.
 
 ## SABLC § 403 – Ablehnung
 Eine Lizenz darf insbesondere abgelehnt werden, wenn konkrete Tatsachen belegen, dass gesetzliche Voraussetzungen nicht erfüllt sind oder die beantragte Tätigkeit unmittelbar rechtswidrigen Zwecken dienen soll.
@@ -101,13 +101,15 @@ Lizenzen können befristet erteilt und bei fortbestehenden Voraussetzungen verl�
 Eine Lizenz kann mit angemessenen, sachbezogenen Auflagen verbunden werden.
 
 ## SABLC § 407 – Ruhen und Entzug
-Bei schweren oder wiederholten Verstößen gegen unmittelbar lizenzbezogene Vorschriften kann eine Lizenz vorübergehend ausgesetzt oder entzogen werden.
+Bei schweren oder wiederholten Verstößen gegen unmittelbar lizenzbezogene Vorschriften kann die zuständige Regierungsbehörde eine Gewerbe- oder Unternehmenslizenz vorübergehend aussetzen oder dauerhaft entziehen.
+
+Vollzugsbehörden dürfen Gewerbe- oder Unternehmenslizenzen weder endgültig entziehen noch selbst aufheben.
 
 ## SABLC § 408 – Rechtliches Gehör
 Vor einem dauerhaften Lizenzentzug ist dem Betroffenen grundsätzlich Gelegenheit zur Stellungnahme zu geben, sofern keine unmittelbare erhebliche Gefahr ein sofortiges vorläufiges Handeln erfordert.
 
 ## SABLC § 409 – Gerichtliche Überprüfung
-Endgültige belastende Lizenzentscheidungen können nach Maßgabe des geltenden Verfahrensrechts durch ein zuständiges Gericht überprüft werden.
+Endgültige belastende Lizenzentscheidungen der Regierung können nach Maßgabe des geltenden Verfahrensrechts durch ein zuständiges Gericht überprüft werden. Die gerichtliche Überprüfung ersetzt nicht die gesetzliche Zuständigkeit der Regierung für Erteilung und Entzug der Gewerbe- oder Unternehmenslizenz.
 
 ---
 
@@ -151,7 +153,7 @@ Ein Unternehmen kann nach Maßgabe des Penal Code für zurechenbare schwere Rech
 Eigentümer und Geschäftsführer haften nicht automatisch strafrechtlich für jede eigenmächtige Straftat eines Mitarbeiters.
 
 ## SABLC § 605 – Illegale Geschäftsmodelle
-Wird ein Unternehmen nachweislich überwiegend zur Durchführung oder Verschleierung fortgesetzter schwerer Straftaten genutzt, können die gesetzlich vorgesehenen Ermittlungs-, Sicherungs- und Gerichtsverfahren eingeleitet werden.
+Wird ein Unternehmen nachweislich überwiegend zur Durchführung oder Verschleierung fortgesetzter schwerer Straftaten genutzt, können die gesetzlich vorgesehenen Ermittlungs-, Sicherungs- und Gerichtsverfahren eingeleitet werden. Eine dauerhafte Unternehmensschließung bleibt ausschließlich der hierfür zuständigen Regierung vorbehalten.
 
 ---
 
@@ -188,11 +190,13 @@ Lizenzbezogene Kontrollen dürfen im gesetzlich vorgesehenen Umfang durchgeführ
 ## SABLC § 803 – Durchsuchungen
 Eine reguläre Gewerbekontrolle berechtigt nicht automatisch zur vollständigen strafrechtlichen Durchsuchung privater oder nicht öffentlich zugänglicher Geschäftsräume. Strafrechtliche Durchsuchungen richten sich nach dem Code of Criminal Procedure.
 
-## SABLC § 804 – Sofortmaßnahmen
-Bei einer konkreten unmittelbaren erheblichen Gefahr können zuständige Behörden notwendige vorläufige Maßnahmen treffen, insbesondere gefährliche Tätigkeiten vorübergehend untersagen.
+## SABLC § 804 – Sofortmaßnahmen durch Vollzugsbehörden
+Bei einer konkreten unmittelbaren erheblichen Gefahr dürfen zuständige Vollzugsbehörden notwendige vorläufige Maßnahmen treffen. Sie können insbesondere einen Betrieb räumen, gefährliche Tätigkeiten untersagen oder den Geschäftsbetrieb vorübergehend einstellen lassen.
+
+Eine solche Maßnahme stellt weder einen endgültigen Entzug der Gewerbelizenz noch eine dauerhafte Unternehmensschließung dar und ist unverzüglich aufzuheben, sobald die unmittelbare Gefahr nicht mehr besteht oder die zuständige Regierungsbehörde eine weitergehende Entscheidung getroffen hat.
 
 ## SABLC § 805 – Dokumentation
-Schwerwiegende Maßnahmen wie längerfristige Betriebsschließungen oder Lizenzentzüge sind nachvollziehbar zu dokumentieren.
+Schwerwiegende vorläufige Betriebsschließungen und dauerhafte Lizenzentscheidungen sind nachvollziehbar zu dokumentieren.
 
 ---
 
@@ -207,11 +211,13 @@ Bei einer Unternehmensauflösung sind bestehende Eigentumsrechte und nachweisbar
 ## SABLC § 903 – Zahlungsunfähigkeit
 Ist ein Unternehmen dauerhaft nicht in der Lage, fällige Verpflichtungen zu erfüllen, können besondere Insolvenz- oder Abwicklungsverfahren vorgesehen werden.
 
-## SABLC § 904 – Staatliche Zwangsschließung
-Eine dauerhafte staatliche Schließung eines Unternehmens ist nur aufgrund einer besonderen gesetzlichen Grundlage oder gerichtlichen Entscheidung zulässig.
+## SABLC § 904 – Dauerhafte staatliche Zwangsschließung
+Die dauerhafte staatliche Schließung eines Unternehmens darf ausschließlich durch die Regierung des State of San Andreas oder eine hierzu ausdrücklich befugte Regierungsbehörde angeordnet werden. Gerichte und Vollzugsbehörden sind nicht befugt, ein Unternehmen anstelle der Regierung dauerhaft zu schließen.
+
+Gerichtliche Entscheidungen können die Rechtmäßigkeit einer Schließungsentscheidung überprüfen oder Vermögens-, Straf- und sonstige Rechtsfolgen anordnen, soweit hierfür eine gesetzliche Zuständigkeit besteht.
 
 ## SABLC § 905 – Vorläufige Betriebsschließung
-Bei unmittelbarer erheblicher Gefahr oder fortgesetzten schweren Lizenzverstößen kann ein Betrieb vorläufig geschlossen werden. Die Maßnahme muss überprüfbar und verhältnismäßig sein.
+Bei unmittelbarer erheblicher Gefahr kann eine zuständige Vollzugsbehörde einen Betrieb vorläufig schließen oder räumen. Bei schweren oder wiederholten Lizenzverstößen kann die zuständige Regierungsbehörde den Betrieb ebenfalls vorläufig untersagen. Jede vorläufige Maßnahme muss überprüfbar, verhältnismäßig und zeitlich auf das erforderliche Maß begrenzt sein.
 
 ---
 
@@ -256,19 +262,21 @@ Medienunternehmen und Journalisten genießen die durch die Verfassung und andere
 
 ---
 
-# Title XII – Gerichtliche Kontrolle und vorläufige Verwaltungsmaßnahmen
+# Title XII – Regierungszuständigkeit und gerichtliche Kontrolle
 
 ## SABLC § 1201 – Verwaltungsentscheidungen
-Zuständige Verwaltungsstellen dürfen Unternehmensregistrierungen, Lizenzanträge, Verlängerungen und sonstige reguläre Verwaltungsverfahren im Rahmen ihrer gesetzlichen Befugnisse bearbeiten und entscheiden.
+Die Regierung und die von ihr zuständig bestimmten Verwaltungsstellen dürfen Unternehmensregistrierungen, Lizenzanträge, Verlängerungen und sonstige reguläre gewerberechtliche Verwaltungsverfahren im Rahmen ihrer gesetzlichen Befugnisse bearbeiten und entscheiden.
 
 ## SABLC § 1202 – Schwerwiegende Maßnahmen
-Dauerhafte Unternehmensschließungen, endgültige umfangreiche Vermögenseinziehungen und vergleichbar schwerwiegende Maßnahmen bedürfen einer besonderen gesetzlichen Grundlage oder einer gerichtlichen Entscheidung.
+Dauerhafte Unternehmensschließungen und endgültige Entzüge von Gewerbe- oder Unternehmenslizenzen sind ausschließlich durch die hierfür zuständige Regierung oder Regierungsbehörde zulässig.
 
-## SABLC § 1203 – Eilentscheidung bei Nichterreichbarkeit eines Gerichts
-Ist in einer dringenden Angelegenheit ein zuständiges Gericht trotz angemessener Bemühungen nicht rechtzeitig erreichbar und droht durch weiteres Zuwarten eine erhebliche Gefahr, darf eine gesetzlich zuständige Behörde eine zeitlich begrenzte vorläufige Maßnahme treffen. Bei besonders eingriffsintensiven Maßnahmen ist eine unabhängige zweite zuständige Führungsperson einzubeziehen. Die Entscheidung ist zu begründen und unverzüglich einer gerichtlichen Überprüfung zugänglich zu machen.
+Endgültige umfangreiche Vermögenseinziehungen und andere Maßnahmen, die nach Gesetz einer gerichtlichen Entscheidung vorbehalten sind, bleiben der zuständigen Justiz vorbehalten.
+
+## SABLC § 1203 – Gerichtliche Überprüfung
+Belastende endgültige Entscheidungen der Regierung können nach Maßgabe des geltenden Rechts gerichtlich überprüft werden. Das Gericht kann eine rechtswidrige Entscheidung aufheben oder zur erneuten Entscheidung zurückverweisen, übernimmt dadurch jedoch nicht die gesetzliche Zuständigkeit der Regierung zur Erteilung oder dauerhaften Entziehung einer Gewerbelizenz oder zur dauerhaften Unternehmensschließung.
 
 ## SABLC § 1204 – Vorläufige Gefahrenabwehr
-Unmittelbar notwendige Maßnahmen zur Abwehr konkreter erheblicher Gefahren bleiben zulässig. Sie sind auf das erforderliche Maß und die erforderliche Dauer zu beschränken und nach Wegfall der Gefahr unverzüglich aufzuheben.
+Unmittelbar notwendige Maßnahmen zur Abwehr konkreter erheblicher Gefahren bleiben zulässig. Vollzugsbehördliche Maßnahmen sind auf das erforderliche Maß und die erforderliche Dauer zu beschränken und begründen keine dauerhafte Unternehmensschließung.
 
 ---
 
