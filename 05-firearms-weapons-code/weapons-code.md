@@ -66,8 +66,12 @@ Das offene zugriffsbereite Führen einer erlaubten Schusswaffe in der Öffentlic
 ## SAWC § 205 – Waffenhandelslizenz
 Der gewerbliche Verkauf, Ankauf oder regelmäßige Handel mit Schusswaffen setzt eine gültige Waffenhandelslizenz voraus.
 
+Die Erteilung, Änderung, vorübergehende Aussetzung und der dauerhafte Entzug einer Waffenhandelslizenz erfolgen ausschließlich durch die nach dem Business & Licensing Code zuständige Regierung des State of San Andreas oder eine von ihr ausdrücklich bestimmte Regierungsbehörde. Vollzugsbehörden dürfen bei unmittelbarer erheblicher Gefahr nur die gesetzlich zulässigen vorläufigen Sicherungs- und Gefahrenabwehrmaßnahmen treffen.
+
 ## SAWC § 206 – Staatliche Sondergenehmigungen
 Für Waffen der Klassen III und IV können ausschließlich in gesetzlich vorgesehenen Ausnahmefällen staatliche Sondergenehmigungen erteilt werden. Normale Waffenlizenzen berechtigen nicht zu deren Besitz.
+
+Die Erteilung, Änderung und endgültige Aufhebung einer solchen Sondergenehmigung obliegen ausschließlich der Regierung des State of San Andreas oder einer von ihr hierzu ausdrücklich bestimmten Regierungsbehörde. Die Nichterreichbarkeit eines Gerichts begründet keine Ersatzzuständigkeit des Los Santos Police Department für Sondergenehmigungen der Klassen III und IV. Endgültige belastende Entscheidungen bleiben nach Maßgabe des geltenden Rechts gerichtlich überprüfbar; das Gericht übernimmt dadurch nicht die Zuständigkeit zur Erteilung der Sondergenehmigung.
 
 ## SAWC § 207 – Prüfung und Erteilung
 (1) Reguläre Waffenlizenzen sowie Concealed Carry Permits und Open Carry Permits werden bei Vorliegen der gesetzlichen Voraussetzungen grundsätzlich durch ein zuständiges Gericht erteilt.
@@ -79,6 +83,8 @@ Für Waffen der Klassen III und IV können ausschließlich in gesetzlich vorgese
 (4) Eine nach Absatz 3 erteilte Lizenz oder Permit ist voll wirksam und bleibt wirksam, solange sie nicht nach diesem Gesetz ausgesetzt, entzogen oder durch eine zuständige gerichtliche Entscheidung aufgehoben wird. Sie ist einer späteren gerichtlichen Überprüfung zugänglich.
 
 (5) Ein Anspruch auf eine Sondergenehmigung für Waffen der Klassen III oder IV besteht nicht.
+
+(6) Die Absätze 1 bis 4 begründen keine Zuständigkeit des Gerichts oder des Los Santos Police Department zur Erteilung von Waffenhandelslizenzen oder Sondergenehmigungen für Waffen der Klassen III und IV. Hierfür gelten ausschließlich SAWC §§ 205 und 206.
 
 ## SAWC § 208 – Lizenzregister
 Erteilte, ausgesetzte und entzogene Waffenlizenzen dürfen in einem geschützten staatlichen Register dokumentiert werden.
@@ -94,12 +100,12 @@ Personen können vom Erwerb, Besitz oder Führen von Waffen ausgeschlossen werde
 Ein Gericht kann bei geeigneten Fällen ein zeitlich begrenztes oder dauerhaftes Waffenverbot als Nebenfolge einer Verurteilung oder als Schutzmaßnahme anordnen.
 
 ## SAWC § 303 – Vorläufige Aussetzung
-Bei dringendem Verdacht einer schweren Gewalt- oder Waffenstraftat kann eine Vollzugsbehörde eine Waffenlizenz vorläufig aussetzen und betroffene Waffen nach Maßgabe des Verfahrensrechts sicherstellen, wenn dies zur Abwehr einer erheblichen Gefahr erforderlich ist.
+Bei dringendem Verdacht einer schweren Gewalt- oder Waffenstraftat kann eine Vollzugsbehörde eine persönliche Waffenlizenz oder Carry Permit vorläufig aussetzen und betroffene Waffen nach Maßgabe des Verfahrensrechts sicherstellen, wenn dies zur Abwehr einer erheblichen Gefahr erforderlich ist.
 
 Ist ein zuständiger Richter nicht innerhalb angemessener Frist erreichbar, darf die vorläufige Aussetzung bis zu einer möglichen gerichtlichen Überprüfung aufrechterhalten werden. Die Maßnahme ist zu dokumentieren und unverzüglich aufzuheben, sobald ihre gesetzlichen Voraussetzungen entfallen.
 
 ## SAWC § 304 – Dauerhafter Lizenzentzug
-Ein dauerhafter Entzug einer Waffenlizenz oder ein dauerhaftes Waffenverbot bedarf grundsätzlich einer Entscheidung des zuständigen Gerichts.
+Ein dauerhafter Entzug einer persönlichen Waffenlizenz oder Carry Permit sowie ein dauerhaftes persönliches Waffenverbot bedürfen grundsätzlich einer Entscheidung des zuständigen Gerichts. Waffenhandelslizenzen und Sondergenehmigungen für Waffen der Klassen III und IV richten sich hinsichtlich Aussetzung und endgültigem Entzug nach SAWC §§ 205 und 206.
 
 ## SAWC § 305 – Wiedererteilung
 Nach Ablauf eines zeitlich begrenzten Waffenverbots oder einer Sperrfrist kann eine erneute Erteilung beantragt werden, soweit keine fortbestehenden Ausschlussgründe vorliegen.
@@ -269,10 +275,10 @@ Der vorsätzliche rechtswidrige Missbrauch einer Dienstwaffe kann neben allgemei
 Bei schweren Waffenverstößen können betroffene Waffen bis zur Klärung der Rechtslage vorübergehend sichergestellt werden.
 
 ## SAWC § 1102 – Lizenzsperre
-Schwere oder wiederholte Waffenverstöße können zu einer zeitlich begrenzten Sperre für die Neuerteilung einer Waffen- oder Carry-Lizenz führen.
+Schwere oder wiederholte Waffenverstöße können zu einer zeitlich begrenzten Sperre für die Neuerteilung einer persönlichen Waffen- oder Carry-Lizenz führen.
 
 ## SAWC § 1103 – Dauerhafter Entzug
-Ein dauerhafter Waffenlizenzentzug ist nur bei besonders schweren oder wiederholten Verstößen und grundsätzlich aufgrund einer gerichtlichen Entscheidung zulässig.
+Ein dauerhafter Entzug einer persönlichen Waffenlizenz oder Carry Permit ist nur bei besonders schweren oder wiederholten Verstößen und grundsätzlich aufgrund einer gerichtlichen Entscheidung zulässig. Für Waffenhandelslizenzen und Sondergenehmigungen der Klassen III und IV gelten die Zuständigkeitsregeln der SAWC §§ 205 und 206.
 
 ## SAWC § 1104 – Verhältnismäßigkeit
 Waffenrechtliche Maßnahmen müssen der Schwere des Verstoßes, der konkreten Gefährdung und dem Verhalten der betroffenen Person angemessen sein.
@@ -282,16 +288,22 @@ Waffenrechtliche Maßnahmen müssen der Schwere des Verstoßes, der konkreten Ge
 # Title XII – Vorläufige und gerichtliche Maßnahmen
 
 ## SAWC § 1201 – Allgemeine Lizenzverwaltung
-Reguläre Waffenlizenzen sowie Concealed Carry Permits und Open Carry Permits werden nach Maßgabe des SAWC § 207 grundsätzlich durch ein zuständiges Gericht erteilt. Ist ein zuständiger Richter trotz angemessener Bemühungen innerhalb angemessener Frist nicht erreichbar, kann das Los Santos Police Department bei vollständig nachgewiesenen Voraussetzungen die jeweilige Waffenlizenz oder Carry Permit erteilen. Andere waffenrechtliche Verwaltungsakte und außergewöhnliche Sondergenehmigungen richten sich nach der hierfür gesetzlich bestimmten Zuständigkeit.
+Reguläre Waffenlizenzen sowie Concealed Carry Permits und Open Carry Permits werden nach Maßgabe des SAWC § 207 grundsätzlich durch ein zuständiges Gericht erteilt. Ist ein zuständiger Richter trotz angemessener Bemühungen innerhalb angemessener Frist nicht erreichbar, kann das Los Santos Police Department bei vollständig nachgewiesenen Voraussetzungen die jeweilige persönliche Waffenlizenz oder Carry Permit erteilen.
+
+Waffenhandelslizenzen werden ausschließlich durch die nach dem Business & Licensing Code zuständige Regierung oder Regierungsbehörde verwaltet. Sondergenehmigungen für Waffen der Klassen III und IV werden ausschließlich durch die Regierung des State of San Andreas oder eine von ihr hierzu ausdrücklich bestimmte Regierungsbehörde erteilt.
 
 ## SAWC § 1202 – Vorläufiges Waffenverbot
 Bei dringendem Verdacht einer schweren Gewalt- oder Waffenstraftat kann eine zuständige Vollzugsbehörde ein zeitlich begrenztes vorläufiges Waffenverbot anordnen und Waffen sicherstellen, wenn dies zur Abwehr einer erheblichen Gefahr erforderlich ist.
 
 ## SAWC § 1203 – Dauerhafte Maßnahmen
-Dauerhafte Waffenverbote und endgültige weitreichende Entzüge persönlicher Waffenlizenzen bedürfen grundsätzlich einer gerichtlichen Entscheidung. Außergewöhnliche Sondergenehmigungen für Waffen der Klassen III und IV richten sich nach der hierfür gesetzlich bestimmten staatlichen Zuständigkeit.
+Dauerhafte persönliche Waffenverbote und endgültige weitreichende Entzüge persönlicher Waffenlizenzen oder Carry Permits bedürfen grundsätzlich einer gerichtlichen Entscheidung.
+
+Der endgültige Entzug einer Waffenhandelslizenz oder einer staatlichen Sondergenehmigung für Waffen der Klassen III und IV bleibt der jeweils zuständigen Regierung oder Regierungsbehörde vorbehalten. Eine gerichtliche Überprüfung solcher Entscheidungen bleibt nach Maßgabe des geltenden Rechts gewährleistet.
 
 ## SAWC § 1204 – Gerichtliche Überprüfung
-Vorläufige Maßnahmen, die erheblich in Waffen- oder Lizenzrechte eingreifen, unterliegen auf Antrag oder nach Maßgabe des Gesetzes der gerichtlichen Überprüfung.
+Vorläufige Maßnahmen, die erheblich in persönliche Waffen- oder Lizenzrechte eingreifen, unterliegen auf Antrag oder nach Maßgabe des Gesetzes der gerichtlichen Überprüfung.
+
+Endgültige belastende Entscheidungen der Regierung über Waffenhandelslizenzen oder Sondergenehmigungen der Klassen III und IV können nach Maßgabe des geltenden Rechts gerichtlich überprüft werden. Das Gericht übernimmt dadurch nicht die Zuständigkeit der Regierung zur Erteilung oder endgültigen Entziehung dieser Genehmigungen.
 
 ---
 
