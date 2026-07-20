@@ -3,44 +3,74 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Gesetzbuch des State of San Andreas für GTA V Roleplay">
+  <meta name="description" content="Digitales Gesetzbuch des State of San Andreas für GTA V Roleplay">
   <title>Gesetzbuch | State of San Andreas</title>
   <link rel="stylesheet" href="styles.css">
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
   <header class="topbar">
-    <div>
-      <div class="eyebrow">STATE OF SAN ANDREAS</div>
-      <h1>Gesetzbuch</h1>
+    <button id="homeButton" class="brand" type="button" aria-label="Zur Startseite">
+      <span class="seal">SA</span>
+      <span>
+        <span class="eyebrow">STATE OF SAN ANDREAS</span>
+        <strong>Gesetzbuch</strong>
+      </span>
+    </button>
+    <div class="top-actions">
+      <button id="pdButton" class="pd-button" type="button">PD-Schnellsuche</button>
+      <button id="menuButton" class="menu-button" aria-label="Navigation öffnen">☰</button>
     </div>
-    <button id="menuButton" class="menu-button" aria-label="Navigation öffnen">☰</button>
   </header>
 
   <div class="app-shell">
     <aside id="sidebar" class="sidebar">
       <div class="search-wrap">
-        <input id="searchInput" type="search" placeholder="Gesetz oder Paragraph suchen…" autocomplete="off">
+        <label for="searchInput">Gesetze durchsuchen</label>
+        <input id="searchInput" type="search" placeholder="z. B. Mord, DUI, SAWC § 401 …" autocomplete="off">
       </div>
-
       <nav id="lawNav" class="law-nav" aria-label="Gesetzbücher"></nav>
     </aside>
 
     <main class="content-wrap">
       <section id="welcome" class="welcome-card">
-        <div class="badge">GTA V ROLEPLAY</div>
-        <h2>Gesetzbuch des State of San Andreas</h2>
-        <p>
-          Dieses Gesetzwerk ist stark am US-amerikanischen Rechtssystem orientiert,
-          wurde jedoch für ein faires und praktikables GTA-V-Rollenspiel angepasst.
-        </p>
+        <div class="hero">
+          <div>
+            <div class="badge">DIGITALES GESETZBUCH · GTA V ROLEPLAY</div>
+            <h1>Recht. Schnell gefunden.</h1>
+            <p>Das zentrale Gesetzwerk des State of San Andreas – mit Volltextsuche, direkter Navigation und schnellem Zugriff für Polizei, Justiz und Bürger.</p>
+          </div>
+          <div class="hero-stat">
+            <strong>12</strong>
+            <span>Gesetzbücher</span>
+          </div>
+        </div>
+
+        <div class="home-search">
+          <span>⌕</span>
+          <input id="homeSearchInput" type="search" placeholder="Was möchtest du nachschlagen?" autocomplete="off">
+        </div>
+
+        <div class="section-heading">
+          <div>
+            <span class="kicker">SCHNELLZUGRIFF</span>
+            <h2>Alle Gesetzbücher</h2>
+          </div>
+        </div>
         <div class="quick-grid" id="quickGrid"></div>
+
+        <section class="pd-panel">
+          <div>
+            <span class="kicker">FÜR DEN DIENST</span>
+            <h2>PD-Schnellzugriff</h2>
+            <p>Direkt zu den Bereichen, die im Streifendienst am häufigsten gebraucht werden.</p>
+          </div>
+          <div id="pdQuickGrid" class="pd-quick-grid"></div>
+        </section>
       </section>
 
       <section id="searchResults" class="search-results hidden"></section>
-
       <article id="document" class="document hidden"></article>
-
       <div id="loading" class="status hidden">Gesetzbuch wird geladen…</div>
       <div id="error" class="status error hidden"></div>
     </main>
