@@ -332,22 +332,26 @@ Bei einer Überschreitung von mehr als **80 mph** kann zusätzlich Reckless Driv
 # Title XV – Lizenzmaßnahmen
 
 ## SFS § 1501 – Führerscheinmaßnahmen
-Bei schweren oder wiederholten Verkehrsdelikten kann eine zuständige Vollzugsbehörde die Fahrerlaubnis vorläufig sicherstellen oder ein zeitlich begrenztes Fahrverbot aussprechen. Ein dauerhafter Fahrerlaubnisentzug bedarf grundsätzlich einer gerichtlichen Entscheidung.
+Bei schweren oder wiederholten Verkehrsdelikten kann eine zuständige Vollzugsbehörde die Fahrerlaubnis vorläufig sicherstellen oder ein zeitlich begrenztes Fahrverbot aussprechen. Ein dauerhafter Fahrerlaubnisentzug bedarf einer gerichtlichen Entscheidung. Vorläufige Maßnahmen nach dem Vehicle & Traffic Code bleiben unberührt.
 
 Empfohlene Stufen für vorläufige Maßnahmen:
 - Stufe 1: 1–3 Tage
 - Stufe 2: 3–7 Tage
 - Stufe 3: 7–14 Tage
-- Dauerhafter Entzug: ausschließlich aufgrund einer gerichtlichen Entscheidung, soweit kein besonderes Gesetz ausdrücklich etwas anderes bestimmt
+- Dauerhafter Entzug: ausschließlich aufgrund einer gerichtlichen Entscheidung
 
 ## SFS § 1502 – Waffenlizenzmaßnahmen
-Bei schweren Waffendelikten oder vorsätzlichen schweren Gewaltdelikten kann eine zuständige Vollzugsbehörde eine Waffenlizenz vorläufig aussetzen und Waffen sicherstellen. Ein dauerhafter Entzug einer persönlichen Waffenlizenz bedarf grundsätzlich einer gerichtlichen Entscheidung.
+Bei schweren Waffendelikten oder vorsätzlichen schweren Gewaltdelikten kann eine zuständige Vollzugsbehörde eine persönliche Waffenlizenz oder Carry Permit nach Maßgabe des Firearms & Weapons Code vorläufig aussetzen und betroffene Waffen sicherstellen. Ein dauerhafter Entzug einer persönlichen Waffenlizenz oder Carry Permit sowie ein dauerhaftes persönliches Waffenverbot bedürfen einer Entscheidung des zuständigen Gerichts.
+
+Waffenhandelslizenzen sowie staatliche Sondergenehmigungen für Waffen der Klassen III und IV unterliegen nicht dieser gerichtlichen Entzugszuständigkeit. Ihre Erteilung, Aussetzung und endgültige Aufhebung richten sich ausschließlich nach den besonderen Zuständigkeitsregeln des Firearms & Weapons Code und des Business & Licensing Code. Vollzugsbehörden dürfen insoweit nur gesetzlich zulässige vorläufige Sicherungs- und Gefahrenabwehrmaßnahmen treffen.
 
 ## SFS § 1503 – Gewerbe- und Unternehmenslizenzen
-Schwere wiederholte unmittelbar betriebsbezogene Verstöße können der zuständigen Regierung zur Prüfung vorgelegt werden. Die endgültige Aussetzung oder der dauerhafte Entzug einer Gewerbe- oder Unternehmenslizenz richtet sich nach dem Business & Licensing Code und darf ausschließlich durch die hierfür zuständige Regierung oder Regierungsbehörde angeordnet werden.
+Schwere oder wiederholte unmittelbar betriebsbezogene Verstöße können der zuständigen Regierung oder Regierungsbehörde zur Prüfung vorgelegt werden. Die vorübergehende Aussetzung oder der dauerhafte Entzug einer Gewerbe- oder Unternehmenslizenz richtet sich nach dem Business & Licensing Code und darf ausschließlich durch die hierfür zuständige Regierung oder Regierungsbehörde angeordnet werden.
 
-## SFS § 1504 – Medizinische oder besondere Berufslizenzen
-Berufslizenzen dürfen nur bei unmittelbar berufsbezogenen erheblichen Verstößen und nach den hierfür vorgesehenen Verfahren eingeschränkt werden.
+## SFS § 1504 – Medizinische, besondere Berufs- und Speziallizenzen
+Persönliche medizinische, besondere Berufs- und sonstige Speziallizenzen dürfen nur bei unmittelbar tätigkeitsbezogenen erheblichen Verstößen und nach den hierfür vorgesehenen gesetzlichen Verfahren eingeschränkt, vorübergehend ausgesetzt oder dauerhaft entzogen werden. Zuständig ist die jeweils gesetzlich bestimmte staatliche Lizenz-, Verwaltungs- oder Berufsaufsichtsbehörde.
+
+Ist eine besondere Fachbehörde noch nicht ordnungsgemäß eingerichtet oder personell besetzt, gilt die Übergangszuständigkeit des Business & Licensing Code. Vollzugsbehörden dürfen bei unmittelbarer erheblicher Gefahr nur die gesetzlich zulässige konkrete Tätigkeit vorläufig untersagen oder andere vorläufige Gefahrenabwehrmaßnahmen treffen; ein endgültiger Lizenzentzug ist ihnen nicht gestattet.
 
 ## SFS § 1505 – Dauerhafte Unternehmensschließung
 Eine dauerhafte staatliche Unternehmensschließung darf ausschließlich durch die Regierung des State of San Andreas oder eine hierzu ausdrücklich befugte Regierungsbehörde angeordnet werden. Vollzugsbehörden dürfen bei unmittelbarer erheblicher Gefahr lediglich eine vorläufige Betriebsschließung oder Räumung anordnen.
@@ -412,14 +416,23 @@ Soweit das Gesetz eine unmittelbare Ahndung durch Polizei- oder andere Vollzugsb
 Ohne eine darüber hinausgehende richterliche Entscheidung darf eine einzelne zusammenhängende Strafsache grundsätzlich **12 HE (120 Minuten)** Freiheitsentzug nicht überschreiten.
 
 ## SFS § 1803 – Sondermaßnahmen außerhalb der Vollzugszuständigkeit
-Maßnahmen, die nach Gesetz einer gerichtlichen oder besonderen Regierungsentscheidung vorbehalten sind, dürfen nicht allein durch Vollzugsbehörden angeordnet werden.
+Maßnahmen, die nach Gesetz einer gerichtlichen oder besonderen staatlichen Verwaltungsentscheidung vorbehalten sind, dürfen nicht allein durch Vollzugsbehörden endgültig angeordnet werden.
 
-Hierzu gehören insbesondere lebenslange Freiheitsstrafen und endgültige umfangreiche Vermögenseinziehungen als gerichtliche Maßnahmen sowie dauerhafte Unternehmensschließungen und endgültige Gewerbelizenzentzüge als Maßnahmen der zuständigen Regierung.
+Zu den gerichtlichen Entscheidungsvorbehalten gehören insbesondere lebenslange Freiheitsstrafen, endgültige umfangreiche Vermögenseinziehungen, dauerhafte Fahrerlaubnisentzüge sowie der dauerhafte Entzug persönlicher Waffenlizenzen oder Carry Permits und dauerhafte persönliche Waffenverbote.
 
-Ist die jeweils zuständige Stelle vorübergehend nicht erreichbar, bleiben ausschließlich die gesetzlich vorgesehenen vorläufigen Sicherungs-, Sperr- und Gefahrenabwehrmaßnahmen zulässig. Eine erforderliche gerichtliche oder behördliche Überprüfung ist unverzüglich nachzuholen.
+Zu den administrativen Entscheidungsvorbehalten der jeweils gesetzlich zuständigen Regierung, Regierungs-, Lizenz-, Verwaltungs- oder Berufsaufsichtsbehörde gehören insbesondere dauerhafte Unternehmensschließungen, endgültige Entzüge von Gewerbe- oder Unternehmenslizenzen, Waffenhandelslizenzen, Sondergenehmigungen für Waffen der Klassen III und IV sowie sonstige Berufs- und Speziallizenzen nach Maßgabe der jeweiligen Spezialgesetze.
+
+Die fehlende Einrichtung oder personelle Besetzung einer besonderen Fachbehörde überträgt diese endgültigen Befugnisse nicht automatisch auf Vollzugsbehörden. Gesetzlich geregelte Übergangszuständigkeiten einer Regierung oder zentralen Verwaltungsstelle bleiben unberührt. Ist die jeweils zuständige Stelle vorübergehend nicht erreichbar, sind nur die gesetzlich ausdrücklich zugelassenen vorläufigen Sicherungs-, Sperr-, Eil- und Gefahrenabwehrmaßnahmen zulässig.
 
 ## SFS § 1804 – Lebenslange Freiheitsstrafe
 Eine lebenslange Freiheitsstrafe darf ausschließlich durch ein zuständiges Gericht verhängt werden.
+
+## SFS § 1805 – Gerichtliche Überprüfung unmittelbar verhängter Vollzugssanktionen
+Eine Person, gegen die eine Polizei- oder andere Vollzugsbehörde unmittelbar eine Geldstrafe, Haftstrafe oder sonstige nach diesem Katalog zulässige Sanktion verhängt hat, kann nach Maßgabe des Judicial Code eine nachträgliche gerichtliche Überprüfung beantragen.
+
+Der Antrag setzt eine bereits rechtmäßig vollziehbare Sanktion nicht automatisch aus. Das zuständige Gericht kann jedoch fortdauernde Maßnahmen vorläufig aussetzen und die Sanktion bestätigen, reduzieren oder aufheben. Zu Unrecht erhobene Geldstrafen sind nach einer rechtskräftigen Aufhebung zurückzuerstatten; fortdauernde rechtswidrige Nebenfolgen sind zu beenden.
+
+Ist vorübergehend kein zuständiges Gericht erreichbar oder personell besetzt, bleibt die gesetzlich zulässige unmittelbare Sanktionierung möglich. Das Recht auf spätere gerichtliche Überprüfung bleibt bestehen.
 
 ---
 
