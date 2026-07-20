@@ -30,19 +30,29 @@ Schwerwiegende Maßnahmen, insbesondere Festnahmen, größere Durchsuchungen, er
 # Title II – Vollzugsbehörden und Zuständigkeiten
 
 ## SALEC § 201 – Anerkannte Vollzugsbehörden
-Der State of San Andreas kann insbesondere Police Departments, Sheriff's Departments, Highway Patrol beziehungsweise State Police und staatliche Ermittlungsbehörden wie das FIB betreiben.
+Der State of San Andreas kann insbesondere das Los Santos Police Department (LSPD), ein Sheriff's Department, eine Highway Patrol beziehungsweise State Police und staatliche Ermittlungsbehörden wie das FIB betreiben.
 
-## SALEC § 202 – Örtliche Zuständigkeit
-Behörden können unterschiedliche primäre Zuständigkeitsgebiete besitzen. Dies verhindert nicht notwendige behördenübergreifende Hilfe oder Verfolgung bei dringenden Einsatzlagen.
+## SALEC § 202 – Primäre Zuständigkeitsbereiche
+Die Vollzugsbehörden besitzen insbesondere folgende primäre Zuständigkeitsbereiche:
+
+1. Das **Los Santos Police Department (LSPD)** ist vorrangig für allgemeine Polizeiaufgaben und Strafverfolgung innerhalb von Los Santos zuständig.
+2. Das **Sheriff's Department** ist vorrangig für Blaine County, ländliche Gebiete und Gebiete außerhalb der primären städtischen Zuständigkeit des LSPD zuständig.
+3. Die **Highway Patrol beziehungsweise State Police** ist vorrangig für Highways und Freeways, die landesweite Verkehrsüberwachung sowie für überregionale und landesweite Unterstützungsaufgaben zuständig.
+4. Das **FIB** ist vorrangig für besonders schwere oder komplexe Ermittlungen zuständig, insbesondere organisierte Kriminalität, schwere Korruption, komplexe Wirtschafts- und Finanzkriminalität sowie andere Ermittlungen von besonderer landesweiter Bedeutung.
+
+Die primäre Zuständigkeit einer Behörde schließt rechtmäßige behördenübergreifende Hilfe, unmittelbare Gefahrenabwehr, fortgesetzte Verfolgung oder gesetzlich zugewiesene Sonderzuständigkeiten nicht aus.
 
 ## SALEC § 203 – Gemeinsame Einsätze
 Bei größeren Einsatzlagen können mehrere Behörden gemeinsam handeln. Eine klare Einsatzleitung soll bestimmt werden, soweit dies praktisch möglich ist.
 
 ## SALEC § 204 – FIB und besondere Ermittlungen
-Eine staatliche Ermittlungsbehörde kann insbesondere für organisierte Kriminalität, Korruption, komplexe Wirtschaftsdelikte und andere besonders bedeutende Ermittlungen zuständig sein.
+Das FIB kann im Rahmen seiner gesetzlichen Zuständigkeit Ermittlungen eigenständig führen oder gemeinsam mit anderen Vollzugsbehörden und der Staatsanwaltschaft durchführen. Die Übernahme oder Beteiligung an einem Verfahren begründet keine Befugnis, Gerichte oder Staatsanwälte in ihren unabhängigen gesetzlichen Entscheidungen anzuweisen.
 
 ## SALEC § 205 – Keine Konkurrenzhoheit
 Unterschiedliche Vollzugsbehörden sollen Zuständigkeitsfragen nicht auf Kosten einer laufenden Gefahrenabwehr oder Strafverfolgung austragen.
+
+## SALEC § 206 – Einrichtung und personelle Besetzung
+Die Befugnisse einer Behörde werden mit ihrer ordnungsgemäßen Einrichtung und personellen Besetzung ausgeübt. Bis dahin können gesetzlich zuständige andere Behörden im Rahmen ihrer eigenen Befugnisse notwendige Aufgaben wahrnehmen. Eine nicht eingerichtete oder nicht besetzte Behörde überträgt ihre besonderen ausschließlichen Befugnisse nicht automatisch auf eine andere Stelle.
 
 ---
 
