@@ -1,19 +1,19 @@
 # San Andreas Sentencing & Fine Schedule (SA-SFS)
 
-> Zentraler Straf-, Bußgeld- und Maßnahmenkatalog des State of San Andreas – RP-Fassung
+> Zentraler Straf-, Bußgeld- und Maßnahmenkatalog des State of San Andreas
 
 ## Präambel
 
-Der San Andreas Sentencing & Fine Schedule legt den Rahmen für Geldstrafen, Hafteinheiten und Nebenfolgen fest. Er dient als zentrale Balancing-Grundlage und kann unabhängig von den materiellen Gesetzbüchern angepasst werden.
+Der San Andreas Sentencing & Fine Schedule legt verbindliche und empfohlene Rahmen für Geldstrafen, Hafteinheiten und Nebenfolgen fest. Er ergänzt die materiellen Gesetzbücher des State of San Andreas und dient der einheitlichen, vorhersehbaren und verhältnismäßigen Sanktionierung von Straftaten und Ordnungsverstößen.
 
-**Wichtig:** Dieser Katalog ist als Start-Balancing gedacht. Die Werte sollen nach den ersten Wochen anhand der tatsächlichen Serverökonomie und durchschnittlichen RP-Zeiten angepasst werden.
+Änderungen dieses Katalogs bedürfen einer rechtmäßigen Bekanntmachung. Eine nachträgliche Verschärfung bereits abgeschlossener Taten ist ausgeschlossen.
 
 ---
 
 # Title I – Grundregeln
 
 ## SFS § 101 – Hafteinheiten
-Eine Hafteinheit (HE) entspricht **10 realen Minuten Gefängniszeit**.
+Eine Hafteinheit (HE) entspricht **10 Minuten Freiheitsentzug**.
 
 Beispiele:
 - 1 HE = 10 Minuten
@@ -23,7 +23,7 @@ Beispiele:
 - 12 HE = 120 Minuten
 
 ## SFS § 102 – Geldstrafen
-Geldstrafen werden in Dollar ($) angegeben und sind an die Wirtschaft des Servers anzupassen.
+Geldstrafen werden in Dollar ($) angegeben. Ihre Höhe richtet sich nach diesem Katalog und den jeweils geltenden gesetzlichen Bestimmungen.
 
 ## SFS § 103 – Kumulierung
 Bei mehreren voneinander unabhängigen Straftaten können Strafen grundsätzlich addiert werden. Eine offensichtlich unverhältnismäßige Gesamtstrafe ist zu vermeiden.
@@ -46,11 +46,11 @@ Bei einschlägigen wiederholten schweren Straftaten kann die Strafe innerhalb de
 ## SFS § 109 – Kooperation
 Erhebliche freiwillige Kooperation oder Aufklärungshilfe kann strafmildernd berücksichtigt werden.
 
-## SFS § 110 – Plea Deal
-Im Rahmen eines zulässigen Plea Deals können einzelne Anklagepunkte reduziert oder Strafen angemessen gemindert werden.
+## SFS § 110 – Verständigung im Strafverfahren
+Im Rahmen einer rechtmäßigen und dokumentierten Verständigung im Strafverfahren können einzelne Anklagepunkte reduziert oder Strafen angemessen gemindert werden.
 
-## SFS § 111 – Keine Charakterlöschung
-Eine strafrechtliche Verurteilung führt nicht automatisch zu einem Character Death. Ein Char-Tod ist keine reguläre strafrechtliche Sanktion dieses Gesetzbuchs.
+## SFS § 111 – Gesetzlich zulässige Sanktionen
+Es dürfen ausschließlich Sanktionen und Nebenfolgen verhängt werden, die durch Gesetz oder diesen Katalog vorgesehen sind. Die Todesstrafe ist im State of San Andreas ausgeschlossen.
 
 ---
 
@@ -81,8 +81,8 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 | SAPC § 203 | Aggravated Assault | $10.000 | 3 HE | Waffenlizenzprüfung möglich |
 | SAPC § 204 | Aggravated Battery | $15.000 | 4 HE | Waffenlizenzentzug möglich |
 | SAPC § 205 | Manslaughter | $35.000 | 8 HE | Lizenzfolgen möglich |
-| SAPC § 206 | Murder | $50.000 | 10 HE | Waffenlizenzentzug, Justizfall möglich |
-| SAPC § 207 | Aggravated Murder | ab $75.000 | 12 HE oder Justiz | gerichtliche Sonderentscheidung möglich |
+| SAPC § 206 | Murder | $50.000 | 10 HE | Waffenlizenzentzug, gerichtliches Verfahren möglich |
+| SAPC § 207 | Aggravated Murder | ab $75.000 | 12 HE oder gerichtliche Entscheidung | gerichtliche Sonderentscheidung möglich |
 | SAPC § 208 | Attempted Murder | $30.000 | 7 HE | Waffenlizenzentzug möglich |
 | SAPC § 209 | Reckless Endangerment | $7.500 | 2 HE | Lizenzfolgen je nach Tatmittel |
 
@@ -97,7 +97,7 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 | SAPC § 303 | Aggravated Kidnapping | $25.000 | 6 HE | – |
 | SAPC § 304 | Hostage Taking | $30.000 | 7 HE | – |
 | SAPC § 305 | Ransom Extortion | $20.000 | 5 HE | Vermögenssicherung möglich |
-| SAPC § 306 | Human Trafficking | $40.000 | 9 HE | Justizfall/RICO möglich |
+| SAPC § 306 | Human Trafficking | $40.000 | 9 HE | gerichtliches oder RICO-Verfahren möglich |
 
 ---
 
@@ -115,8 +115,8 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 | SAPC § 408 | Aggravated Robbery | $30.000 | 7 HE | Waffenlizenzentzug möglich |
 | SAPC § 409 | Bank Robbery | $30.000 | 7 HE | Tatmittel sicherstellbar |
 | SAPC § 410 | Armored Transport Robbery | $35.000 | 8 HE | Tatmittel sicherstellbar |
-| SAPC § 411 | Robbery of Government Facility | $40.000 | 8 HE | Justizfall möglich |
-| SAPC § 412 | Critical Infrastructure Robbery | $45.000 | 9 HE | Justizfall möglich |
+| SAPC § 411 | Robbery of Government Facility | $40.000 | 8 HE | gerichtliches Verfahren möglich |
+| SAPC § 412 | Critical Infrastructure Robbery | $45.000 | 9 HE | gerichtliches Verfahren möglich |
 | SAPC § 413 | Property Damage | $1.000–$10.000 | 0–2 HE | Schadensersatz |
 | SAPC § 414 | Arson | $15.000 | 4 HE | Schadensersatz; bei Personengefahr höhere Einstufung möglich |
 
@@ -179,7 +179,7 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 | Code | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
 |---|---|---:|---:|---|
 | SAPC § 801 | Criminal Organization | $20.000 | 5 HE | nur bei nachgewiesener aktiver Beteiligung |
-| SAPC § 802 | Organized Criminal Activity | $30.000 | 7 HE | RICO möglich |
+| SAPC § 802 | Organized Criminal Activity | $30.000 | 7 HE | RICO-Verfahren möglich |
 | SAPC § 803 | Criminal Conspiracy | bis 75 % der Zieltat | bis 75 % der Zieltat | abhängig von geplanter Straftat |
 | SAPC § 804 | RICO Proceedings | gerichtliches Verfahren | gerichtliches Verfahren | Vermögens-/Unternehmensmaßnahmen möglich |
 
@@ -195,8 +195,8 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 | SAPC § 904 | Identity Theft | $10.000 | 3 HE | Schadensersatz möglich |
 | SAPC § 905 | Digital Fraud | $10.000 | 3 HE | Rückzahlung möglich |
 | SAPC § 906 | Cyber Extortion | $15.000 | 4 HE | – |
-| SAPC § 907 | Attack on Government Systems | $25.000 | 6 HE | Justizfall möglich |
-| SAPC § 908 | Attack on Critical Infrastructure | $40.000 | 9 HE | Justizfall möglich |
+| SAPC § 907 | Attack on Government Systems | $25.000 | 6 HE | gerichtliches Verfahren möglich |
+| SAPC § 908 | Attack on Critical Infrastructure | $40.000 | 9 HE | gerichtliches Verfahren möglich |
 | SAPC § 909 | Unlawful Surveillance | $7.500 | 2 HE | Geräte/Beweise sicherstellbar |
 
 ---
@@ -216,30 +216,30 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 
 | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
 |---|---:|---:|---|
-| Führen ohne erforderliche Lizenz | $5.000 | 2 HE | Waffe sichergestellt |
+| Führen ohne erforderliche Lizenz | $5.000 | 2 HE | Waffe sicherstellbar |
 | Besitz verbotener Waffe | $15.000 | 4 HE | Einziehung, Lizenzentzug |
 | Besitz illegaler vollautomatischer Waffe | $20.000 | 5 HE | Einziehung, Lizenzentzug |
 | Besitz illegaler Explosivmittel | $25.000 | 6 HE | Einziehung, Lizenzentzug |
-| Manipulierte Seriennummer | $10.000 | 3 HE | Waffe eingezogen |
+| Manipulierte Seriennummer | $10.000 | 3 HE | Waffe einziehbar |
 | Illegale Waffenweitergabe | $15.000 | 4 HE | Lizenzentzug |
 | Illegaler Waffenhandel | $25.000 | 6 HE | Lizenzentzug |
-| Schwerer Arms Trafficking | $40.000 | 9 HE | Justizfall möglich |
+| Schwerer Arms Trafficking | $40.000 | 9 HE | gerichtliches Verfahren möglich |
 | Brandishing / rechtswidriges Bedrohen mit Waffe | $7.500 | 2 HE | Lizenzentzug möglich |
 | Rechtswidrige Schussabgabe | $10.000 | 3 HE | Lizenzentzug möglich |
 
 ---
 
-# Title XIII – Controlled Substances
+# Title XIII – Kontrollierte Substanzen
 
 ## SFS § 1301 – Mengenstufen
-Die folgenden Kategorien dienen als RP-Balancing. Technisch unterschiedliche Items können durch Serverregelung konkreten Substanzklassen zugeordnet werden.
+Für die strafrechtliche Einordnung kontrollierter Substanzen gelten folgende Mengenstufen:
 
 - **Eigenbedarf:** geringe Menge ohne konkrete Handelsindizien
 - **Erweiterter Besitz:** deutlich über Eigenbedarf, aber ohne ausreichenden Nachweis einer Handelsabsicht
 - **Handelsmenge:** Menge oder Begleitumstände begründen nachweisbar eine Handelsabsicht
 - **Großhandel:** erhebliche Menge im Rahmen organisierter oder gewerblicher Verteilung
 
-Konkrete Item-Grenzen können in einer separaten administrativen Tabelle gepflegt werden, damit neue Drogenitems ohne Gesetzesänderung aufgenommen werden können.
+Die zuständige Gesundheits-, Verwaltungs- oder Justizbehörde kann durch allgemein bekannt gemachte Rechtsverordnung verbindliche Mengengrenzen sowie die Zuordnung einzelner kontrollierter Substanzen zu den gesetzlichen Stoffklassen festlegen. Änderungen dürfen nicht rückwirkend zu einer Strafverschärfung führen.
 
 | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
 |---|---:|---:|---|
@@ -250,9 +250,9 @@ Konkrete Item-Grenzen können in einer separaten administrativen Tabelle gepfleg
 | Besitz mit Handelsabsicht | $10.000 | 3 HE | Substanz eingezogen |
 | Drogenhandel | $15.000 | 4 HE | Gewinne sicherstellbar |
 | Drug Trafficking | $25.000 | 6 HE | Tatmittel sicherstellbar |
-| Aggravated Drug Trafficking | $40.000 | 9 HE | Justizfall möglich |
-| Illegale Drogenherstellung | $20.000 | 5 HE | Labor/Tatmittel sichergestellt |
-| Betrieb eines Drogenlabors | $30.000 | 7 HE | Tatmittel sichergestellt |
+| Aggravated Drug Trafficking | $40.000 | 9 HE | gerichtliches Verfahren möglich |
+| Illegale Drogenherstellung | $20.000 | 5 HE | Labor/Tatmittel sicherstellbar |
+| Betrieb eines Drogenlabors | $30.000 | 7 HE | Tatmittel sicherstellbar |
 | Drug Smuggling | $25.000 | 6 HE | Tatmittel sicherstellbar |
 
 Die Good Samaritan Rule des SACSA bleibt unberührt.
@@ -294,7 +294,7 @@ Empfohlene Stufen:
 - Stufe 1: 1–3 Tage
 - Stufe 2: 3–7 Tage
 - Stufe 3: 7–14 Tage
-- Dauerhafter Entzug: nur in außergewöhnlichen Fällen und grundsätzlich durch Justiz
+- Dauerhafter Entzug: nur in außergewöhnlichen Fällen und aufgrund einer gerichtlichen oder gesetzlich besonders vorgesehenen Entscheidung
 
 ## SFS § 1502 – Waffenlizenzentzug
 Bei schweren Waffendelikten oder vorsätzlichen schweren Gewaltdelikten kann eine Waffenlizenz vorübergehend oder dauerhaft entzogen werden.
@@ -315,8 +315,8 @@ Fahrzeuge können bei Verkehrsbehinderung, fehlender Fahrtauglichkeit oder ander
 ## SFS § 1602 – Sicherstellung
 Ein Fahrzeug kann vorübergehend als Beweismittel oder unmittelbares Tatmittel sichergestellt werden.
 
-## SFS § 1603 – Impound
-Bei schweren Verkehrsdelikten kann ein Fahrzeug für eine serverseitig festgelegte Zeit in den Impound verbracht werden.
+## SFS § 1603 – Behördliche Verwahrung
+Bei schweren Verkehrsdelikten kann ein Fahrzeug für eine gesetzlich oder behördlich bestimmte Dauer in Verwahrung genommen werden.
 
 Empfohlene Dauer:
 - leichter Fall: bis 24 Stunden
@@ -324,7 +324,7 @@ Empfohlene Dauer:
 - schwerer Wiederholungsfall: bis 7 Tage
 
 ## SFS § 1604 – Dauerhafte Einziehung
-Eine dauerhafte Einziehung wertvoller Fahrzeuge bedarf grundsätzlich einer gerichtlichen Entscheidung und darf nicht als reguläre Standardstrafe durch einen einzelnen Officer erfolgen.
+Eine dauerhafte Einziehung wertvoller Fahrzeuge bedarf grundsätzlich einer gerichtlichen Entscheidung und darf nicht als reguläre Standardstrafe durch einen einzelnen Vollzugsbeamten erfolgen.
 
 ---
 
@@ -337,7 +337,7 @@ Mögliche Faktoren sind insbesondere:
 - nachweisbare Aufklärungshilfe
 - freiwillige Schadenswiedergutmachung
 - untergeordnete Tatbeteiligung
-- wirksamer Plea Deal
+- wirksame Verständigung im Strafverfahren
 
 Eine Minderung von insgesamt etwa 10–30 % kann regelmäßig angemessen sein. Größere Reduzierungen bedürfen einer besonderen Begründung oder gerichtlichen Vereinbarung.
 
@@ -356,35 +356,37 @@ Ein Umstand, der bereits zwingender Bestandteil eines verschärften Tatbestands 
 
 ---
 
-# Title XVIII – Maximale unmittelbare Polizeistrafe
+# Title XVIII – Strafgewalt der Vollstreckungsbehörden
 
-## SFS § 1801 – Übergangsphase ohne aktive Justiz
-Solange keine aktive Justiz verfügbar ist, dürfen Polizei- und Vollzugsbehörden reguläre Strafen nach diesem Katalog unmittelbar verhängen.
+## SFS § 1801 – Unmittelbare Sanktionierung
+Soweit das Gesetz eine unmittelbare Ahndung durch Polizei- oder andere Vollzugsbehörden zulässt, dürfen die in diesem Katalog vorgesehenen regulären Sanktionen verhängt und vollstreckt werden.
 
 ## SFS § 1802 – Obergrenze
-Ohne aktive richterliche Entscheidung soll eine einzelne zusammenhängende Strafsache grundsätzlich **12 HE (120 Minuten)** nicht überschreiten.
+Ohne eine darüber hinausgehende richterliche Entscheidung darf eine einzelne zusammenhängende Strafsache grundsätzlich **12 HE (120 Minuten)** Freiheitsentzug nicht überschreiten.
 
-## SFS § 1803 – Schwere Sonderfälle
-Fälle, die nach Gesetz eine darüber hinausgehende Sanktion, dauerhafte umfangreiche Vermögenseinziehung oder vergleichbare endgültige Maßnahme erfordern würden, sind bis zur Verfügbarkeit einer zuständigen Justiz auf die zulässigen Übergangsmaßnahmen zu begrenzen.
+## SFS § 1803 – Gerichtspflichtige Sondermaßnahmen
+Maßnahmen, die nach Gesetz einer gerichtlichen Entscheidung vorbehalten sind, insbesondere lebenslange Freiheitsstrafen, endgültige umfangreiche Vermögenseinziehungen und vergleichbar schwerwiegende endgültige Rechtsfolgen, dürfen nicht allein durch Vollzugsbehörden angeordnet werden.
 
-## SFS § 1804 – Keine lebenslange Haft durch Polizei
-Lebenslange Freiheitsstrafen dürfen nicht unmittelbar durch Polizeibehörden verhängt werden. Eine Life Sentence ist ausschließlich durch ein zuständiges Gericht zulässig.
+Ist ein zuständiges Gericht vorübergehend nicht erreichbar, bleiben ausschließlich die gesetzlich vorgesehenen vorläufigen Sicherungs- und Eilmaßnahmen zulässig. Eine erforderliche gerichtliche Überprüfung ist unverzüglich nachzuholen.
+
+## SFS § 1804 – Lebenslange Freiheitsstrafe
+Eine lebenslange Freiheitsstrafe darf ausschließlich durch ein zuständiges Gericht verhängt werden.
 
 ---
 
-# Title XIX – RP- und Balancing-Klausel
+# Title XIX – Grundsätze der Strafzumessung
 
-## SFS § 1901 – RP-Verhältnismäßigkeit
-Strafen sollen Konsequenzen schaffen, dürfen aber laufendes oder zukünftiges RP nicht unnötig dauerhaft verhindern.
+## SFS § 1901 – Verhältnismäßigkeit
+Art und Höhe einer Sanktion müssen in einem angemessenen Verhältnis zur Schwere der Tat, zum Verschulden des Täters, zu eingetretenen Schäden und zu konkreten Gefährdungen stehen.
 
-## SFS § 1902 – Technische Fehler
-Offensichtliche technische Fehler, Desync, ungewollte GTA-Mechaniken oder vergleichbare OOC-Probleme dürfen nicht ohne angemessene RP-Grundlage als Straftat behandelt werden.
+## SFS § 1902 – Gesetzmäßigkeit
+Eine Handlung darf nur aufgrund eines zum Tatzeitpunkt geltenden Gesetzes bestraft werden. Nicht zurechenbare Ereignisse oder Umstände dürfen einer Person nicht ohne ausreichende tatsächliche Grundlage als Straftat angelastet werden.
 
-## SFS § 1903 – Serverregelwerk
-OOC-Regelverstöße werden durch das Serverregelwerk und das Serverteam behandelt und sind nicht automatisch IC-Straftaten.
+## SFS § 1903 – Tatsachengrundlage
+Bestehen erhebliche Zweifel daran, ob ein strafbares Verhalten tatsächlich und schuldhaft vorliegt, dürfen diese Zweifel nicht durch bloße Vermutungen ersetzt werden. Die Beweis- und Verfahrensregeln der einschlägigen Gesetzbücher bleiben unberührt.
 
-## SFS § 1904 – Anpassung
-Die Regierung oder eine zuständige administrative Stelle kann reine Balancing-Werte dieses Katalogs nach öffentlicher Bekanntgabe an die Serverökonomie anpassen, solange dadurch keine rückwirkende Strafverschärfung erfolgt.
+## SFS § 1904 – Änderungen des Katalogs
+Die zuständige gesetzgebende oder hierzu ermächtigte staatliche Stelle kann Geldstrafen, Haftrahmen und sonstige Werte dieses Katalogs durch ordnungsgemäß bekannt gemachte Änderung anpassen. Strafverschärfende Änderungen dürfen nicht rückwirkend auf bereits abgeschlossene Taten angewendet werden.
 
 ---
 
