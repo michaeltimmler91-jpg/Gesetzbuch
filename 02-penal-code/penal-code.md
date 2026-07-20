@@ -151,10 +151,12 @@ Vorsätzliche Täuschung mit dem Ziel, sich oder einem Dritten einen rechtswidri
 Rechtswidrige Aneignung oder Verwendung anvertrauter Vermögenswerte.
 
 ## SAPC § 503 – Money Laundering
-Verschleierung der Herkunft, Verwendung oder Eigentumsverhältnisse von Vermögenswerten aus Straftaten.
+Wissentliche Verschleierung der rechtswidrigen Herkunft, Verwendung, Kontrolle oder Eigentumsverhältnisse von Vermögenswerten, die aus Straftaten stammen.
 
 ## SAPC § 504 – Tax Evasion
-Vorsätzliche rechtswidrige Umgehung gesetzlich geschuldeter Steuern oder Abgaben.
+Vorsätzliche rechtswidrige Umgehung einer zum Tatzeitpunkt aufgrund ausdrücklicher gesetzlicher Grundlage tatsächlich geschuldeten Steuer oder staatlichen Abgabe.
+
+Diese Vorschrift begründet selbst keine Steuer- oder Abgabenpflicht. Soweit für Unternehmen keine Unternehmenssteuer, Lizenzgebühr oder laufende staatliche Unternehmensabgabe gesetzlich erhoben wird, kann deren Nichtzahlung keine Tax Evasion darstellen.
 
 ## SAPC § 505 – Document Forgery
 Herstellung, Veränderung oder Verwendung gefälschter Dokumente mit Täuschungsabsicht.
@@ -166,10 +168,12 @@ Täuschung eines Versicherers zur Erlangung unberechtigter Leistungen.
 Erzwingung von Geld, Vermögen, Handlungen oder Vorteilen durch rechtswidrige Drohung.
 
 ## SAPC § 508 – Bribery
-Anbieten, Gewähren, Fordern oder Annehmen eines unzulässigen Vorteils zur Beeinflussung einer amtlichen oder geschäftlichen Handlung.
+Anbieten, Gewähren, Fordern oder Annehmen eines unzulässigen Vorteils mit dem Ziel, eine amtliche oder geschäftliche Entscheidung oder Handlung pflichtwidrig zu beeinflussen oder sich für eine solche Beeinflussung einen Vorteil gewähren zu lassen.
 
 ## SAPC § 509 – Corporate Criminal Liability
-Unternehmen können bei zurechenbaren schweren Rechtsverstößen verantwortlich gemacht werden. Verantwortliche natürliche Personen bleiben zusätzlich persönlich strafrechtlich verantwortlich.
+Unternehmen können für schwere Rechtsverstöße verantwortlich gemacht werden, soweit diese dem Unternehmen nach den gesetzlichen Zurechnungsregeln des Business & Licensing Code rechtlich zuzurechnen sind. Die bloße Beschäftigung der handelnden Person oder die bloße Verwendung von Betriebsmitteln genügt für sich allein nicht.
+
+Verantwortliche natürliche Personen bleiben zusätzlich persönlich strafrechtlich verantwortlich, soweit ihnen die Tat nach den allgemeinen strafrechtlichen Regeln persönlich zuzurechnen ist.
 
 ---
 
