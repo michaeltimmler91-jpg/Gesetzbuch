@@ -1,10 +1,10 @@
 # San Andreas Civil Code (SACC)
 
-> Zivilrecht des State of San Andreas – RP-Fassung
+> Zivilrecht des State of San Andreas
 
 ## Präambel
 
-Der San Andreas Civil Code regelt privatrechtliche Beziehungen zwischen Personen, Unternehmen und – soweit vorgesehen – staatlichen Stellen. Ziel ist ein nachvollziehbares und RP-taugliches System für Verträge, Eigentum, Schadensersatz und zivilrechtliche Streitigkeiten.
+Der San Andreas Civil Code regelt privatrechtliche Beziehungen zwischen Personen, Unternehmen und – soweit gesetzlich vorgesehen – staatlichen Stellen. Er schafft einen einheitlichen Rechtsrahmen für Verträge, Eigentum, Schadensersatz und zivilrechtliche Streitigkeiten.
 
 ---
 
@@ -262,7 +262,7 @@ Parteien können einen Vergleich schließen, ohne damit zwingend eine strafrecht
 # Title XII – Zivilverfahren und Rechtsfolgen
 
 ## SACC § 1201 – Zuständigkeit
-Zivilrechtliche Streitigkeiten werden nach Einrichtung einer aktiven Justiz durch die zuständigen Gerichte entschieden.
+Zivilrechtliche Streitigkeiten werden durch die nach Gesetz zuständigen Gerichte entschieden.
 
 ## SACC § 1202 – Zulässige Rechtsfolgen
 Gerichte können insbesondere Schadensersatz, Rückzahlung, Herausgabe von Eigentum, Vertragserfüllung, Vertragsauflösung und Unterlassung anordnen.
@@ -278,22 +278,22 @@ Offensichtlich böswillige oder ausschließlich schikanöse Klagen können abgew
 
 ---
 
-# Title XIII – Übergangsregelung ohne aktive Justiz
+# Title XIII – Rechtswahrung bei vorübergehender Nichterreichbarkeit eines Gerichts
 
-## SACC § 1301 – Ruhende gerichtliche Durchsetzung
-Solange keine aktive Justiz vorhanden ist, können komplexe zivilrechtliche Ansprüche dokumentiert und zwischen den Parteien freiwillig geregelt werden, jedoch grundsätzlich nicht durch Polizei oder andere Vollzugsbehörden endgültig entschieden werden.
+## SACC § 1301 – Vorläufige außergerichtliche Sicherung von Ansprüchen
+Ist ein zuständiges Zivilgericht vorübergehend nicht erreichbar, können zivilrechtliche Ansprüche dokumentiert, gesichert und zwischen den Parteien freiwillig geregelt werden. Polizei- und andere Vollzugsbehörden sind nicht befugt, rein zivilrechtliche Streitigkeiten ohne ausdrückliche gesetzliche Grundlage endgültig zu entscheiden.
 
 ## SACC § 1302 – Freiwillige Einigungen
-Parteien können auch während der Übergangsphase verbindliche freiwillige Vergleiche und Zahlungsvereinbarungen schließen.
+Parteien können jederzeit verbindliche freiwillige Vergleiche und Zahlungsvereinbarungen schließen.
 
 ## SACC § 1303 – Keine polizeiliche Schuldeneintreibung
-Polizei- und Vollzugsbehörden sind nicht dafür zuständig, rein private zivilrechtliche Forderungen ohne gerichtliche Grundlage einzutreiben.
+Polizei- und Vollzugsbehörden sind nicht dafür zuständig, rein private zivilrechtliche Forderungen ohne vollstreckbare gerichtliche Entscheidung oder ausdrückliche gesetzliche Grundlage einzutreiben.
 
 ## SACC § 1304 – Unmittelbare Gefahren
-Notwendige Maßnahmen zur Abwehr unmittelbarer Gefahren oder zur Verhinderung laufender Straftaten bleiben von der fehlenden aktiven Zivilgerichtsbarkeit unberührt.
+Notwendige Maßnahmen zur Abwehr unmittelbarer Gefahren oder zur Verhinderung laufender Straftaten bleiben von der vorübergehenden Nichterreichbarkeit eines Zivilgerichts unberührt.
 
 ---
 
-## Hinweis
+## Ergänzende Bestimmungen
 
-Konkrete Gerichtsgebühren, mögliche Höchstgrenzen für bestimmte Schadensersatzarten und weitere verfahrensbezogene Werte können später durch den Judicial Code oder ergänzende staatliche Regelungen festgelegt werden.
+Gerichtsgebühren, Höchstgrenzen für bestimmte Schadensersatzarten und weitere verfahrensbezogene Werte werden durch den San Andreas Judicial Code oder andere hierzu erlassene staatliche Regelungen bestimmt.
