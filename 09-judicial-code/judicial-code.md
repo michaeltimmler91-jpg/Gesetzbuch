@@ -285,6 +285,22 @@ Neue erhebliche Beweise können unter besonderen Voraussetzungen eine erneute ge
 ## SAJC § 1204 – Keine endlosen Verfahren
 Rechtsmittel dürfen nicht ausschließlich zur missbräuchlichen Verzögerung eines Verfahrens eingesetzt werden.
 
+## SAJC § 1205 – Gerichtliche Überprüfung unmittelbar verhängter Vollzugssanktionen
+Eine Person, gegen die eine Polizei- oder andere Vollzugsbehörde unmittelbar eine Geldstrafe, Haftstrafe oder sonstige nach dem Sentencing & Fine Schedule zulässige Sanktion verhängt hat, kann eine nachträgliche gerichtliche Überprüfung der Maßnahme beantragen, sobald ein zuständiges Gericht zur Entscheidung zur Verfügung steht.
+
+Das Gericht prüft insbesondere, ob eine ausreichende tatsächliche Grundlage bestand, der richtige Tatbestand angewendet wurde, die verhängte Sanktion gesetzlich zulässig war und die Maßnahme verhältnismäßig erfolgte.
+
+## SAJC § 1206 – Keine automatische Aussetzung
+Der Antrag auf gerichtliche Überprüfung setzt eine bereits rechtmäßig vollziehbare Sanktion nicht automatisch aus. Das zuständige Gericht kann jedoch fortdauernde Geld-, Lizenz-, Sicherungs- oder sonstige Nebenfolgen vorläufig aussetzen, soweit dies zur Vermeidung erheblicher Nachteile angemessen erscheint.
+
+## SAJC § 1207 – Entscheidung des Gerichts
+Das Gericht kann eine unmittelbar verhängte Sanktion bestätigen, reduzieren, aufheben oder eine gesetzlich zulässige andere Entscheidung treffen. Zu Unrecht erhobene Geldstrafen sind nach einer rechtskräftigen Aufhebung zurückzuerstatten; fortdauernde rechtswidrige Nebenfolgen sind zu beenden.
+
+Eine bereits vollständig vollzogene Freiheitsentziehung kann tatsächlich nicht rückgängig gemacht werden. Das Gericht kann jedoch deren Rechtswidrigkeit feststellen. Weitergehende gesetzliche Ansprüche der betroffenen Person bleiben unberührt.
+
+## SAJC § 1208 – Vorübergehende Nichterreichbarkeit eines Gerichts
+Die vorübergehende Nichterreichbarkeit oder fehlende personelle Besetzung eines zuständigen Gerichts hindert die gesetzlich zulässige unmittelbare Sanktionierung durch Vollzugsbehörden nicht. Das Recht auf spätere gerichtliche Überprüfung bleibt bestehen und kann ausgeübt werden, sobald ein zuständiges Gericht zur Entscheidung zur Verfügung steht.
+
 ---
 
 # Title XIII – Disziplin und Amtsverantwortung
