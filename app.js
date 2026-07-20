@@ -50,8 +50,14 @@ laws.forEach((law,index)=>{
 
   const card=document.createElement('div');
   card.className='quick-card';
+  card.setAttribute('role','button');
+  card.tabIndex=0;
   card.innerHTML=`<strong>${index+1}. ${law.short}</strong><span>${law.title}</span>`;
-  card.addEventListener('click',()=>openLaw(law));
+  const open=()=>openLaw(law);
+  card.addEventListener('click',open);
+  card.addEventListener('keydown',event=>{
+    if(event.key==='Enter'||event.key===' '){event.preventDefault();open();}
+  });
   quickGrid.appendChild(card);
 });
 
@@ -80,33 +86,53 @@ function hideViews(){
   errorEl.classList.add('hidden');
 }
 
-async function openLaw(law){
+function setMenuOpen(open){
+  sidebar.classList.toggle('open',open);
+  menuButton.setAttribute('aria-expanded',String(open));
+}
+
+function closeMobileMenu(){
+  if(window.innerWidth<=850) setMenuOpen(false);
+}
+
+function updateRoute(hash,replace=false){
+  const target=`${location.pathname}${location.search}${hash||''}`;
+  const current=`${location.pathname}${location.search}${location.hash}`;
+  if(target===current) return;
+  if(replace) history.replaceState(null,'',target);
+  else history.pushState(null,'',target);
+}
+
+async function openLaw(law,updateHistory=true){
   activePath=law.path;
   hideViews();
   loading.classList.remove('hidden');
   try{
     const md=await fetchLaw(law);
-    documentEl.innerHTML=marked.parse(md);
+    if(!window.marked||typeof window.marked.parse!=='function') throw new Error('Die Dokumentdarstellung konnte nicht geladen werden.');
+    documentEl.innerHTML=window.marked.parse(md);
     documentEl.classList.remove('hidden');
     document.querySelectorAll('.law-link').forEach((el,i)=>el.classList.toggle('active',laws[i].path===law.path));
     window.scrollTo({top:0,behavior:'smooth'});
-    if(window.innerWidth<=850) sidebar.classList.remove('open');
-    history.replaceState(null,'',`#${encodeURIComponent(law.path)}`);
+    closeMobileMenu();
+    if(updateHistory) updateRoute(`#${encodeURIComponent(law.path)}`);
   }catch(err){
     errorEl.textContent=err.message;
     errorEl.classList.remove('hidden');
   }finally{loading.classList.add('hidden');}
 }
 
-function showHome(){
+function showHome(updateHistory=true){
   activePath=null;
   hideViews();
   welcome.classList.remove('hidden');
-  searchInput.value=''; homeSearchInput.value='';
+  searchInput.value='';
+  homeSearchInput.value='';
+  pdSearchInput.value='';
   document.querySelectorAll('.law-link').forEach(el=>el.classList.remove('active'));
-  history.replaceState(null,'',location.pathname);
+  if(updateHistory) updateRoute('');
   window.scrollTo({top:0,behavior:'smooth'});
-  if(window.innerWidth<=850) sidebar.classList.remove('open');
+  closeMobileMenu();
 }
 
 function plainText(md){
@@ -116,35 +142,52 @@ function plainText(md){
 function snippet(text,term){
   const lower=text.toLowerCase();
   const idx=lower.indexOf(term.toLowerCase());
-  if(idx<0) return text.slice(0,180)+'…';
+  if(idx<0) return text.slice(0,180)+(text.length>180?'…':'');
   const start=Math.max(0,idx-70),end=Math.min(text.length,idx+110);
   return (start>0?'…':'')+text.slice(start,end)+(end<text.length?'…':'');
 }
 
 async function searchAll(term){
   const clean=term.trim();
-  searchInput.value=term; homeSearchInput.value=term;
+  searchInput.value=term;
+  homeSearchInput.value=term;
   if(clean.length<2){
     searchResults.classList.add('hidden');
-    if(activePath){const law=laws.find(l=>l.path===activePath); if(law) return openLaw(law);}
-    welcome.classList.remove('hidden'); return;
+    if(activePath){
+      const law=laws.find(l=>l.path===activePath);
+      if(law) return openLaw(law,false);
+    }
+    hideViews();
+    welcome.classList.remove('hidden');
+    return;
   }
   hideViews();
   searchResults.classList.remove('hidden');
   searchResults.innerHTML='<h2>Suche</h2><div class="status">Gesetzbücher werden durchsucht…</div>';
-  const matches=[];
-  for(const law of laws){
+
+  const lowerClean=clean.toLowerCase();
+  const checked=await Promise.all(laws.map(async law=>{
     try{
-      const md=await fetchLaw(law),text=plainText(md);
-      if(text.toLowerCase().includes(clean.toLowerCase())||law.title.toLowerCase().includes(clean.toLowerCase())||law.short.toLowerCase().includes(clean.toLowerCase())) matches.push({law,text});
-    }catch(e){}
-  }
+      const md=await fetchLaw(law);
+      const text=plainText(md);
+      const matches=text.toLowerCase().includes(lowerClean)||law.title.toLowerCase().includes(lowerClean)||law.short.toLowerCase().includes(lowerClean);
+      return matches?{law,text}:null;
+    }catch(e){return null;}
+  }));
+  const matches=checked.filter(Boolean);
+
   searchResults.innerHTML=`<h2>Suchergebnisse für „${escapeHtml(clean)}“</h2>`;
   if(!matches.length){searchResults.innerHTML+='<p>Keine Treffer gefunden.</p>';return;}
   matches.forEach(({law,text})=>{
-    const item=document.createElement('div'); item.className='result-item';
-    const button=document.createElement('button'); button.textContent=`${law.short} – ${law.title}`; button.addEventListener('click',()=>openLaw(law));
-    const p=document.createElement('p'); p.textContent=snippet(text,clean); item.append(button,p); searchResults.appendChild(item);
+    const item=document.createElement('div');
+    item.className='result-item';
+    const button=document.createElement('button');
+    button.textContent=`${law.short} – ${law.title}`;
+    button.addEventListener('click',()=>openLaw(law));
+    const p=document.createElement('p');
+    p.textContent=snippet(text,clean);
+    item.append(button,p);
+    searchResults.appendChild(item);
   });
 }
 
@@ -155,8 +198,9 @@ function extractSections(md,law){
     if(!m) continue;
     const code=m[1].trim(),paragraph=m[2].trim(),title=m[3].trim();
     let body=[];
-    for(let j=i+1;j<lines.length && !/^##\s+/.test(lines[j]);j++){
-      const t=lines[j].trim(); if(t && !/^---$/.test(t)) body.push(t);
+    for(let j=i+1;j<lines.length&&!/^##\s+/.test(lines[j]);j++){
+      const t=lines[j].trim();
+      if(t&&!/^---$/.test(t)) body.push(t);
       if(body.join(' ').length>420) break;
     }
     sections.push({law,code,paragraph,title,body:plainText(body.join(' '))});
@@ -168,14 +212,17 @@ function parseSentencingRows(md){
   const lines=md.split(/\r?\n/),rows=[];
   let section='Strafkatalog',headers=[];
   for(let i=0;i<lines.length;i++){
-    const heading=lines[i].match(/^#\s+(.+)/); if(heading) section=heading[1].replace(/^Title\s+[^–-]+[–-]\s*/,'').trim();
+    const heading=lines[i].match(/^#\s+(.+)/);
+    if(heading) section=heading[1].replace(/^Title\s+[^–-]+[–-]\s*/,'').trim();
     if(!lines[i].trim().startsWith('|')) continue;
     const cells=lines[i].split('|').slice(1,-1).map(c=>c.trim());
     const next=(lines[i+1]||'').trim();
-    if(next.startsWith('|') && /^\|?[\s:|-]+\|?$/.test(next)) {headers=cells;i++;continue;}
-    if(!headers.length || cells.length<2) continue;
-    const obj={section}; headers.forEach((h,idx)=>obj[h]=cells[idx]||'–');
-    const name=obj['Tatbestand']||obj['Klasse']; if(name) rows.push({name,section,data:obj});
+    if(next.startsWith('|')&&/^\|?[\s:|-]+\|?$/.test(next)){headers=cells;i++;continue;}
+    if(!headers.length||cells.length<2) continue;
+    const obj={section};
+    headers.forEach((h,idx)=>obj[h]=cells[idx]||'–');
+    const name=obj['Tatbestand']||obj['Klasse'];
+    if(name) rows.push({name,section,data:obj});
   }
   return rows;
 }
@@ -183,12 +230,15 @@ function parseSentencingRows(md){
 async function buildPdIndex(){
   if(pdIndex) return pdIndex;
   const sections=[];
-  for(const law of laws.slice(1,11)){
-    try{sections.push(...extractSections(await fetchLaw(law),law));}catch(e){}
-  }
+  const sectionDocs=await Promise.all(laws.slice(1,11).map(async law=>{
+    try{return extractSections(await fetchLaw(law),law);}catch(e){return [];}
+  }));
+  sectionDocs.forEach(items=>sections.push(...items));
+
   let penalties=[];
   try{penalties=parseSentencingRows(await fetchLaw(laws[11]));}catch(e){}
-  pdIndex={sections,penalties}; return pdIndex;
+  pdIndex={sections,penalties};
+  return pdIndex;
 }
 
 function penaltyCard(row){
@@ -209,33 +259,57 @@ async function runPdSearch(term){
   const penaltyMatches=index.penalties.filter(r=>JSON.stringify(r).toLowerCase().includes(q)).slice(0,20);
   const sectionMatches=index.sections.filter(s=>`${s.code} § ${s.paragraph} ${s.title} ${s.body} ${s.law.short}`.toLowerCase().includes(q)).slice(0,25);
   let html=`<div class="pd-result-summary"><strong>${penaltyMatches.length+sectionMatches.length}</strong> Treffer für „${escapeHtml(term.trim())}“</div>`;
-  if(penaltyMatches.length){html+='<h2>Strafen & Maßnahmen</h2><div class="penalty-list">'+penaltyMatches.map(penaltyCard).join('')+'</div>';}
-  if(sectionMatches.length){html+='<h2>Passende Paragraphen</h2><div class="law-hit-list">'+sectionMatches.map(sectionCard).join('')+'</div>';}
+  if(penaltyMatches.length) html+='<h2>Strafen & Maßnahmen</h2><div class="penalty-list">'+penaltyMatches.map(penaltyCard).join('')+'</div>';
+  if(sectionMatches.length) html+='<h2>Passende Paragraphen</h2><div class="law-hit-list">'+sectionMatches.map(sectionCard).join('')+'</div>';
   if(!penaltyMatches.length&&!sectionMatches.length) html+='<div class="pd-empty">Keine passenden Treffer gefunden.</div>';
   pdSearchResults.innerHTML=html;
-  pdSearchResults.querySelectorAll('[data-path]').forEach(btn=>btn.addEventListener('click',()=>{const law=laws.find(l=>l.path===btn.dataset.path);if(law)openLaw(law);}));
+  pdSearchResults.querySelectorAll('[data-path]').forEach(btn=>btn.addEventListener('click',()=>{
+    const law=laws.find(l=>l.path===btn.dataset.path);
+    if(law) openLaw(law);
+  }));
 }
 
-async function showPdSearch(){
-  activePath=null; hideViews(); pdSearch.classList.remove('hidden');
+async function showPdSearch(updateHistory=true){
+  activePath=null;
+  hideViews();
+  pdSearch.classList.remove('hidden');
   document.querySelectorAll('.law-link').forEach(el=>el.classList.remove('active'));
-  history.replaceState(null,'',`${location.pathname}#pd-search`);
+  if(updateHistory) updateRoute('#pd-search');
   window.scrollTo({top:0,behavior:'smooth'});
+  closeMobileMenu();
   setTimeout(()=>pdSearchInput.focus(),100);
   await buildPdIndex();
 }
 
-function escapeHtml(value){return String(value).replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));}
+function routeFromLocation(){
+  const initial=decodeURIComponent(location.hash.slice(1));
+  if(initial==='pd-search'){
+    showPdSearch(false);
+    return;
+  }
+  const initialLaw=laws.find(l=>l.path===initial);
+  if(initialLaw){
+    openLaw(initialLaw,false);
+    return;
+  }
+  showHome(false);
+}
+
+function escapeHtml(value){
+  return String(value).replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
+}
 
 let debounce,debouncePd;
 function queueSearch(value){clearTimeout(debounce);debounce=setTimeout(()=>searchAll(value),220);}
 searchInput.addEventListener('input',()=>queueSearch(searchInput.value));
 homeSearchInput.addEventListener('input',()=>queueSearch(homeSearchInput.value));
 pdSearchInput.addEventListener('input',()=>{clearTimeout(debouncePd);debouncePd=setTimeout(()=>runPdSearch(pdSearchInput.value),180);});
-menuButton.addEventListener('click',()=>sidebar.classList.toggle('open'));
-homeButton.addEventListener('click',showHome);
-pdButton.addEventListener('click',showPdSearch);
-closePdButton.addEventListener('click',showHome);
+menuButton.addEventListener('click',()=>setMenuOpen(!sidebar.classList.contains('open')));
+homeButton.addEventListener('click',()=>showHome());
+pdButton.addEventListener('click',()=>showPdSearch());
+closePdButton.addEventListener('click',()=>showHome());
+window.addEventListener('popstate',routeFromLocation);
+window.addEventListener('resize',()=>{if(window.innerWidth>850)setMenuOpen(false);});
+document.addEventListener('keydown',event=>{if(event.key==='Escape'&&sidebar.classList.contains('open'))setMenuOpen(false);});
 
-const initial=decodeURIComponent(location.hash.slice(1));
-if(initial==='pd-search') showPdSearch(); else {const initialLaw=laws.find(l=>l.path===initial);if(initialLaw)openLaw(initialLaw);}
+routeFromLocation();
