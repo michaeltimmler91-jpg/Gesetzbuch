@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Digitales Gesetzbuch des State of San Andreas">
-  <title>Gesetzbuch | State of San Andreas</title>
+  <meta name="description" content="Bürgerportal des digitalen Gesetzbuchs des State of San Andreas">
+  <title>Bürgerportal | State of San Andreas</title>
   <link rel="stylesheet" href="styles.css">
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
@@ -14,11 +14,10 @@
       <span class="seal">SA</span>
       <span>
         <span class="eyebrow">STATE OF SAN ANDREAS</span>
-        <strong>Gesetzbuch</strong>
+        <strong>Bürgerportal</strong>
       </span>
     </button>
     <div class="top-actions">
-      <button id="pdButton" class="pd-button" type="button">PD-Schnellsuche</button>
       <button id="menuButton" class="menu-button" type="button" aria-label="Navigation öffnen" aria-controls="sidebar" aria-expanded="false">☰</button>
     </div>
   </header>
@@ -27,7 +26,7 @@
     <aside id="sidebar" class="sidebar">
       <div class="search-wrap">
         <label for="searchInput">Gesetze durchsuchen</label>
-        <input id="searchInput" type="search" placeholder="z. B. Mord, DUI, SAWC § 401 …" autocomplete="off">
+        <input id="searchInput" type="search" placeholder="z. B. Führerschein, Waffenrecht, Vertrag …" autocomplete="off">
       </div>
       <nav id="lawNav" class="law-nav" aria-label="Gesetzbücher"></nav>
     </aside>
@@ -36,9 +35,9 @@
       <section id="welcome" class="welcome-card">
         <div class="hero">
           <div>
-            <div class="badge">DIGITALES GESETZBUCH · STATE OF SAN ANDREAS</div>
-            <h1>Recht. Schnell gefunden.</h1>
-            <p>Das zentrale Gesetzwerk des State of San Andreas – mit Volltextsuche, direkter Navigation und schnellem Zugriff für Polizei, Justiz und Bürger.</p>
+            <div class="badge">BÜRGERPORTAL · STATE OF SAN ANDREAS</div>
+            <h1>Ihre Rechte. Ihre Gesetze.</h1>
+            <p>Das öffentliche Gesetzwerk des State of San Andreas – mit Volltextsuche, direkter Navigation und verständlichem Zugriff auf alle geltenden Gesetzbücher.</p>
           </div>
           <div class="hero-stat">
             <strong>12</strong>
@@ -48,44 +47,16 @@
 
         <div class="home-search">
           <span>⌕</span>
-          <input id="homeSearchInput" type="search" placeholder="Was möchtest du nachschlagen?" autocomplete="off">
+          <input id="homeSearchInput" type="search" placeholder="Was möchten Sie nachschlagen?" autocomplete="off">
         </div>
 
         <div class="section-heading">
           <div>
-            <span class="kicker">SCHNELLZUGRIFF</span>
+            <span class="kicker">GESETZWERK</span>
             <h2>Alle Gesetzbücher</h2>
           </div>
         </div>
         <div class="quick-grid" id="quickGrid"></div>
-
-        <section class="pd-panel">
-          <div>
-            <span class="kicker">FÜR DEN DIENST</span>
-            <h2>PD-Schnellzugriff</h2>
-            <p>Direkt zu den Bereichen, die im Streifendienst am häufigsten gebraucht werden.</p>
-          </div>
-          <div id="pdQuickGrid" class="pd-quick-grid"></div>
-        </section>
-      </section>
-
-      <section id="pdSearch" class="pd-search-view hidden">
-        <div class="pd-search-head">
-          <div>
-            <span class="kicker">POLICE DEPARTMENT</span>
-            <h1>PD-Schnellsuche</h1>
-            <p>Suche nach Tatbestand, Paragraph oder Stichwort. Strafrahmen und passende Gesetzesstellen werden gemeinsam angezeigt.</p>
-          </div>
-          <button id="closePdButton" class="secondary-button" type="button">Zurück</button>
-        </div>
-        <div class="pd-search-box">
-          <span>⌕</span>
-          <input id="pdSearchInput" type="search" placeholder="z. B. Mord, Flucht, Drogenhandel, DUI …" autocomplete="off">
-        </div>
-        <div class="pd-hint">Tipp: Die Suche funktioniert auch mit englischen Begriffen wie <strong>Murder</strong>, <strong>Robbery</strong> oder <strong>Evading</strong>.</div>
-        <div id="pdSearchResults" class="pd-search-results">
-          <div class="pd-empty">Gib oben einen Suchbegriff ein.</div>
-        </div>
       </section>
 
       <section id="searchResults" class="search-results hidden"></section>
@@ -96,7 +67,7 @@
   </div>
 
   <footer>
-    <span>State of San Andreas · Digitales Gesetzwerk</span>
+    <span>State of San Andreas · Bürgerportal</span>
     <span>Kein reales Rechtsdokument</span>
   </footer>
 
