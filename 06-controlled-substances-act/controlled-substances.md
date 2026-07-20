@@ -1,10 +1,10 @@
 # San Andreas Controlled Substances Act (SACSA)
 
-> Betäubungsmittel- und Drogenrecht des State of San Andreas – RP-Fassung
+> Betäubungsmittel- und Drogenrecht des State of San Andreas
 
 ## Präambel
 
-Der San Andreas Controlled Substances Act regelt Besitz, Erwerb, Herstellung, Verarbeitung, Transport und Handel kontrollierter Substanzen. Das Gesetz unterscheidet zwischen geringfügigem Besitz zum Eigenbedarf und organisierter Drogenkriminalität und soll verhältnismäßige sowie RP-taugliche Strafverfolgung ermöglichen.
+Der San Andreas Controlled Substances Act regelt Besitz, Erwerb, Herstellung, Verarbeitung, Transport und Handel kontrollierter Substanzen. Das Gesetz unterscheidet zwischen geringfügigem Besitz zum Eigenbedarf und organisierter Drogenkriminalität und gewährleistet eine verhältnismäßige, einheitliche und rechtsstaatliche Strafverfolgung.
 
 Konkrete Mengengrenzen, Geldstrafen, Hafteinheiten und Nebenfolgen werden im zentralen `Sentencing & Fine Schedule` festgelegt.
 
@@ -139,7 +139,7 @@ Eine konkrete Vereinbarung mehrerer Personen zur gemeinsamen Durchführung schwe
 Die Verschleierung von Vermögenswerten aus Drogenhandel richtet sich ergänzend nach den Geldwäschebestimmungen des San Andreas Penal Code.
 
 ## SACSA § 704 – RICO Proceedings
-Fortgesetzte organisierte Drogenkriminalität kann bei Vorliegen der gesetzlichen Voraussetzungen Gegenstand eines RICO-ähnlichen Verfahrens sein.
+Fortgesetzte organisierte Drogenkriminalität kann bei Vorliegen der gesetzlichen Voraussetzungen Gegenstand eines Verfahrens nach den Vorschriften über organisierte Kriminalität sein.
 
 ---
 
@@ -194,19 +194,19 @@ Unmittelbar aus schweren Drogendelikten stammende oder hierfür eingesetzte Verm
 
 ---
 
-# Title XI – Übergangsregelung ohne aktive Justiz
+# Title XI – Vorläufige Maßnahmen und gerichtliche Zuständigkeit
 
-## SACSA § 1101 – Anwendung des regulären Strafkatalogs
-Solange keine aktive Justiz vorhanden ist, werden Drogendelikte nach dem regulären Straf- und Bußgeldkatalog behandelt.
+## SACSA § 1101 – Anwendung des Strafkatalogs
+Drogendelikte werden nach den materiellen Vorschriften dieses Gesetzes und den Sanktionen des geltenden `Sentencing & Fine Schedule` behandelt.
 
-## SACSA § 1102 – Keine dauerhafte große Vermögenseinziehung
-Während der Übergangsphase dürfen Polizei- oder Ermittlungsbehörden keine endgültige umfangreiche Einziehung von Unternehmen, Immobilien oder größeren Vermögenswerten allein anordnen.
+## SACSA § 1102 – Dauerhafte Vermögenseinziehung
+Die endgültige umfangreiche Einziehung von Unternehmen, Immobilien oder größeren legalen Vermögenswerten darf nur auf gesetzlicher Grundlage und grundsätzlich aufgrund einer gerichtlichen Entscheidung erfolgen.
 
 ## SACSA § 1103 – Sicherstellung von Tatmitteln und Beweisen
-Unmittelbar illegale Substanzen, Beweismittel und erforderliche Tatmittel dürfen weiterhin rechtmäßig sichergestellt werden.
+Illegale Substanzen, Beweismittel und erforderliche Tatmittel dürfen im Rahmen einer rechtmäßigen Maßnahme vorläufig sichergestellt werden. Die dauerhafte Einziehung richtet sich nach den hierfür geltenden gesetzlichen Verfahren.
 
 ---
 
 ## Hinweis zum Strafkatalog
 
-Die konkreten Mengengrenzen für Eigenbedarf, verschärften Besitz und Handelsmengen sowie die jeweiligen Geldstrafen, Hafteinheiten und Nebenfolgen werden im zentralen `Sentencing & Fine Schedule` festgelegt. Dadurch können Balancing-Anpassungen vorgenommen werden, ohne den Controlled Substances Act selbst zu verändern.
+Die konkreten Mengengrenzen für Eigenbedarf, verschärften Besitz und Handelsmengen sowie die jeweiligen Geldstrafen, Hafteinheiten und Nebenfolgen werden im zentralen `Sentencing & Fine Schedule` festgelegt. Änderungen bedürfen einer ordnungsgemäßen Bekanntmachung und dürfen nicht rückwirkend strafverschärfend angewendet werden.
