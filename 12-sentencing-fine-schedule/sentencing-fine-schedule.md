@@ -25,7 +25,7 @@ Bei mehreren voneinander unabhängigen Straftaten können Strafen grundsätzlich
 Erfüllt eine einzelne Handlung mehrere Tatbestände, kann der schwerste Tatbestand als Grundlage dienen und die weiteren Tatbestände angemessen strafverschärfend berücksichtigt werden, soweit keine eigenständigen Rechtsgüter betroffen sind.
 
 ## SFS § 105 – Versuch
-Der strafbare Versuch kann grundsätzlich mit bis zu 75 % des vorgesehenen Strafrahmens der vollendeten Tat geahndet werden.
+Der strafbare Versuch kann grundsätzlich mit bis zu 75 % des vorgesehenen Strafrahmens der vollendeten Tat geahndet werden. Spezialtatbestände wie `SAPC § 208 – Attempted Murder` gehen dieser allgemeinen Regel vor.
 
 ## SFS § 106 – Beihilfe
 Nachgewiesene Beihilfe kann grundsätzlich mit bis zu 75 % der Strafe des Haupttäters geahndet werden.
@@ -59,76 +59,153 @@ Eine strafrechtliche Verurteilung führt nicht automatisch zu einem Character De
 | Felony C | schweres Verbrechen | $10.000–$30.000 | 25–60 HE |
 | Felony B | sehr schweres Verbrechen | $20.000–$50.000 | 40–90 HE |
 | Felony A | schwerstes reguläres Verbrechen | $30.000–$100.000 | 60–120 HE |
-| Capital / Special | außergewöhnlicher Fall | gerichtliche Entscheidung | gerichtliche Entscheidung |
+| Special | außergewöhnlicher Fall | gerichtliche Entscheidung | gerichtliche Entscheidung |
 
-Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschlägigen Gesetz und diesem Katalog.
-
----
-
-# Title III – Delikte gegen Personen
-
-| Tatbestand | Geldstrafe | Haft | Mögliche Nebenfolgen |
-|---|---:|---:|---|
-| Einfache Körperverletzung / Assault | $2.000 | 10 HE | – |
-| Schwere Körperverletzung | $7.500 | 25 HE | Waffenprüfung möglich |
-| Körperverletzung mit tödlicher Waffe | $15.000 | 40 HE | Waffenlizenzentzug möglich |
-| Versuchter Totschlag | $25.000 | 60 HE | Waffenlizenzentzug |
-| Totschlag / Manslaughter | $35.000 | 75 HE | Waffenlizenzentzug |
-| Mord / Murder | $50.000 | 100 HE | Waffenlizenzentzug, Justizfall möglich |
-| Schwerer oder mehrfacher Mord | ab $75.000 | 120 HE oder Justiz | gerichtliche Entscheidung |
-| Fahrlässige Tötung | $15.000 | 35 HE | Führerscheinentzug möglich |
-| Bedrohung | $2.500 | 10 HE | – |
-| Schwere bewaffnete Bedrohung | $7.500 | 20 HE | Waffenlizenzentzug möglich |
-| Freiheitsberaubung | $7.500 | 25 HE | – |
-| Entführung / Kidnapping | $15.000 | 40 HE | – |
-| Schwere Entführung | $25.000 | 60 HE | – |
-| Geiselnahme | $30.000 | 70 HE | – |
+Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschlägigen Gesetz und diesem Katalog. Eine Todesstrafe existiert nicht.
 
 ---
 
-# Title IV – Eigentums- und Vermögensdelikte
+# Title III – SAPC Title II: Straftaten gegen Leib und Leben
 
-| Tatbestand | Geldstrafe | Haft | Nebenfolgen |
-|---|---:|---:|---|
-| Geringfügiger Diebstahl | $1.000 | 5 HE | Rückgabe/Schadensersatz |
-| Diebstahl | $3.000 | 10 HE | Rückgabe/Schadensersatz |
-| Schwerer Diebstahl | $7.500 | 20 HE | Rückgabe/Schadensersatz |
-| Fahrzeugdiebstahl | $7.500 | 20 HE | Fahrzeugbeschlagnahme falls Tatmittel |
-| Einbruch | $7.500 | 25 HE | – |
-| Raub | $10.000 | 30 HE | – |
-| Bewaffneter Raub | $20.000 | 50 HE | Waffenlizenzentzug möglich |
-| Schwerer bewaffneter Raub | $30.000 | 70 HE | Waffenlizenzentzug |
-| Sachbeschädigung | $1.000–$5.000 | 0–10 HE | Schadensersatz |
-| Schwere Sachbeschädigung | $5.000–$15.000 | 10–25 HE | Schadensersatz |
-| Brandstiftung | $15.000 | 40 HE | Schadensersatz |
-| Schwere Brandstiftung mit Personengefahr | $30.000 | 70 HE | – |
-| Betrug | $5.000 | 15 HE | Rückzahlung/Schadensersatz |
-| Schwerer Betrug | $15.000 | 35 HE | Vermögenssicherung möglich |
-| Erpressung | $10.000 | 30 HE | – |
+| Code | Tatbestand | Geldstrafe | Haft | Mögliche Nebenfolgen |
+|---|---|---:|---:|---|
+| SAPC § 201 | Assault | $2.000 | 10 HE | – |
+| SAPC § 202 | Battery | $3.500 | 15 HE | – |
+| SAPC § 203 | Aggravated Assault | $10.000 | 30 HE | Waffenlizenzprüfung möglich |
+| SAPC § 204 | Aggravated Battery | $15.000 | 40 HE | Waffenlizenzentzug möglich |
+| SAPC § 205 | Manslaughter | $35.000 | 75 HE | Lizenzfolgen möglich |
+| SAPC § 206 | Murder | $50.000 | 100 HE | Waffenlizenzentzug, Justizfall möglich |
+| SAPC § 207 | Aggravated Murder | ab $75.000 | 120 HE oder Justiz | gerichtliche Sonderentscheidung möglich |
+| SAPC § 208 | Attempted Murder | $30.000 | 70 HE | Waffenlizenzentzug möglich |
+| SAPC § 209 | Reckless Endangerment | $7.500 | 20 HE | Lizenzfolgen je nach Tatmittel |
 
 ---
 
-# Title V – Straftaten gegen den Staat und die Justiz
+# Title IV – SAPC Title III: Freiheitsdelikte
 
-| Tatbestand | Geldstrafe | Haft | Nebenfolgen |
-|---|---:|---:|---|
-| Widerstand gegen Vollstreckungsbeamte | $3.000 | 10 HE | – |
-| Flucht vor Festnahme zu Fuß | $2.500 | 10 HE | – |
-| Behinderung der Justiz | $5.000 | 15 HE | – |
-| Beweisvernichtung | $7.500 | 25 HE | – |
-| Zeugenbeeinflussung | $10.000 | 30 HE | – |
-| Meineid | $10.000 | 30 HE | – |
-| Bestechung | $15.000 | 40 HE | Amts-/Lizenzfolgen möglich |
-| Korruption im Amt | $25.000 | 60 HE | Amtsenthebung möglich |
-| Amtsmissbrauch | $10.000 | 30 HE | Suspendierung/Amtsenthebung möglich |
-| Gefangenenbefreiung | $15.000 | 40 HE | – |
-| Fluchthilfe | $10.000 | 30 HE | – |
-| Missachtung gerichtlicher Anordnung | $5.000 | 15 HE | weitere gerichtliche Maßnahmen |
-| Vortäuschen einer Straftat / falscher Notruf | $2.500 | 10 HE | Einsatzkosten möglich |
+| Code | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
+|---|---|---:|---:|---|
+| SAPC § 301 | Unlawful Restraint | $7.500 | 25 HE | – |
+| SAPC § 302 | Kidnapping | $15.000 | 40 HE | – |
+| SAPC § 303 | Aggravated Kidnapping | $25.000 | 60 HE | – |
+| SAPC § 304 | Hostage Taking | $30.000 | 70 HE | – |
+| SAPC § 305 | Ransom Extortion | $20.000 | 50 HE | Vermögenssicherung möglich |
+| SAPC § 306 | Human Trafficking | $40.000 | 90 HE | Justizfall/RICO möglich |
 
 ---
 
-# Title VI – Waffenverstöße
+# Title V – SAPC Title IV: Eigentums- und Vermögensdelikte
+
+| Code | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
+|---|---|---:|---:|---|
+| SAPC § 401 | Theft | $3.000 | 10 HE | Rückgabe/Schadensersatz |
+| SAPC § 402 | Grand Theft | $7.500 | 20 HE | Rückgabe/Schadensersatz |
+| SAPC § 403 | Vehicle Theft | $7.500 | 20 HE | Tatfahrzeug ggf. sicherstellbar |
+| SAPC § 404 | Burglary | $7.500 | 25 HE | – |
+| SAPC § 405 | Trespassing | $1.500 | 5 HE | Hausverbot möglich |
+| SAPC § 406 | Robbery | $10.000 | 30 HE | – |
+| SAPC § 407 | Armed Robbery | $20.000 | 50 HE | Waffenlizenzentzug möglich |
+| SAPC § 408 | Aggravated Robbery | $30.000 | 70 HE | Waffenlizenzentzug möglich |
+| SAPC § 409 | Bank Robbery | $30.000 | 70 HE | Tatmittel sicherstellbar |
+| SAPC § 410 | Armored Transport Robbery | $35.000 | 75 HE | Tatmittel sicherstellbar |
+| SAPC § 411 | Robbery of Government Facility | $40.000 | 80 HE | Justizfall möglich |
+| SAPC § 412 | Critical Infrastructure Robbery | $45.000 | 90 HE | Justizfall möglich |
+| SAPC § 413 | Property Damage | $1.000–$10.000 | 0–20 HE | Schadensersatz |
+| SAPC § 414 | Arson | $15.000 | 40 HE | Schadensersatz; bei Personengefahr höhere Einstufung möglich |
+
+---
+
+# Title VI – SAPC Title V: Betrug und Wirtschaftskriminalität
+
+| Code | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
+|---|---|---:|---:|---|
+| SAPC § 501 | Fraud | $5.000–$15.000 | 15–35 HE | Rückzahlung/Schadensersatz |
+| SAPC § 502 | Embezzlement | $10.000 | 30 HE | Rückzahlung, Amts-/Firmenfolgen möglich |
+| SAPC § 503 | Money Laundering | $20.000 | 50 HE | Vermögenssicherung möglich |
+| SAPC § 504 | Tax Evasion | $10.000 | 25 HE | Nachzahlung möglich |
+| SAPC § 505 | Document Forgery | $7.500 | 20 HE | Dokumente einziehbar |
+| SAPC § 506 | Insurance Fraud | $7.500 | 20 HE | Rückzahlung möglich |
+| SAPC § 507 | Extortion | $10.000 | 30 HE | – |
+| SAPC § 508 | Bribery | $15.000 | 40 HE | Amts-/Lizenzfolgen möglich |
+| SAPC § 509 | Corporate Criminal Liability | fallabhängig | fallabhängig | Geldstrafe, Lizenzmaßnahme oder gerichtliche Maßnahme |
+
+---
+
+# Title VII – SAPC Title VI: Staat, Justiz und öffentliche Ordnung
+
+| Code | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
+|---|---|---:|---:|---|
+| SAPC § 601 | Obstruction of Justice | $5.000 | 15 HE | – |
+| SAPC § 602 | Resisting Arrest | $3.000 | 10 HE | – |
+| SAPC § 603 | Evading Arrest | $2.500 | 10 HE | – |
+| SAPC § 604 | Interference with Law Enforcement | $3.000 | 10 HE | – |
+| SAPC § 605 | Assault on Law Enforcement | $7.500 | 25 HE | – |
+| SAPC § 606 | Aggravated Assault on Law Enforcement | $20.000 | 50 HE | Waffenlizenzentzug möglich |
+| SAPC § 607 | Impersonating Law Enforcement | $7.500 | 20 HE | Ausrüstung sicherstellbar |
+| SAPC § 608 | Perjury | $10.000 | 30 HE | – |
+| SAPC § 609 | Witness Tampering | $10.000 | 30 HE | – |
+| SAPC § 610 | Evidence Tampering | $7.500 | 25 HE | – |
+| SAPC § 611 | False Report | $2.500 | 10 HE | – |
+| SAPC § 612 | Emergency Call Abuse | $2.500 | 10 HE | Einsatzkosten möglich |
+| SAPC § 613 | Interference with Emergency Services | $5.000 | 15 HE | – |
+| SAPC § 614 | Unauthorized Emergency Equipment | $5.000 | 10 HE | Ausrüstung sicherstellbar |
+
+---
+
+# Title VIII – SAPC Title VII: Amtsdelikte
+
+| Code | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
+|---|---|---:|---:|---|
+| SAPC § 701 | Abuse of Office | $10.000 | 30 HE | Suspendierung/Amtsenthebung möglich |
+| SAPC § 702 | Official Corruption | $25.000 | 60 HE | Amtsenthebung möglich |
+| SAPC § 703 | Obstruction by Public Official | $15.000 | 40 HE | Amtsfolgen möglich |
+| SAPC § 704 | Evidence Manipulation by Public Official | $20.000 | 50 HE | Amtsenthebung möglich |
+| SAPC § 705 | Unlawful Arrest | $10.000 | 25 HE | Amts-/Zivilfolgen möglich |
+| SAPC § 706 | Excessive Use of Force | $15.000 | 35 HE | Amts-/Zivilfolgen möglich |
+| SAPC § 707 | Unauthorized Disclosure of Confidential Information | $10.000 | 25 HE | Amtsfolgen möglich |
+| SAPC § 708 | Misuse of Government Databases | $7.500 | 20 HE | Amtsfolgen möglich |
+
+---
+
+# Title IX – SAPC Title VIII: Organisierte Kriminalität
+
+| Code | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
+|---|---|---:|---:|---|
+| SAPC § 801 | Criminal Organization | $20.000 | 50 HE | nur bei nachgewiesener aktiver Beteiligung |
+| SAPC § 802 | Organized Criminal Activity | $30.000 | 70 HE | RICO möglich |
+| SAPC § 803 | Criminal Conspiracy | bis 75 % der Zieltat | bis 75 % der Zieltat | abhängig von geplanter Straftat |
+| SAPC § 804 | RICO Proceedings | gerichtliches Verfahren | gerichtliches Verfahren | Vermögens-/Unternehmensmaßnahmen möglich |
+
+---
+
+# Title X – SAPC Title IX: Digitale Straftaten
+
+| Code | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
+|---|---|---:|---:|---|
+| SAPC § 901 | Unauthorized Computer Access | $5.000 | 15 HE | Geräte/Beweise sicherstellbar |
+| SAPC § 902 | Data Theft | $10.000 | 25 HE | Geräte/Beweise sicherstellbar |
+| SAPC § 903 | Data Manipulation | $10.000 | 25 HE | Schadensersatz möglich |
+| SAPC § 904 | Identity Theft | $10.000 | 25 HE | Schadensersatz möglich |
+| SAPC § 905 | Digital Fraud | $10.000 | 25 HE | Rückzahlung möglich |
+| SAPC § 906 | Cyber Extortion | $15.000 | 40 HE | – |
+| SAPC § 907 | Attack on Government Systems | $25.000 | 60 HE | Justizfall möglich |
+| SAPC § 908 | Attack on Critical Infrastructure | $40.000 | 90 HE | Justizfall möglich |
+| SAPC § 909 | Unlawful Surveillance | $7.500 | 20 HE | Geräte/Beweise sicherstellbar |
+
+---
+
+# Title XI – SAPC Title X: Glücksspiel
+
+| Code | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
+|---|---|---:|---:|---|
+| SAPC § 1001 | Unlicensed Gambling Operation | $5.000 | 10 HE | Betriebsschließung/Lizenzmaßnahme möglich |
+| SAPC § 1002 | Illegal Gambling Enterprise | $15.000 | 35 HE | Betriebsschließung möglich |
+| SAPC § 1003 | Gambling Fraud | $10.000 | 25 HE | Rückzahlung möglich |
+| SAPC § 1004 | Gambling-Related Money Laundering | $25.000 | 60 HE | Vermögenssicherung möglich |
+
+---
+
+# Title XII – Waffenverstöße
 
 | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
 |---|---:|---:|---|
@@ -145,9 +222,9 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 
 ---
 
-# Title VII – Controlled Substances
+# Title XIII – Controlled Substances
 
-## SFS § 701 – Mengenstufen
+## SFS § 1301 – Mengenstufen
 Die folgenden Kategorien dienen als RP-Balancing. Technisch unterschiedliche Items können durch Serverregelung konkreten Substanzklassen zugeordnet werden.
 
 - **Eigenbedarf:** geringe Menge ohne konkrete Handelsindizien
@@ -175,13 +252,14 @@ Die Good Samaritan Rule des SACSA bleibt unberührt.
 
 ---
 
-# Title VIII – Verkehrsverstöße
+# Title XIV – Verkehrsverstöße
 
 | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
 |---|---:|---:|---|
 | Geringe Geschwindigkeitsüberschreitung | $250 | – | – |
 | Mittlere Geschwindigkeitsüberschreitung | $500 | – | – |
 | Erhebliche Geschwindigkeitsüberschreitung | $1.000 | – | Führerscheinmaßnahmen möglich |
+| Careless Driving | $1.000 | – | – |
 | Reckless Driving | $2.500 | 5 HE | Führerscheinentzug möglich |
 | Fahren ohne gültige Fahrerlaubnis | $2.000 | – | Weiterfahrt untersagt |
 | Fahren trotz Entzug | $5.000 | 10 HE | Fahrzeugmaßnahme möglich |
@@ -190,16 +268,19 @@ Die Good Samaritan Rule des SACSA bleibt unberührt.
 | Fahrerflucht nach Sachschaden | $3.000 | 5 HE | Führerscheinmaßnahmen möglich |
 | Fahrerflucht mit Personenschaden | $10.000 | 25 HE | Führerscheinentzug |
 | Illegales Straßenrennen | $5.000 | 10 HE | Führerscheinentzug möglich |
+| Organisation illegaler Straßenrennen | $7.500 | 15 HE | Lizenz-/Fahrzeugfolgen möglich |
 | Flucht vor Polizei im Fahrzeug | $7.500 | 20 HE | Führerscheinentzug möglich |
 | Schwere gefährliche Flucht | $15.000 | 40 HE | Führerscheinentzug, Fahrzeug sicherstellbar |
+| Vorsätzliches Rammen eines Polizeifahrzeugs | $15.000 | 35 HE | Führerscheinentzug möglich |
 | Missbrauch von Einsatzfahrzeug/Sondersignal | $5.000 | 10 HE | – |
-| Falsches/fehlendes Kennzeichen | $1.500 | – | Fahrzeugkontrolle |
+| Kennzeichenmanipulation | $3.000 | 5 HE | Fahrzeugkontrolle möglich |
+| Fehlende Zulassung/Kennzeichen | $1.500 | – | Weiterfahrt ggf. untersagt |
 
 ---
 
-# Title IX – Lizenzmaßnahmen
+# Title XV – Lizenzmaßnahmen
 
-## SFS § 901 – Führerscheinentzug
+## SFS § 1501 – Führerscheinentzug
 Ein Führerschein kann bei schweren oder wiederholten Verkehrsdelikten vorübergehend entzogen werden.
 
 Empfohlene Stufen:
@@ -208,26 +289,26 @@ Empfohlene Stufen:
 - Stufe 3: 7–14 Tage
 - Dauerhafter Entzug: nur in außergewöhnlichen Fällen und grundsätzlich durch Justiz
 
-## SFS § 902 – Waffenlizenzentzug
+## SFS § 1502 – Waffenlizenzentzug
 Bei schweren Waffendelikten oder vorsätzlichen schweren Gewaltdelikten kann eine Waffenlizenz vorübergehend oder dauerhaft entzogen werden.
 
-## SFS § 903 – Gewerbelizenz
+## SFS § 1503 – Gewerbelizenz
 Schwere wiederholte unmittelbar betriebsbezogene Verstöße können zur Aussetzung einer Gewerbelizenz führen. Dauerhafte Entzüge richten sich nach dem Business & Licensing Code.
 
-## SFS § 904 – Medizinische oder besondere Berufslizenzen
+## SFS § 1504 – Medizinische oder besondere Berufslizenzen
 Berufslizenzen dürfen nur bei unmittelbar berufsbezogenen erheblichen Verstößen und nach den hierfür vorgesehenen Verfahren eingeschränkt werden.
 
 ---
 
-# Title X – Fahrzeugmaßnahmen
+# Title XVI – Fahrzeugmaßnahmen
 
-## SFS § 1001 – Abschleppen
+## SFS § 1601 – Abschleppen
 Fahrzeuge können bei Verkehrsbehinderung, fehlender Fahrtauglichkeit oder anderen gesetzlichen Voraussetzungen abgeschleppt werden.
 
-## SFS § 1002 – Sicherstellung
+## SFS § 1602 – Sicherstellung
 Ein Fahrzeug kann vorübergehend als Beweismittel oder unmittelbares Tatmittel sichergestellt werden.
 
-## SFS § 1003 – Impound
+## SFS § 1603 – Impound
 Bei schweren Verkehrsdelikten kann ein Fahrzeug für eine serverseitig festgelegte Zeit in den Impound verbracht werden.
 
 Empfohlene Dauer:
@@ -235,14 +316,14 @@ Empfohlene Dauer:
 - mittlerer Fall: bis 72 Stunden
 - schwerer Wiederholungsfall: bis 7 Tage
 
-## SFS § 1004 – Dauerhafte Einziehung
+## SFS § 1604 – Dauerhafte Einziehung
 Eine dauerhafte Einziehung wertvoller Fahrzeuge bedarf grundsätzlich einer gerichtlichen Entscheidung und darf nicht als reguläre Standardstrafe durch einen einzelnen Officer erfolgen.
 
 ---
 
-# Title XI – Strafmilderung und Strafverschärfung
+# Title XVII – Strafmilderung und Strafverschärfung
 
-## SFS § 1101 – Strafmildernde Faktoren
+## SFS § 1701 – Strafmildernde Faktoren
 Mögliche Faktoren sind insbesondere:
 - glaubhaftes Geständnis
 - freiwillige erhebliche Kooperation
@@ -253,7 +334,7 @@ Mögliche Faktoren sind insbesondere:
 
 Eine Minderung von insgesamt etwa 10–30 % kann regelmäßig angemessen sein. Größere Reduzierungen bedürfen einer besonderen Begründung oder gerichtlichen Vereinbarung.
 
-## SFS § 1102 – Strafverschärfende Faktoren
+## SFS § 1702 – Strafverschärfende Faktoren
 Mögliche Faktoren sind insbesondere:
 - einschlägige Wiederholung
 - besonders planmäßige Durchführung
@@ -263,39 +344,39 @@ Mögliche Faktoren sind insbesondere:
 
 Eine Erhöhung von insgesamt etwa 10–30 % kann regelmäßig angemessen sein, soweit der betreffende Umstand nicht bereits Bestandteil des Tatbestands ist.
 
-## SFS § 1103 – Keine Doppelverwertung
+## SFS § 1703 – Keine Doppelverwertung
 Ein Umstand, der bereits zwingender Bestandteil eines verschärften Tatbestands ist, soll nicht nochmals vollständig als Strafverschärfung verwendet werden.
 
 ---
 
-# Title XII – Maximale unmittelbare Polizeistrafe
+# Title XVIII – Maximale unmittelbare Polizeistrafe
 
-## SFS § 1201 – Übergangsphase ohne aktive Justiz
+## SFS § 1801 – Übergangsphase ohne aktive Justiz
 Solange keine aktive Justiz verfügbar ist, dürfen Polizei- und Vollzugsbehörden reguläre Strafen nach diesem Katalog unmittelbar verhängen.
 
-## SFS § 1202 – Obergrenze
+## SFS § 1802 – Obergrenze
 Ohne aktive richterliche Entscheidung soll eine einzelne zusammenhängende Strafsache grundsätzlich **120 HE** nicht überschreiten.
 
-## SFS § 1203 – Schwere Sonderfälle
+## SFS § 1803 – Schwere Sonderfälle
 Fälle, die nach Gesetz eine darüber hinausgehende Sanktion, dauerhafte umfangreiche Vermögenseinziehung oder vergleichbare endgültige Maßnahme erfordern würden, sind bis zur Verfügbarkeit einer zuständigen Justiz auf die zulässigen Übergangsmaßnahmen zu begrenzen.
 
-## SFS § 1204 – Keine lebenslange Haft durch Polizei
+## SFS § 1804 – Keine lebenslange Haft durch Polizei
 Lebenslange Freiheitsstrafen dürfen nicht unmittelbar durch Polizeibehörden verhängt werden.
 
 ---
 
-# Title XIII – RP- und Balancing-Klausel
+# Title XIX – RP- und Balancing-Klausel
 
-## SFS § 1301 – RP-Verhältnismäßigkeit
+## SFS § 1901 – RP-Verhältnismäßigkeit
 Strafen sollen Konsequenzen schaffen, dürfen aber laufendes oder zukünftiges RP nicht unnötig dauerhaft verhindern.
 
-## SFS § 1302 – Technische Fehler
+## SFS § 1902 – Technische Fehler
 Offensichtliche technische Fehler, Desync, ungewollte GTA-Mechaniken oder vergleichbare OOC-Probleme dürfen nicht ohne angemessene RP-Grundlage als Straftat behandelt werden.
 
-## SFS § 1303 – Serverregelwerk
+## SFS § 1903 – Serverregelwerk
 OOC-Regelverstöße werden durch das Serverregelwerk und das Serverteam behandelt und sind nicht automatisch IC-Straftaten.
 
-## SFS § 1304 – Anpassung
+## SFS § 1904 – Anpassung
 Die Regierung oder eine zuständige administrative Stelle kann reine Balancing-Werte dieses Katalogs nach öffentlicher Bekanntgabe an die Serverökonomie anpassen, solange dadurch keine rückwirkende Strafverschärfung erfolgt.
 
 ---
