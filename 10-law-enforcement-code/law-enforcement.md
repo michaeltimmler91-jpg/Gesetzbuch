@@ -54,6 +54,13 @@ Unterschiedliche Vollzugsbehörden sollen Zuständigkeitsfragen nicht auf Kosten
 ## SALEC § 206 – Einrichtung und personelle Besetzung
 Die Befugnisse einer Behörde werden mit ihrer ordnungsgemäßen Einrichtung und personellen Besetzung ausgeübt. Bis dahin können gesetzlich zuständige andere Behörden im Rahmen ihrer eigenen Befugnisse notwendige Aufgaben wahrnehmen. Eine nicht eingerichtete oder nicht besetzte Behörde überträgt ihre besonderen ausschließlichen Befugnisse nicht automatisch auf eine andere Stelle.
 
+## SALEC § 207 – Strafverfolgung ohne eingerichtete Staatsanwaltschaft
+Ist keine zuständige Staatsanwaltschaft eingerichtet oder personell besetzt, bleiben die gesetzlichen Ermittlungs-, Festnahme-, Vollzugs- und Sanktionsbefugnisse der zuständigen Vollzugsbehörden unberührt.
+
+Vollzugsbehörden dürfen Strafsachen innerhalb ihrer gesetzlichen Zuständigkeit selbstständig bearbeiten und die im Sentencing & Fine Schedule ausdrücklich für den unmittelbaren Vollzug vorgesehenen Sanktionen verhängen. Verfahren oder Entscheidungen, die gesetzlich einem Gericht vorbehalten sind, können durch die ermittelnde Vollzugsbehörde unmittelbar dem zuständigen Gericht vorgelegt werden.
+
+Die fehlende Einrichtung oder Besetzung einer Staatsanwaltschaft überträgt keine richterlichen Befugnisse auf Vollzugsbehörden und erweitert deren gesetzliche Strafgewalt nicht.
+
 ---
 
 # Title III – Polizeiliche Kontakte und Identitätsfeststellung
