@@ -19,7 +19,7 @@ Jede strafprozessuale Maßnahme bedarf einer gesetzlichen Grundlage und muss ver
 Eine Person gilt bis zu einer rechtskräftigen Verurteilung als unschuldig.
 
 ## SACCP § 103 – Beweislast
-Die staatliche Anklage trägt im Strafverfahren die Beweislast für die Schuld des Beschuldigten.
+Die Staatsanwaltschaft oder eine sonstige gesetzlich zur Vertretung der staatlichen Anklage befugte Stelle trägt im gerichtlichen Strafverfahren die Beweislast für die Schuld des Beschuldigten.
 
 ## SACCP § 104 – Beweisstandard
 Eine strafrechtliche Verurteilung darf nur erfolgen, wenn die Schuld des Angeklagten über vernünftige Zweifel hinaus nachgewiesen ist.
@@ -29,6 +29,15 @@ Niemand ist verpflichtet, sich selbst einer Straftat zu bezichtigen oder an sein
 
 ## SACCP § 106 – Schweigerecht
 Beschuldigte haben das Recht, zu Vorwürfen und Ermittlungsfragen zu schweigen. Das Schweigen allein darf nicht als Schuldeingeständnis oder als Beweis der Schuld gewertet werden.
+
+## SACCP § 107 – Verfahren ohne eingerichtete Staatsanwaltschaft
+Ist keine zuständige Staatsanwaltschaft eingerichtet oder personell besetzt, bleiben die gesetzlichen Ermittlungs-, Festnahme-, Sicherungs- und Vollzugsbefugnisse der zuständigen Strafverfolgungsbehörden unberührt.
+
+Strafsachen, die innerhalb der gesetzlich vorgesehenen unmittelbaren Sanktionsbefugnisse einer Vollzugsbehörde abgeschlossen werden dürfen, können von dieser selbstständig bearbeitet und nach Maßgabe des Sentencing & Fine Schedule abgeschlossen werden.
+
+Bedarf eine Strafsache einer gerichtlichen Entscheidung, kann die ermittelnde Strafverfolgungsbehörde den Fall unmittelbar dem zuständigen Gericht vorlegen und dort im gesetzlich zulässigen Umfang die staatliche Anklage vertreten, solange keine zuständige Staatsanwaltschaft eingerichtet oder personell besetzt ist. Das Gericht bleibt unabhängig und ist weder an die rechtliche Bewertung noch an eine Strafempfehlung der vorlegenden Behörde gebunden.
+
+Die fehlende Einrichtung oder Besetzung einer Staatsanwaltschaft erweitert weder die gesetzlichen Strafrahmen noch die richterlich vorbehaltenen Befugnisse der Vollzugsbehörden.
 
 ---
 
