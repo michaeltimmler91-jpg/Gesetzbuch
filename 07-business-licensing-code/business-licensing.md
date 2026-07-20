@@ -1,10 +1,10 @@
 # San Andreas Business & Licensing Code (SABLC)
 
-> Unternehmens-, Gewerbe- und Lizenzrecht des State of San Andreas – RP-Fassung
+> Unternehmens-, Gewerbe- und Lizenzrecht des State of San Andreas
 
 ## Präambel
 
-Der San Andreas Business & Licensing Code regelt Gründung, Betrieb, Übertragung und Auflösung von Unternehmen sowie besondere gewerbliche Lizenzen. Ziel ist eine freie RP-Wirtschaft mit nachvollziehbaren staatlichen Regeln, ohne Unternehmen durch unnötige Bürokratie zu behindern.
+Der San Andreas Business & Licensing Code regelt die Gründung, den Betrieb, die Übertragung und die Auflösung von Unternehmen sowie besondere gewerbliche Lizenzen. Ziel dieses Gesetzes ist die Gewährleistung wirtschaftlicher Freiheit unter Beachtung der öffentlichen Sicherheit, des Verbraucherschutzes und einer rechtmäßigen staatlichen Aufsicht.
 
 ---
 
@@ -107,7 +107,7 @@ Bei schweren oder wiederholten Verstößen gegen unmittelbar lizenzbezogene Vors
 Vor einem dauerhaften Lizenzentzug ist dem Betroffenen grundsätzlich Gelegenheit zur Stellungnahme zu geben, sofern keine unmittelbare erhebliche Gefahr ein sofortiges vorläufiges Handeln erfordert.
 
 ## SABLC § 409 – Gerichtliche Überprüfung
-Endgültige Lizenzentscheidungen können nach Einrichtung einer aktiven Justiz gerichtlich überprüft werden.
+Endgültige belastende Lizenzentscheidungen können nach Maßgabe des geltenden Verfahrensrechts durch ein zuständiges Gericht überprüft werden.
 
 ---
 
@@ -123,7 +123,7 @@ Wesentliche Arbeitsbedingungen können schriftlich oder mündlich vereinbart wer
 Vereinbarte und nachweisbar geschuldete Vergütung ist grundsätzlich zu zahlen.
 
 ## SABLC § 504 – Unzulässige Beschäftigung
-Niemand darf zur Begehung rechtswidriger Handlungen als Bestandteil eines regulären Beschäftigungsverhältnisses verpflichtet werden.
+Niemand darf im Rahmen eines Beschäftigungsverhältnisses zur Begehung rechtswidriger Handlungen verpflichtet werden.
 
 ## SABLC § 505 – Kündigung
 Beschäftigungsverhältnisse können grundsätzlich beendet werden. Vertragliche Regelungen und gesetzliche Schutzvorschriften bleiben zu beachten.
@@ -151,14 +151,14 @@ Ein Unternehmen kann nach Maßgabe des Penal Code für zurechenbare schwere Rech
 Eigentümer und Geschäftsführer haften nicht automatisch strafrechtlich für jede eigenmächtige Straftat eines Mitarbeiters.
 
 ## SABLC § 605 – Illegale Geschäftsmodelle
-Wird ein Unternehmen nachweislich überwiegend zur Durchführung oder Verschleierung fortgesetzter schwerer Straftaten genutzt, können besondere Ermittlungs- und Gerichtsverfahren eingeleitet werden.
+Wird ein Unternehmen nachweislich überwiegend zur Durchführung oder Verschleierung fortgesetzter schwerer Straftaten genutzt, können die gesetzlich vorgesehenen Ermittlungs-, Sicherungs- und Gerichtsverfahren eingeleitet werden.
 
 ---
 
 # Title VII – Buchführung, Steuern und Finanztransparenz
 
 ## SABLC § 701 – Nachvollziehbare Geschäftsvorgänge
-Unternehmen sollen wesentliche Geschäftsvorgänge in einer für das RP-System angemessenen Form nachvollziehbar dokumentieren, soweit dies technisch vorgesehen und zumutbar ist.
+Unternehmen haben wesentliche Geschäftsvorgänge in einer den gesetzlichen Anforderungen entsprechenden und nachvollziehbaren Form zu dokumentieren, soweit dies für Steuer-, Eigentums-, Lizenz- oder Aufsichtszwecke erforderlich und zumutbar ist.
 
 ## SABLC § 702 – Steuerpflicht
 Gesetzlich festgelegte Unternehmenssteuern und Abgaben sind zu entrichten.
@@ -173,7 +173,7 @@ Unternehmen dürfen nicht wissentlich zur Verschleierung von Vermögenswerten au
 Die Gründung oder Nutzung eines Unternehmens ausschließlich zur Täuschung, Geldwäsche oder Verschleierung schwerer Straftaten kann strafrechtlich verfolgt werden.
 
 ## SABLC § 706 – Staatliche Einsicht
-Ein allgemeiner unbegrenzter Zugriff staatlicher Behörden auf sämtliche Unternehmensdaten besteht nicht. Einsichtnahmen bedürfen einer gesetzlichen Grundlage, Zustimmung oder erforderlichenfalls einer richterlichen Anordnung.
+Ein allgemeiner unbegrenzter Zugriff staatlicher Behörden auf sämtliche Unternehmensdaten besteht nicht. Einsichtnahmen bedürfen einer gesetzlichen Grundlage, einer wirksamen Zustimmung oder, soweit erforderlich, einer richterlichen Anordnung.
 
 ---
 
@@ -186,7 +186,7 @@ Der State of San Andreas kann Behörden mit der Kontrolle lizenzpflichtiger Unte
 Lizenzbezogene Kontrollen dürfen im gesetzlich vorgesehenen Umfang durchgeführt werden, soweit sie sachlich mit der jeweiligen Lizenz verbunden sind.
 
 ## SABLC § 803 – Durchsuchungen
-Eine reguläre Gewerbekontrolle berechtigt nicht automatisch zur vollständigen strafrechtlichen Durchsuchung privater oder nicht zugänglicher Geschäftsräume. Strafrechtliche Durchsuchungen richten sich nach dem Code of Criminal Procedure.
+Eine reguläre Gewerbekontrolle berechtigt nicht automatisch zur vollständigen strafrechtlichen Durchsuchung privater oder nicht öffentlich zugänglicher Geschäftsräume. Strafrechtliche Durchsuchungen richten sich nach dem Code of Criminal Procedure.
 
 ## SABLC § 804 – Sofortmaßnahmen
 Bei einer konkreten unmittelbaren erheblichen Gefahr können zuständige Behörden notwendige vorläufige Maßnahmen treffen, insbesondere gefährliche Tätigkeiten vorübergehend untersagen.
@@ -256,22 +256,22 @@ Medienunternehmen und Journalisten genießen die durch die Verfassung und andere
 
 ---
 
-# Title XII – Übergangsregelung ohne aktive Justiz
+# Title XII – Gerichtliche Kontrolle und vorläufige Verwaltungsmaßnahmen
 
 ## SABLC § 1201 – Verwaltungsentscheidungen
-Solange keine aktive Justiz vorhanden ist, können zuständige staatliche Verwaltungsstellen reguläre Unternehmensregistrierungen und Lizenzen bearbeiten.
+Zuständige Verwaltungsstellen dürfen Unternehmensregistrierungen, Lizenzanträge, Verlängerungen und sonstige reguläre Verwaltungsverfahren im Rahmen ihrer gesetzlichen Befugnisse bearbeiten und entscheiden.
 
 ## SABLC § 1202 – Schwerwiegende Maßnahmen
-Dauerhafte Unternehmensschließungen, endgültige große Vermögenseinziehungen und vergleichbar schwerwiegende Maßnahmen dürfen während der Übergangsphase grundsätzlich nicht allein durch eine einzelne Behörde angeordnet werden.
+Dauerhafte Unternehmensschließungen, endgültige umfangreiche Vermögenseinziehungen und vergleichbar schwerwiegende Maßnahmen bedürfen einer besonderen gesetzlichen Grundlage oder einer gerichtlichen Entscheidung.
 
-## SABLC § 1203 – Vier-Augen-Prinzip
-Soweit eine dringende schwerwiegende Verwaltungsentscheidung erforderlich ist und kein Gericht verfügbar ist, ist eine unabhängige zweite zuständige Führungsperson einzubeziehen und die Entscheidung nachvollziehbar zu dokumentieren.
+## SABLC § 1203 – Eilentscheidung bei Nichterreichbarkeit eines Gerichts
+Ist in einer dringenden Angelegenheit ein zuständiges Gericht trotz angemessener Bemühungen nicht rechtzeitig erreichbar und droht durch weiteres Zuwarten eine erhebliche Gefahr, darf eine gesetzlich zuständige Behörde eine zeitlich begrenzte vorläufige Maßnahme treffen. Bei besonders eingriffsintensiven Maßnahmen ist eine unabhängige zweite zuständige Führungsperson einzubeziehen. Die Entscheidung ist zu begründen und unverzüglich einer gerichtlichen Überprüfung zugänglich zu machen.
 
 ## SABLC § 1204 – Vorläufige Gefahrenabwehr
-Unmittelbar notwendige Maßnahmen zur Abwehr konkreter erheblicher Gefahren bleiben zulässig, müssen jedoch auf das erforderliche Maß und die erforderliche Dauer beschränkt werden.
+Unmittelbar notwendige Maßnahmen zur Abwehr konkreter erheblicher Gefahren bleiben zulässig. Sie sind auf das erforderliche Maß und die erforderliche Dauer zu beschränken und nach Wegfall der Gefahr unverzüglich aufzuheben.
 
 ---
 
 ## Hinweis
 
-Konkrete Lizenzgebühren, Steuersätze, Bußgelder und besondere wirtschaftliche Grenzwerte werden in gesonderten staatlichen Regelungen oder im zentralen `Sentencing & Fine Schedule` festgelegt. Dadurch können wirtschaftliche Werte an die Serverökonomie angepasst werden, ohne dieses Gesetzbuch grundlegend zu ändern.
+Konkrete Lizenzgebühren, Steuersätze, Bußgelder und besondere wirtschaftliche Grenzwerte werden durch die hierfür zuständigen gesetzgebenden oder administrativen Stellen in den dafür vorgesehenen Rechtsakten oder im zentralen `Sentencing & Fine Schedule` festgelegt. Änderungen dürfen nicht rückwirkend zu einer nachträglichen Verschärfung bereits abgeschlossener Sachverhalte führen.
