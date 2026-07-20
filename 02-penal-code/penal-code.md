@@ -254,16 +254,30 @@ Unbefugte Abfrage oder Nutzung staatlicher Datenbanken aus privaten oder rechtsw
 # Title VIII – Organisierte Kriminalität
 
 ## SAPC § 801 – Criminal Organization
-Die bloße Mitgliedschaft in einer Gruppe, Gang oder Organisation ist nicht strafbar. Strafbar ist die nachweisbare aktive Beteiligung an einer auf fortgesetzte schwere Kriminalität ausgerichteten Organisation.
+Eine kriminelle Organisation ist eine auf eine gewisse Dauer oder wiederholte Tätigkeit angelegte Verbindung mehrerer Personen, deren nachweisbarer Zweck oder tatsächliche wesentliche Tätigkeit auf die fortgesetzte Begehung schwerer Straftaten ausgerichtet ist.
+
+Strafbar ist die wissentliche aktive Beteiligung an einer solchen Organisation, insbesondere durch Leitung, Planung, Finanzierung, Rekrutierung, logistische Unterstützung oder wiederholte tatbezogene Mitwirkung. Die bloße Bekanntschaft, familiäre oder soziale Verbindung, Gruppenzugehörigkeit, Anwesenheit, Beschäftigung oder Eigentümerstellung genügt nicht.
 
 ## SAPC § 802 – Organized Criminal Activity
-Planmäßige gemeinschaftliche Begehung mehrerer schwerer Straftaten im Rahmen einer kriminellen Struktur.
+Organized Criminal Activity begeht, wer im Rahmen einer kriminellen Struktur wissentlich und planmäßig mehrere schwere Straftaten begeht, anordnet, koordiniert, finanziert oder wesentlich unterstützt.
+
+Eine einzelne gemeinsam begangene Straftat begründet nicht allein Organized Criminal Activity, sofern keine weiteren konkreten Umstände eine fortgesetzte oder strukturierte schwere kriminelle Tätigkeit belegen.
 
 ## SAPC § 803 – Criminal Conspiracy
-Nachweisbare konkrete Vereinbarung mehrerer Personen zur gemeinsamen Begehung einer schweren Straftat, sofern mindestens eine unmittelbar tatbezogene Handlung zur Umsetzung erfolgt ist.
+Criminal Conspiracy ist die nachweisbare konkrete Vereinbarung mehrerer Personen zur gemeinsamen Begehung einer schweren Straftat, sofern mindestens eine beteiligte Person eine unmittelbar auf die Umsetzung der vereinbarten Straftat gerichtete Handlung vorgenommen hat.
+
+Eine Verurteilung wegen Criminal Conspiracy setzt keine kriminelle Organisation im Sinne des SAPC § 801 voraus.
 
 ## SAPC § 804 – RICO Proceedings
-Bei nachgewiesener fortgesetzter organisierter Kriminalität kann die Staatsanwaltschaft ein Verfahren nach den gesetzlichen Vorschriften über organisierte Kriminalität gegen verantwortliche Personen und Strukturen einleiten. Eine bloße Gruppenzugehörigkeit genügt nicht.
+Ein RICO-Verfahren ist ein besonderes gerichtliches Verfahren gegen verantwortliche Personen oder Strukturen bei hinreichend belegter fortgesetzter organisierter schwerer Kriminalität. Eine bloße Gruppenzugehörigkeit, geschäftliche Verbindung, Beschäftigung oder Eigentümerstellung genügt nicht zur Einleitung oder Begründung einer RICO-Verantwortlichkeit.
+
+Ein Unternehmen oder eine andere rechtmäßige Organisation darf nur dann als betroffene Struktur in ein RICO-Verfahren einbezogen werden, wenn konkrete Beweise dafür vorliegen, dass die Struktur wissentlich und wesentlich zur fortgesetzten organisierten schweren Kriminalität genutzt wird oder schwere Straftaten dem Unternehmen nach den gesetzlichen Zurechnungsregeln des Business & Licensing Code rechtlich zuzurechnen sind. Eigenmächtige Straftaten einzelner Mitarbeiter begründen für sich allein keine RICO-Verantwortlichkeit des Unternehmens.
+
+Ein RICO-Verfahren wird grundsätzlich durch die zuständige Staatsanwaltschaft einem Gericht vorgelegt. Ist keine zuständige Staatsanwaltschaft oder kein Department of Justice ordnungsgemäß eingerichtet oder personell besetzt, kann die ermittelnde Strafverfolgungsbehörde die Sache nach Maßgabe des Judicial Code unmittelbar dem zuständigen Gericht vorlegen.
+
+Das zuständige Gericht entscheidet über strafrechtliche Verantwortlichkeit, die nach dem Sentencing & Fine Schedule vorgesehenen Sanktionen sowie gesetzlich zulässige gerichtliche Vermögensmaßnahmen. Endgültige umfangreiche Vermögenseinziehungen bedürfen einer gerichtlichen Entscheidung. Bis zu einer solchen Entscheidung bleiben gesetzlich zulässige vorläufige Sicherungsmaßnahmen unberührt.
+
+Eine dauerhafte staatliche Schließung eines Unternehmens sowie der endgültige Entzug einer Gewerbe- oder Unternehmenslizenz werden durch ein RICO-Verfahren nicht automatisch bewirkt und bleiben ausschließlich der nach dem Business & Licensing Code zuständigen Regierung oder Regierungsbehörde vorbehalten. Gerichtliche Feststellungen und Beweisergebnisse können dieser Stelle zur eigenständigen rechtmäßigen Entscheidung übermittelt werden.
 
 ---
 
