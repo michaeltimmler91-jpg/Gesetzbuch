@@ -1,10 +1,10 @@
 # San Andreas Government & Administration Code (SAGAC)
 
-> Regierungs- und Verwaltungsrecht des State of San Andreas – RP-Fassung
+> Regierungs- und Verwaltungsrecht des State of San Andreas
 
 ## Präambel
 
-Der San Andreas Government & Administration Code regelt Aufbau und Arbeitsweise der Regierung und staatlichen Verwaltung. Er ergänzt die Constitution of the State of San Andreas und schafft klare, RP-taugliche Zuständigkeiten für Gouverneur, Behörden, Ernennungen, Ausnahmezustände und Begnadigungen.
+Der San Andreas Government & Administration Code regelt Aufbau und Arbeitsweise der Regierung und staatlichen Verwaltung. Er ergänzt die Constitution of the State of San Andreas und schafft klare Zuständigkeiten für Gouverneur, Behörden, Ernennungen, Ausnahmezustände und Begnadigungen.
 
 ---
 
@@ -146,7 +146,7 @@ Behörden können im Rahmen ihrer Zuständigkeit Verwaltungsentscheidungen gegen
 Schwerwiegende belastende Verwaltungsentscheidungen sollen nachvollziehbar begründet und dokumentiert werden.
 
 ## SAGAC § 706 – Gerichtliche Kontrolle
-Verwaltungsentscheidungen können nach Einrichtung einer aktiven Justiz gerichtlich überprüft werden, soweit dies gesetzlich vorgesehen ist.
+Verwaltungsentscheidungen können durch ein zuständiges Gericht überprüft werden, soweit dies gesetzlich vorgesehen ist.
 
 ---
 
@@ -206,7 +206,7 @@ Bei konkreten erheblichen Gefahren können Evakuierungen angeordnet oder dringen
 Gefahrenbereiche, Straßen oder andere Gebiete können vorübergehend gesperrt werden, soweit dies zur Gefahrenabwehr erforderlich ist.
 
 ## SAGAC § 1007 – National Guard
-Der State kann für extreme Lagen eine National Guard oder vergleichbare staatliche Unterstützungseinheit vorsehen, sofern diese tatsächlich eingerichtet und bespielt wird.
+Der State kann für extreme Lagen eine National Guard oder vergleichbare staatliche Unterstützungseinheit vorsehen, sofern eine solche Einheit gesetzlich eingerichtet ist.
 
 ## SAGAC § 1008 – Grundrechte
 Ein State of Emergency setzt die Verfassung nicht außer Kraft. Einschränkungen von Rechten dürfen nur erfolgen, soweit sie zur unmittelbaren Gefahrenabwehr erforderlich und verhältnismäßig sind.
@@ -218,7 +218,7 @@ Der Ausnahmezustand erlaubt keine willkürlichen Festnahmen. Für strafrechtlich
 Der Ausnahmezustand erlaubt keine willkürliche dauerhafte Enteignung oder Vermögenseinziehung. Unmittelbar erforderliche vorübergehende Maßnahmen zur Gefahrenabwehr bleiben zulässig.
 
 ## SAGAC § 1011 – Gerichtliche Überprüfung
-Notstandsmaßnahmen können durch die Justiz überprüft werden, sobald eine gerichtliche Überprüfung praktisch möglich ist.
+Notstandsmaßnahmen unterliegen der gerichtlichen Überprüfung nach Maßgabe der geltenden Verfahrensgesetze.
 
 ## SAGAC § 1012 – Ende des Ausnahmezustands
 Sobald die außergewöhnliche Gefahrenlage nicht mehr besteht, muss der State of Emergency aufgehoben werden.
@@ -272,25 +272,25 @@ Ein Regierungswechsel beendet nicht automatisch die rechtliche Existenz staatlic
 
 ---
 
-# Title XIII – Übergangsregierung und Serverstart
+# Title XIII – Einrichtung und Vakanz staatlicher Stellen
 
-## SAGAC § 1301 – Aufbauphase
-Während der Aufbauphase des Servers dürfen staatliche Ämter und Behörden schrittweise eingerichtet und besetzt werden.
+## SAGAC § 1301 – Einrichtung staatlicher Stellen
+Staatliche Ämter und Behörden werden nach Maßgabe der Verfassung, der Gesetze oder einer darauf gestützten rechtmäßigen Regierungsentscheidung eingerichtet und organisatorisch besetzt.
 
-## SAGAC § 1302 – Nicht bespielte Behörden
-Gesetzlich vorgesehene Behörden oder Ämter müssen nicht von Beginn an aktiv bespielt werden. Ihre gesetzlichen Befugnisse können erst mit tatsächlicher Einrichtung und Besetzung ausgeübt werden.
+## SAGAC § 1302 – Ausübung gesetzlicher Befugnisse
+Eine gesetzlich vorgesehene Behörde oder ein öffentliches Amt darf seine Befugnisse erst ausüben, sobald die Stelle ordnungsgemäß eingerichtet und mit einer hierzu befugten Person besetzt ist.
 
-## SAGAC § 1303 – Keine fiktive Amtsausübung
-Nicht besetzte Ämter sollen nicht ohne ausdrückliche Übergangsregelung dauerhaft durch andere Behörden simuliert werden.
+## SAGAC § 1303 – Vertretung unbesetzter Ämter
+Die Befugnisse eines unbesetzten Amtes dürfen nur aufgrund einer ausdrücklichen gesetzlichen Vertretungs-, Nachfolge- oder Übertragungsregelung durch eine andere Stelle wahrgenommen werden.
 
-## SAGAC § 1304 – Übergangsbefugnisse
-Notwendige Übergangsbefugnisse richten sich nach den jeweiligen Gesetzbüchern und müssen auf das für den Serverbetrieb erforderliche Maß beschränkt bleiben.
+## SAGAC § 1304 – Vorübergehende Vakanz
+Bei vorübergehender Vakanz dürfen unaufschiebbare Amtsgeschäfte durch den gesetzlich bestimmten Vertreter wahrgenommen werden. Die Vertretungsbefugnis ist auf den erforderlichen Umfang und die Dauer der Vakanz beschränkt.
 
-## SAGAC § 1305 – Justiz
-Solange keine aktive Justiz vorhanden ist, gelten die Übergangsregelungen des Judicial Code und des Code of Criminal Procedure.
+## SAGAC § 1305 – Richterliche Zuständigkeiten
+Richterliche Kernbefugnisse bleiben den zuständigen Gerichten vorbehalten. Ist ein zuständiger Richter vorübergehend nicht erreichbar, gelten ausschließlich die gesetzlich vorgesehenen Eilregelungen des Judicial Code und des Code of Criminal Procedure.
 
-## SAGAC § 1306 – Anwälte
-Solange keine aktive Anwaltschaft vorhanden ist, gelten die hierfür vorgesehenen Übergangsregeln. Sobald ausreichend Anwälte verfügbar sind, sollen reguläre anwaltliche Verfahrensrechte praktisch ermöglicht werden.
+## SAGAC § 1306 – Rechtsbeistand
+Ist ein zugelassener Rechtsbeistand innerhalb angemessener Frist nicht erreichbar, richten sich die verfahrensrechtlichen Folgen nach dem Judicial Code und dem Code of Criminal Procedure. Das Recht zu schweigen und das Recht auf angemessene Verteidigung bleiben unberührt.
 
 ---
 
