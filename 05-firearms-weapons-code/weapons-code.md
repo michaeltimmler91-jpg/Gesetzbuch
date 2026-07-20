@@ -58,10 +58,10 @@ Eine reguläre Waffenlizenz darf grundsätzlich nur erteilt werden, wenn die ant
 Die Waffensachkunde umfasst insbesondere sichere Handhabung, Laden und Entladen, sichere Aufbewahrung sowie grundlegende Kenntnisse über rechtmäßiges Führen, Notwehr und den verantwortungsvollen Umgang mit Schusswaffen.
 
 ## SAWC § 203 – Concealed Carry Permit
-Das verdeckte zugriffsbereite Führen einer erlaubten Schusswaffe in der Öffentlichkeit setzt eine gültige `Concealed Carry Permit` voraus.
+Das verdeckte zugriffsbereite Führen einer erlaubten Schusswaffe in der Öffentlichkeit setzt eine gültige `Concealed Carry Permit` voraus. Eine solche Permit darf grundsätzlich nur einer Person mit gültiger regulärer Waffenlizenz erteilt werden, die keinem wirksamen Waffen- oder Führungsverbot unterliegt.
 
 ## SAWC § 204 – Open Carry Permit
-Das offene zugriffsbereite Führen einer erlaubten Schusswaffe in der Öffentlichkeit setzt eine gültige `Open Carry Permit` voraus.
+Das offene zugriffsbereite Führen einer erlaubten Schusswaffe in der Öffentlichkeit setzt eine gültige `Open Carry Permit` voraus. Eine solche Permit darf grundsätzlich nur einer Person mit gültiger regulärer Waffenlizenz erteilt werden, die keinem wirksamen Waffen- oder Führungsverbot unterliegt.
 
 ## SAWC § 205 – Waffenhandelslizenz
 Der gewerbliche Verkauf, Ankauf oder regelmäßige Handel mit Schusswaffen setzt eine gültige Waffenhandelslizenz voraus.
@@ -70,13 +70,15 @@ Der gewerbliche Verkauf, Ankauf oder regelmäßige Handel mit Schusswaffen setzt
 Für Waffen der Klassen III und IV können ausschließlich in gesetzlich vorgesehenen Ausnahmefällen staatliche Sondergenehmigungen erteilt werden. Normale Waffenlizenzen berechtigen nicht zu deren Besitz.
 
 ## SAWC § 207 – Prüfung und Erteilung
-(1) Reguläre Waffenlizenzen werden bei Vorliegen der gesetzlichen Voraussetzungen grundsätzlich durch ein zuständiges Gericht erteilt.
+(1) Reguläre Waffenlizenzen sowie Concealed Carry Permits und Open Carry Permits werden bei Vorliegen der gesetzlichen Voraussetzungen grundsätzlich durch ein zuständiges Gericht erteilt.
 
-(2) Ist ein zuständiger Richter trotz angemessener Bemühungen innerhalb angemessener Frist nicht erreichbar, kann das Los Santos Police Department eine reguläre Waffenlizenz erteilen, sofern sämtliche Voraussetzungen nach SAWC § 202 nachgewiesen sind.
+(2) Die Erteilung einer Carry Permit setzt eine gültige reguläre Waffenlizenz voraus. Ein Anspruch auf Erteilung besteht nicht, wenn ein wirksames Waffenverbot, eine vorläufige Lizenzsperre oder ein vergleichbarer gesetzlicher Ausschlussgrund besteht.
 
-(3) Eine nach Absatz 2 erteilte Lizenz ist voll wirksam und bleibt wirksam, solange sie nicht nach diesem Gesetz ausgesetzt, entzogen oder durch eine zuständige gerichtliche Entscheidung aufgehoben wird. Sie ist einer späteren gerichtlichen Überprüfung zugänglich.
+(3) Ist ein zuständiger Richter trotz angemessener Bemühungen innerhalb angemessener Frist nicht erreichbar, kann das Los Santos Police Department eine reguläre Waffenlizenz sowie eine Concealed Carry Permit oder Open Carry Permit erteilen, sofern sämtliche jeweils erforderlichen Voraussetzungen nachgewiesen sind.
 
-(4) Ein Anspruch auf eine Sondergenehmigung für Waffen der Klassen III oder IV besteht nicht.
+(4) Eine nach Absatz 3 erteilte Lizenz oder Permit ist voll wirksam und bleibt wirksam, solange sie nicht nach diesem Gesetz ausgesetzt, entzogen oder durch eine zuständige gerichtliche Entscheidung aufgehoben wird. Sie ist einer späteren gerichtlichen Überprüfung zugänglich.
+
+(5) Ein Anspruch auf eine Sondergenehmigung für Waffen der Klassen III oder IV besteht nicht.
 
 ## SAWC § 208 – Lizenzregister
 Erteilte, ausgesetzte und entzogene Waffenlizenzen dürfen in einem geschützten staatlichen Register dokumentiert werden.
@@ -280,7 +282,7 @@ Waffenrechtliche Maßnahmen müssen der Schwere des Verstoßes, der konkreten Ge
 # Title XII – Vorläufige und gerichtliche Maßnahmen
 
 ## SAWC § 1201 – Allgemeine Lizenzverwaltung
-Reguläre Waffenlizenzen werden nach Maßgabe des SAWC § 207 grundsätzlich durch ein zuständiges Gericht erteilt. Ist ein zuständiger Richter innerhalb angemessener Frist nicht erreichbar, kann das Los Santos Police Department bei vollständig nachgewiesenen Voraussetzungen eine Waffenlizenz erteilen. Carry Permits und sonstige waffenrechtliche Verwaltungsakte richten sich nach der hierfür gesetzlich bestimmten Zuständigkeit.
+Reguläre Waffenlizenzen sowie Concealed Carry Permits und Open Carry Permits werden nach Maßgabe des SAWC § 207 grundsätzlich durch ein zuständiges Gericht erteilt. Ist ein zuständiger Richter trotz angemessener Bemühungen innerhalb angemessener Frist nicht erreichbar, kann das Los Santos Police Department bei vollständig nachgewiesenen Voraussetzungen die jeweilige Waffenlizenz oder Carry Permit erteilen. Andere waffenrechtliche Verwaltungsakte und außergewöhnliche Sondergenehmigungen richten sich nach der hierfür gesetzlich bestimmten Zuständigkeit.
 
 ## SAWC § 1202 – Vorläufiges Waffenverbot
 Bei dringendem Verdacht einer schweren Gewalt- oder Waffenstraftat kann eine zuständige Vollzugsbehörde ein zeitlich begrenztes vorläufiges Waffenverbot anordnen und Waffen sicherstellen, wenn dies zur Abwehr einer erheblichen Gefahr erforderlich ist.
