@@ -23,9 +23,10 @@ Im Bewusstsein der Verantwortung für Freiheit, Sicherheit, Gerechtigkeit und ei
 ## Artikel III – Recht auf Verteidigung
 
 1. Beschuldigte haben grundsätzlich das Recht auf anwaltlichen Beistand.
-2. Solange keine aktive Anwaltschaft bespielt wird, darf das Fehlen eines Anwalts ein rechtmäßiges Verfahren nicht dauerhaft blockieren.
-3. Das Recht zu schweigen bleibt auch während dieser Übergangsphase vollständig bestehen.
-4. Bei besonders schweren Verfahren und möglichen lebenslangen Freiheitsstrafen ist für eine endgültige gerichtliche Verurteilung eine angemessene Verteidigung sicherzustellen, sobald die Justiz aktiv bespielt wird.
+2. Ist innerhalb angemessener Zeit kein zugelassener Rechtsanwalt erreichbar, darf das Fehlen anwaltlichen Beistands eine ansonsten rechtmäßige vorläufige Maßnahme nicht unbegrenzt verhindern.
+3. Das Recht zu schweigen bleibt in jedem Verfahrensstadium uneingeschränkt bestehen.
+4. Vor einer endgültigen Verurteilung wegen einer Straftat, für die eine lebenslange Freiheitsstrafe in Betracht kommt, ist eine angemessene Verteidigung sicherzustellen.
+5. Die näheren Voraussetzungen des Rechts auf Verteidigung werden durch Gesetz geregelt.
 
 ## Artikel IV – Schutz vor Durchsuchung und Beschlagnahme
 
@@ -126,13 +127,13 @@ Im Bewusstsein der Verantwortung für Freiheit, Sicherheit, Gerechtigkeit und ei
 5. Zivilrechtliche Ansprüche Geschädigter bleiben grundsätzlich unberührt.
 6. Begnadigungen sind offiziell zu dokumentieren.
 
-## Artikel XVI – Übergangsordnung bei nicht bespielter Justiz
+## Artikel XVI – Vorläufige Zuständigkeitsordnung bei Nichterreichbarkeit der Justiz
 
-1. Solange keine aktive Justiz, Staatsanwaltschaft oder Anwaltschaft vorhanden ist, dürfen Strafverfolgungsbehörden normale Straftaten nach dem geltenden Straf- und Bußgeldkatalog bearbeiten.
-2. Maßnahmen, die regulär einer richterlichen Genehmigung bedürfen, dürfen nur vorgenommen werden, wenn das Gesetz eine Übergangsregelung vorsieht.
-3. In solchen Fällen gilt grundsätzlich ein dokumentiertes Vier-Augen-Prinzip durch eine ranghohe, nicht unmittelbar am Fall beteiligte Führungskraft.
-4. Lebenslange Haftstrafen, endgültige große Vermögenseinziehungen, dauerhafte Firmenschließungen und vergleichbar schwerwiegende Maßnahmen sind in dieser Übergangsphase ausgeschlossen.
-5. Mit Aufnahme einer aktiven Justiz gehen die entsprechenden Befugnisse automatisch auf die gesetzlich zuständigen Justizorgane über.
+1. Ist innerhalb angemessener Zeit kein zuständiger Richter erreichbar, dürfen Strafverfolgungsbehörden die gesetzlich ausdrücklich vorgesehenen vorläufigen Maßnahmen treffen und reguläre Sanktionen bis zu den hierfür festgelegten Höchstgrenzen vollstrecken.
+2. Maßnahmen, die grundsätzlich einer richterlichen Genehmigung bedürfen, dürfen ohne vorherige richterliche Entscheidung nur vorgenommen werden, wenn das Gesetz eine ausdrückliche Ausnahme vorsieht.
+3. Soweit das Gesetz in dringenden Fällen eine ersatzweise Genehmigung zulässt, ist diese durch eine ranghohe, nicht unmittelbar am Fall beteiligte Führungskraft zu prüfen, zu dokumentieren und nach Möglichkeit nachträglich einer richterlichen Kontrolle zuzuführen.
+4. Lebenslange Freiheitsstrafen, endgültige umfangreiche Vermögenseinziehungen, dauerhafte Unternehmensschließungen und vergleichbar schwerwiegende endgültige Maßnahmen bedürfen stets einer gerichtlichen Entscheidung.
+5. Sobald ein zuständiges Gericht erreichbar ist, gehen alle ausschließlich richterlichen Entscheidungen auf dieses über.
 
 ## Artikel XVII – Vorrang der Verfassung
 
