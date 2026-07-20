@@ -287,9 +287,11 @@ Bei einer Überschreitung von mehr als **80 mph** kann zusätzlich Reckless Driv
 | Missachtung eines Stoppschildes | $500 | – | – |
 | Missachtung der Vorfahrt | $500 | – | – |
 | Unsicheres Einfahren aus Grundstück, Parkplatz, Feldweg oder untergeordneter Zufahrt | $500 | – | – |
+| Erheblicher Verstoß gegen Fahrtrichtung oder Rechtsfahrgebot | $1.000 | – | bei konkreter Gefährdung höhere Einstufung möglich |
 | Unsicheres Überholen | $750 | – | – |
 | Unzureichender Sicherheitsabstand | $500 | – | – |
 | Erhebliche vermeidbare Ablenkung am Steuer | $750 | – | – |
+| Konkrete Gefährdung von Fußgängern durch grob fahrlässige oder vorsätzliche Fahrweise | $2.500 | 1 HE | Führerscheinmaßnahmen möglich |
 | Nichtbeachtung einer rechtmäßigen Verkehrsweisung eines Vollzugsbeamten | $1.000 | – | – |
 | Geringe Geschwindigkeitsüberschreitung bis 20 mph | $250 | – | – |
 | Mittlere Geschwindigkeitsüberschreitung 21–50 mph | $500 | – | – |
@@ -302,6 +304,8 @@ Bei einer Überschreitung von mehr als **80 mph** kann zusätzlich Reckless Driv
 | Schweres DUI mit Gefährdung | $7.500 | 2 HE | vorläufiger Führerscheinentzug; gerichtlicher Dauerentzug möglich |
 | Fahrerflucht nach Sachschaden | $3.000 | 1 HE | Führerscheinmaßnahmen möglich |
 | Fahrerflucht mit Personenschaden | $10.000 | 3 HE | vorläufiger Führerscheinentzug; gerichtlicher Dauerentzug möglich |
+| Unterlassene erforderliche Hilfeleistung nach schwerem Verkehrsunfall | $5.000 | 2 HE | Führerscheinmaßnahmen möglich |
+| Missachtung einer eindeutigen rechtmäßigen polizeilichen Anhalteaufforderung ohne anschließende Fahrzeugflucht | $2.500 | 1 HE | – |
 | Illegales Straßenrennen | $5.000 | 1 HE | vorläufiger Führerscheinentzug möglich |
 | Organisation illegaler Straßenrennen | $7.500 | 2 HE | Lizenz-/Fahrzeugfolgen möglich |
 | Flucht vor Polizei im Fahrzeug | $7.500 | 2 HE | vorläufiger Führerscheinentzug möglich |
@@ -309,12 +313,19 @@ Bei einer Überschreitung von mehr als **80 mph** kann zusätzlich Reckless Driv
 | Vorsätzliches Rammen eines Polizeifahrzeugs | $15.000 | 4 HE | vorläufiger Führerscheinentzug möglich |
 | Missbrauch von Einsatzfahrzeug/Sondersignal | $5.000 | 1 HE | – |
 | Missachtung des Wegerechts eines erkennbaren Einsatzfahrzeugs mit aktivierten Sondersignalen | $1.000 | – | – |
+| Missachtung einer rechtmäßig eingerichteten Straßensperre oder Verkehrsmaßnahme | $2.500 | 1 HE | bei Gefährdung weitere Tatbestände möglich |
 | Halten oder Parken an rotem Bordstein | $500 | – | Abschleppen möglich |
 | Halten oder Parken auf Geh- oder Fußwegen | $500 | – | Abschleppen möglich |
 | Erhebliche Blockierung von Rettungswegen, Feuerwehrzufahrten oder wesentlichen Verkehrswegen | $1.500 | – | Abschleppen möglich |
 | Gefährlicher oder erheblich verkehrsuntauglicher Fahrzeugumbau | $1.500 | – | Fahrzeug bis zur Mängelbeseitigung aus dem Verkehr ziehbar |
+| Führen eines nicht verkehrssicheren Fahrzeugs bei konkreter erheblicher Gefahr | $1.500 | – | Fahrzeug vorläufig stilllegbar |
 | Kennzeichenmanipulation | $3.000 | 1 HE | Fahrzeugkontrolle möglich |
+| Vorsätzliche Verwendung einer falschen Fahrzeugidentität oder manipulierter Zulassungsinformationen | $5.000 | 2 HE | Fahrzeug und Beweismittel sicherstellbar |
 | Fehlende Zulassung/Kennzeichen | $1.500 | – | Weiterfahrt ggf. untersagt |
+| Führen eines Luft- oder Wasserfahrzeugs ohne erforderliche Lizenz | $3.000 | 1 HE | Weiterbetrieb untersagt |
+| Grob rücksichtslose Führung eines Luft- oder Wasserfahrzeugs mit konkreter Gefährdung | $5.000 | 2 HE | Lizenzmaßnahmen möglich |
+| Missachtung eines rechtmäßig eingerichteten Luft-, Landungs- oder Wasser-Sperrgebiets | $5.000 | 2 HE | Sicherungsmaßnahmen möglich |
+| Gefährliche Landung oder gefährliches Anlegen ohne rechtfertigenden Grund | $2.500 | 1 HE | Lizenzmaßnahmen möglich |
 
 ---
 
