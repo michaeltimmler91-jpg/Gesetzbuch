@@ -1,12 +1,12 @@
 # San Andreas Firearms & Weapons Code (SAWC)
 
-> Waffenrecht des State of San Andreas – RP-Fassung
+> Waffenrecht des State of San Andreas
 
 ## Präambel
 
-Der San Andreas Firearms & Weapons Code regelt Besitz, Erwerb, Führen, Transport und Handel von Waffen im State of San Andreas. Das Gesetz orientiert sich im Grundgedanken an einem US-amerikanischen Waffenrecht, wurde jedoch für ein faires und praktikables GTA-V-Rollenspiel vereinfacht.
+Der San Andreas Firearms & Weapons Code regelt Besitz, Erwerb, Führen, Transport und Handel von Waffen im State of San Andreas. Er dient dem Schutz der öffentlichen Sicherheit und gewährleistet zugleich den rechtmäßigen Waffenbesitz verantwortungsbewusster Bürger.
 
-Der rechtmäßige Waffenbesitz verantwortungsbewusster Bürger wird anerkannt. Gleichzeitig unterliegen das öffentliche Führen, besonders gefährliche Waffen, der Waffenhandel und der Einsatz von Waffen klaren gesetzlichen Grenzen.
+Der rechtmäßige Waffenbesitz wird anerkannt. Gleichzeitig unterliegen das öffentliche Führen, besonders gefährliche Waffen, der Waffenhandel und der Einsatz von Waffen klaren gesetzlichen Grenzen.
 
 Konkrete Geldstrafen, Hafteinheiten, Sperrfristen und Lizenzfolgen werden im `Sentencing & Fine Schedule` festgelegt.
 
@@ -260,22 +260,22 @@ Waffenrechtliche Maßnahmen müssen der Schwere des Verstoßes, der konkreten Ge
 
 ---
 
-# Title XII – Übergangsregelung ohne aktive Justiz
+# Title XII – Vorläufige und gerichtliche Maßnahmen
 
 ## SAWC § 1201 – Allgemeine Lizenzverwaltung
-Solange keine aktive Justiz besteht, können reguläre Waffenlizenzen und Carry Permits durch die hierfür bestimmte staatliche Verwaltungsstelle nach festgelegten Kriterien erteilt, verlängert oder vorläufig ausgesetzt werden.
+Reguläre Waffenlizenzen und Carry Permits werden durch die gesetzlich zuständige Verwaltungsstelle nach den festgelegten Voraussetzungen erteilt, verlängert, ausgesetzt oder widerrufen.
 
 ## SAWC § 1202 – Vorläufiges Waffenverbot
-Bei dringendem Verdacht einer schweren Gewalt- oder Waffenstraftat kann eine zuständige ranghohe, möglichst nicht unmittelbar am Fall beteiligte Führungskraft ein zeitlich begrenztes vorläufiges Waffenverbot genehmigen.
+Bei dringendem Verdacht einer schweren Gewalt- oder Waffenstraftat kann die gesetzlich zuständige Stelle ein zeitlich begrenztes vorläufiges Waffenverbot anordnen, wenn dies zur Abwehr einer erheblichen Gefahr erforderlich ist.
 
 ## SAWC § 1203 – Dauerhafte Maßnahmen
-Dauerhafte Waffenverbote, außergewöhnliche Sondergenehmigungen für Privatpersonen und endgültige weitreichende Lizenzentzüge sollen bis zur Aktivierung einer zuständigen Justiz nicht durch einzelne Polizeibeamte ausgesprochen werden.
+Dauerhafte Waffenverbote, außergewöhnliche Sondergenehmigungen für Privatpersonen und endgültige weitreichende Lizenzentzüge bedürfen der Entscheidung der hierfür gesetzlich zuständigen Behörde oder eines zuständigen Gerichts.
 
-## SAWC § 1204 – Aktivierung der Justiz
-Mit Aufnahme einer aktiv bespielten Justiz gehen richterliche Zuständigkeiten für dauerhafte Waffenverbote und vergleichbare schwerwiegende Entscheidungen automatisch auf die zuständigen Gerichte über.
+## SAWC § 1204 – Gerichtliche Überprüfung
+Vorläufige Maßnahmen, die erheblich in Waffen- oder Lizenzrechte eingreifen, unterliegen auf Antrag oder nach Maßgabe des Gesetzes der gerichtlichen Überprüfung.
 
 ---
 
 ## Hinweis zum Strafkatalog
 
-Konkrete Geldstrafen, Hafteinheiten, Dauer von Waffenverboten, Lizenzsperren und weitere Sanktionen werden zentral im `Sentencing & Fine Schedule` festgelegt. Die genaue Liste serverseitig verfügbarer Waffen und ihre Zuordnung zu den Klassen I bis IV kann ergänzend in einem administrativen Waffenverzeichnis geführt werden.
+Konkrete Geldstrafen, Hafteinheiten, Dauer von Waffenverboten, Lizenzsperren und weitere Sanktionen werden zentral im `Sentencing & Fine Schedule` festgelegt. Die zuständige Behörde kann ergänzend ein administratives Waffenverzeichnis führen, in dem einzelne Waffen anhand ihrer Eigenschaften den Klassen I bis IV zugeordnet werden.
