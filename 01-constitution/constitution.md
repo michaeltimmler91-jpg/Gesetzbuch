@@ -132,7 +132,7 @@ Im Bewusstsein der Verantwortung für Freiheit, Sicherheit, Gerechtigkeit und ei
 1. Ist innerhalb angemessener Zeit kein zuständiger Richter erreichbar, dürfen Strafverfolgungsbehörden die gesetzlich ausdrücklich vorgesehenen vorläufigen Maßnahmen treffen und reguläre Sanktionen bis zu den hierfür festgelegten Höchstgrenzen vollstrecken.
 2. Maßnahmen, die grundsätzlich einer richterlichen Genehmigung bedürfen, dürfen ohne vorherige richterliche Entscheidung nur vorgenommen werden, wenn das Gesetz eine ausdrückliche Ausnahme vorsieht.
 3. Soweit das Gesetz in dringenden Fällen eine ersatzweise Genehmigung zulässt, ist diese durch eine ranghohe, nicht unmittelbar am Fall beteiligte Führungskraft zu prüfen, zu dokumentieren und nach Möglichkeit nachträglich einer richterlichen Kontrolle zuzuführen.
-4. Lebenslange Freiheitsstrafen, endgültige umfangreiche Vermögenseinziehungen, dauerhafte Unternehmensschließungen und vergleichbar schwerwiegende endgültige Maßnahmen bedürfen stets einer gerichtlichen Entscheidung.
+4. Lebenslange Freiheitsstrafen, endgültige umfangreiche Vermögenseinziehungen und andere gesetzlich ausschließlich Gerichten vorbehaltene endgültige Maßnahmen bedürfen stets einer gerichtlichen Entscheidung. Dauerhafte Unternehmensschließungen und endgültige Entzüge von Gewerbe- oder Unternehmenslizenzen bleiben der nach Gesetz zuständigen Regierung oder Regierungsbehörde vorbehalten und unterliegen der gerichtlichen Kontrolle nach Maßgabe des Gesetzes.
 5. Sobald ein zuständiges Gericht erreichbar ist, gehen alle ausschließlich richterlichen Entscheidungen auf dieses über.
 
 ## Artikel XVII – Vorrang der Verfassung
