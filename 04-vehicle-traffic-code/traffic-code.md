@@ -97,7 +97,7 @@ Der State of San Andreas kann insbesondere folgende Fahrerlaubnisse vorsehen:
 7. Flugzeuglizenz,
 8. Bootslizenz.
 
-Die Erteilung einer persönlichen Fahrerlaubnis erfolgt durch die zuständige staatliche Fahrerlaubnisstelle. Ausbildung und Prüfung können durch staatlich anerkannte Fahrschulen oder andere hierzu befugte Prüfstellen durchgeführt werden, soweit solche Stellen eingerichtet sind.
+Die Erteilung einer persönlichen Fahrerlaubnis erfolgt durch die zuständige staatliche Fahrerlaubnisstelle. Voraussetzung ist grundsätzlich das erfolgreiche Bestehen einer theoretischen Prüfung über die wesentlichen Verkehrsregeln sowie einer praktischen Fahrprüfung für die jeweilige Fahrerlaubnisklasse. Die Prüfungen werden durch die zuständige staatliche Fahrerlaubnisstelle oder eine hierzu gesetzlich befugte Prüfstelle abgenommen. Ausbildung und Prüfung können auch durch staatlich anerkannte Fahrschulen oder andere hierzu befugte Prüfstellen durchgeführt werden, soweit solche Stellen eingerichtet sind.
 
 ## SAVC § 303 – Fahren ohne Fahrerlaubnis
 Wer ein fahrerlaubnispflichtiges Fahrzeug ohne die erforderliche gültige Fahrerlaubnis führt, handelt rechtswidrig.
