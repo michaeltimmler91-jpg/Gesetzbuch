@@ -216,15 +216,22 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 
 | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
 |---|---:|---:|---|
-| Besitz oder Führen einer erlaubnispflichtigen Waffe ohne erforderliche Lizenz | $5.000 | 2 HE | Waffe sicherstellbar; vorläufige Lizenzsperre möglich |
+| Besitz einer erlaubnispflichtigen Waffe ohne erforderliche Waffenlizenz | $5.000 | 2 HE | Waffe sicherstellbar; vorläufige Lizenzsperre möglich |
+| Offenes oder verdecktes Führen ohne erforderliche Carry Permit | $5.000 | 2 HE | Waffe sicherstellbar; vorläufige Lizenzsperre möglich |
 | Unlawful Possession of Class III Weapon | $20.000 | 5 HE | Waffe einziehbar; vorläufige Lizenzsperre; gerichtlicher Entzug möglich |
 | Unlawful Possession of Class IV Weapon | $25.000 | 6 HE | Waffe/Sprengmittel einziehbar; vorläufige Lizenzsperre; gerichtlicher Entzug möglich |
-| Manipulierte Seriennummer | $10.000 | 3 HE | Waffe einziehbar |
+| Herstellung, Transport oder Einsatz nicht genehmigter explosiver Vorrichtungen | $30.000 | 7 HE | Sprengmittel/Tatmittel einziehbar; gerichtliches Verfahren möglich |
+| Ungenehmigte Umrüstung einer Waffe in eine höher regulierte Waffenklasse | $15.000 | 4 HE | Waffe einziehbar; vorläufige Lizenzsperre möglich |
+| Manipulierte Serien- oder Identifikationsnummer | $10.000 | 3 HE | Waffe einziehbar |
+| Wissentlich rechtswidriger Besitz einer gestohlenen Schusswaffe | $10.000 | 3 HE | Waffe einziehbar |
 | Illegale Waffenweitergabe | $15.000 | 4 HE | vorläufige Lizenzsperre; gerichtlicher Entzug möglich |
 | Illegaler Waffenhandel | $25.000 | 6 HE | Gewerbe- und Waffenlizenzmaßnahmen nach zuständigem Recht |
 | Schwerer Arms Trafficking | $40.000 | 9 HE | gerichtliches Verfahren möglich |
 | Brandishing / rechtswidriges Bedrohen mit Waffe | $7.500 | 2 HE | vorläufige Lizenzsperre möglich |
 | Rechtswidrige Schussabgabe | $10.000 | 3 HE | vorläufige Lizenzsperre; gerichtlicher Entzug möglich |
+| Reckless Discharge mit konkreter Gefährdung | $15.000 | 4 HE | vorläufige Lizenzsperre; gerichtlicher Entzug möglich |
+| Unbefugtes Einbringen oder Mitführen einer Waffe in Haft-, Gefängnis- oder gesicherten Gewahrsamsbereichen | $15.000 | 4 HE | Waffe einziehbar |
+| Unbefugtes Mitführen einer Waffe in einem ausdrücklich waffenfreien gesicherten staatlichen Bereich | $7.500 | 2 HE | Waffe vorläufig sicherstellbar |
 
 ---
 
@@ -245,13 +252,19 @@ Die Stoffklasse beeinflusst die vorgesehene Sanktion, nicht jedoch die Mengengre
 | Geringfügiger Eigenbesitz Klasse I bis 5 Einheiten | $500 | 0 HE | Substanz eingezogen |
 | Eigenbesitz Klasse II bis 5 Einheiten | $1.500 | 1 HE | Substanz eingezogen |
 | Eigenbesitz Klasse III bis 5 Einheiten | $2.500 | 1 HE | Substanz eingezogen |
+| Eigenbesitz Klasse IV bis 5 Einheiten | $1.500 | 1 HE | Substanz eingezogen |
+| Öffentlicher Konsum einer kontrollierten illegalen Substanz bei Vorliegen der gesetzlichen Voraussetzungen | $1.000 | 0 HE | Substanz eingezogen |
 | Erweiterter Besitz 6–15 Einheiten | $5.000 | 2 HE | Substanz eingezogen |
 | Besitz mit nachgewiesener Handelsabsicht | $10.000 | 3 HE | Substanz eingezogen |
-| Drogenhandel | $15.000 | 4 HE | Gewinne sicherstellbar |
+| Drogenhandel / rechtswidrige Weitergabe | $15.000 | 4 HE | Gewinne sicherstellbar |
 | Drug Trafficking | $25.000 | 6 HE | Tatmittel sicherstellbar |
 | Aggravated Drug Trafficking / Großhandel | $40.000 | 9 HE | gerichtliches Verfahren möglich |
+| Rechtswidrige Verarbeitung kontrollierter Substanzen | $15.000 | 4 HE | Stoffe/Tatmittel sicherstellbar |
 | Illegale Drogenherstellung | $20.000 | 5 HE | Labor/Tatmittel sicherstellbar |
 | Betrieb eines Drogenlabors | $30.000 | 7 HE | Tatmittel sicherstellbar |
+| Ungenehmigter Anbau kontrollierter Pflanzen | $10.000 | 3 HE | Pflanzen/Tatmittel sicherstellbar |
+| Besitz von Herstellungsausrüstung oder kontrollierten Ausgangsstoffen mit nachgewiesener Herstellungsabsicht | $10.000 | 3 HE | Gegenstände/Stoffe sicherstellbar |
+| Rechtswidriger Transport erheblicher Mengen kontrollierter Substanzen | $10.000 | 3 HE | Substanz/Tatmittel sicherstellbar |
 | Drug Smuggling | $25.000 | 6 HE | Tatmittel sicherstellbar |
 
 Die Good Samaritan Rule des SACSA bleibt unberührt.
@@ -271,6 +284,13 @@ Bei einer Überschreitung von mehr als **80 mph** kann zusätzlich Reckless Driv
 
 | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
 |---|---:|---:|---|
+| Missachtung eines Stoppschildes | $500 | – | – |
+| Missachtung der Vorfahrt | $500 | – | – |
+| Unsicheres Einfahren aus Grundstück, Parkplatz, Feldweg oder untergeordneter Zufahrt | $500 | – | – |
+| Unsicheres Überholen | $750 | – | – |
+| Unzureichender Sicherheitsabstand | $500 | – | – |
+| Erhebliche vermeidbare Ablenkung am Steuer | $750 | – | – |
+| Nichtbeachtung einer rechtmäßigen Verkehrsweisung eines Vollzugsbeamten | $1.000 | – | – |
 | Geringe Geschwindigkeitsüberschreitung bis 20 mph | $250 | – | – |
 | Mittlere Geschwindigkeitsüberschreitung 21–50 mph | $500 | – | – |
 | Erhebliche Geschwindigkeitsüberschreitung über 50 mph | $1.000 | – | Führerscheinmaßnahmen möglich |
@@ -288,6 +308,11 @@ Bei einer Überschreitung von mehr als **80 mph** kann zusätzlich Reckless Driv
 | Schwere gefährliche Flucht | $15.000 | 4 HE | vorläufiger Führerscheinentzug, Fahrzeug sicherstellbar |
 | Vorsätzliches Rammen eines Polizeifahrzeugs | $15.000 | 4 HE | vorläufiger Führerscheinentzug möglich |
 | Missbrauch von Einsatzfahrzeug/Sondersignal | $5.000 | 1 HE | – |
+| Missachtung des Wegerechts eines erkennbaren Einsatzfahrzeugs mit aktivierten Sondersignalen | $1.000 | – | – |
+| Halten oder Parken an rotem Bordstein | $500 | – | Abschleppen möglich |
+| Halten oder Parken auf Geh- oder Fußwegen | $500 | – | Abschleppen möglich |
+| Erhebliche Blockierung von Rettungswegen, Feuerwehrzufahrten oder wesentlichen Verkehrswegen | $1.500 | – | Abschleppen möglich |
+| Gefährlicher oder erheblich verkehrsuntauglicher Fahrzeugumbau | $1.500 | – | Fahrzeug bis zur Mängelbeseitigung aus dem Verkehr ziehbar |
 | Kennzeichenmanipulation | $3.000 | 1 HE | Fahrzeugkontrolle möglich |
 | Fehlende Zulassung/Kennzeichen | $1.500 | – | Weiterfahrt ggf. untersagt |
 
