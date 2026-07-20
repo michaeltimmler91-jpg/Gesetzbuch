@@ -109,7 +109,7 @@ Das Führen eines Fahrzeugs trotz wirksamen Fahrverbots oder entzogener Fahrerla
 Fahrzeugführer müssen bei einer rechtmäßigen Verkehrskontrolle ihre Identität sowie die erforderliche Fahrerlaubnis und vorhandene Fahrzeugdokumente nachweisen.
 
 ## SAVC § 306 – Vorläufiges Fahrverbot und vorläufiger Entzug
-Bei schweren Verkehrsdelikten kann eine zuständige Vollzugsbehörde eine Fahrerlaubnis vorläufig sicherstellen oder ein zeitlich begrenztes Fahrverbot aussprechen, soweit dies gesetzlich vorgesehen und zur Abwehr weiterer erheblicher Gefahren erforderlich ist.
+Bei schweren oder wiederholten Verkehrsdelikten kann eine zuständige Vollzugsbehörde eine Fahrerlaubnis vorläufig sicherstellen oder ein zeitlich begrenztes Fahrverbot aussprechen, soweit dies gesetzlich vorgesehen und zur Abwehr weiterer erheblicher Gefahren oder zur Sicherung der Verkehrssicherheit erforderlich ist.
 
 Ist ein zuständiger Richter innerhalb angemessener Frist nicht erreichbar, darf eine solche vorläufige Maßnahme bis zu einer möglichen gerichtlichen Überprüfung aufrechterhalten werden. Sie ist zu dokumentieren und aufzuheben, sobald die gesetzlichen Voraussetzungen entfallen.
 
