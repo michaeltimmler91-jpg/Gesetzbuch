@@ -1,6 +1,6 @@
-# Gesetzbuch des Staates San Andreas
+# Gesetzbuch des State of San Andreas
 
-Dieses Repository enthält das modulare Gesetzwerk für einen stark US-orientierten, aber GTA-RP-tauglichen Staat San Andreas.
+Dieses Repository enthält das zentrale modulare Gesetzwerk des State of San Andreas. Die einzelnen Gesetzbücher regeln Verfassungsrecht, Strafrecht, Strafverfahren, Verkehr, Waffen, kontrollierte Substanzen, Unternehmen und Lizenzen, Zivilrecht, Justiz, Vollzugsbehörden, Regierung und die geltenden Straf- und Bußgeldrahmen.
 
 ## Gesetzbücher
 
@@ -15,23 +15,33 @@ Dieses Repository enthält das modulare Gesetzwerk für einen stark US-orientier
 9. Judicial Code (SAJC)
 10. Law Enforcement Code (SALEC)
 11. Government & Administration Code (SAGAC)
-12. Sentencing & Fine Schedule
+12. Sentencing & Fine Schedule (SA-SFS)
 
 ## Grundprinzipien
 
-- Stark am US-amerikanischen Rechtssystem orientiert
-- Für GTA V Roleplay vereinfacht und spielbar gehalten
-- Klare Trennung zwischen IC-Gesetzen und OOC-Serverregeln
-- Niemand steht über dem Gesetz
-- Rechtsstaatliche Verfahren, Bürgerrechte und Verhältnismäßigkeit
-- Modulares System, damit einzelne Rechtsbereiche unabhängig gepflegt werden können
+- Niemand steht über dem Gesetz.
+- Staatliches Handeln bedarf einer gesetzlichen Grundlage und muss verhältnismäßig sein.
+- Gerichte entscheiden unabhängig.
+- Vollzugs-, Regierungs- und Justizbefugnisse bleiben voneinander getrennt.
+- Die Todesstrafe ist ausgeschlossen.
+- Lebenslange Freiheitsstrafen dürfen ausschließlich durch ein zuständiges Gericht verhängt werden.
+- Dauerhafte Unternehmensschließungen und endgültige Entzüge von Gewerbe- oder Unternehmenslizenzen bleiben den gesetzlich zuständigen Regierungs- oder Verwaltungsstellen vorbehalten.
+- Die einzelnen Rechtsbereiche werden durch spezialisierte Gesetzbücher geregelt und gemeinsam ausgelegt.
 
-## Übergangsregelung zum Serverstart
+## Zuständigkeit bei noch nicht eingerichteten staatlichen Stellen
 
-Solange Justiz, Staatsanwaltschaft und Anwaltschaft noch nicht aktiv bespielt werden, dürfen zuständige Strafverfolgungsbehörden normale Fälle nach dem geltenden Strafkatalog bearbeiten.
+Ist keine zuständige Staatsanwaltschaft oder kein Department of Justice eingerichtet oder personell besetzt, bleiben die gesetzlichen Ermittlungs-, Festnahme-, Vollzugs- und unmittelbaren Sanktionsbefugnisse der zuständigen Strafverfolgungsbehörden bestehen. Strafsachen, die keiner gerichtlichen Entscheidung bedürfen, können innerhalb der gesetzlichen Grenzen unmittelbar bearbeitet und abgeschlossen werden.
 
-Maßnahmen, die regulär eine richterliche Entscheidung erfordern, können während der Übergangsphase nur nach einem dokumentierten Vier-Augen-Prinzip durch eine ranghohe, nicht unmittelbar am Fall beteiligte Führungskraft genehmigt werden, soweit das jeweilige Gesetz dies ausdrücklich zulässt.
+Bedarf eine Strafsache einer gerichtlichen Entscheidung, kann die ermittelnde Strafverfolgungsbehörde den Fall nach Maßgabe des Judicial Code und des Code of Criminal Procedure unmittelbar einem zuständigen Gericht vorlegen. Die fehlende Einrichtung einer Staatsanwaltschaft überträgt keine richterlichen Befugnisse auf Vollzugsbehörden.
 
-Lebenslange Haft, endgültige Einziehung großer Vermögenswerte, dauerhafte Firmenschließungen und vergleichbar schwerwiegende richterliche Entscheidungen sind während dieser Übergangsphase ausgeschlossen.
+Ist ein zuständiges Gericht vorübergehend nicht erreichbar, bleiben reguläre gesetzliche Vollzugsbefugnisse sowie ausdrücklich vorgesehene vorläufige Sicherungs- und Eilmaßnahmen bestehen. Lebenslange Freiheitsstrafen, endgültige umfangreiche Vermögenseinziehungen und andere ausschließlich Gerichten vorbehaltene endgültige Maßnahmen erfordern weiterhin eine gerichtliche Entscheidung.
 
-Sobald eine aktive Justiz eingerichtet ist, gehen die entsprechenden Befugnisse automatisch auf die gesetzlich zuständigen Gerichte und Justizorgane über.
+Besondere administrative Zuständigkeiten, insbesondere für dauerhafte Unternehmensschließungen und endgültige Gewerbe- oder Unternehmenslizenzentzüge, richten sich nach dem Business & Licensing Code und den jeweils zuständigen Regierungs- oder Verwaltungsstellen.
+
+## Digitale Ausgabe
+
+Die Gesetze werden auf der zugehörigen Website mit Volltextsuche, Navigation und einem Schnellzugriff auf häufig benötigte Vorschriften bereitgestellt:
+
+https://michaeltimmler91-jpg.github.io/Gesetzbuch/
+
+> Hinweis: Dieses Gesetzwerk ist ein fiktives Rechtsdokument des State of San Andreas und kein reales Rechtsdokument.
