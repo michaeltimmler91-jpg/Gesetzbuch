@@ -49,44 +49,56 @@ Der Verkauf eines registrierten Unternehmens bedarf grundsätzlich einer schrift
 
 ---
 
-# Title III – Gewerbliche Lizenzen
+# Title III – Gewerbliche und besondere Lizenzen
 
 ## SABLC § 301 – Lizenzpflichtige Tätigkeiten
 Bestimmte Tätigkeiten können aus Gründen der öffentlichen Sicherheit, des Verbraucherschutzes oder besonderer staatlicher Interessen einer Lizenzpflicht unterliegen. Gewerbe- und Unternehmenslizenzen werden ausschließlich durch die Regierung des State of San Andreas oder eine von ihr hierzu ausdrücklich bestimmte Regierungsbehörde erteilt.
 
 ## SABLC § 302 – Waffenhandelslizenz
-Der gewerbliche Handel mit Waffen und Munition richtet sich zusätzlich nach dem San Andreas Firearms & Weapons Code. Die gewerbliche Lizenzierung erfolgt durch die hierfür zuständige Regierungsbehörde.
+Der gewerbliche Handel mit Waffen und Munition richtet sich zusätzlich nach dem San Andreas Firearms & Weapons Code. Die Erteilung, Änderung, Aussetzung und der dauerhafte Entzug einer Waffenhandelslizenz erfolgen ausschließlich durch die hierfür zuständige Regierungsbehörde.
 
 ## SABLC § 303 – Personenbeförderungslizenz
-Der gewerbliche Transport von Personen, insbesondere durch Taxi- oder vergleichbare Unternehmen, kann eine besondere Unternehmens- oder Fahrerlaubnis erfordern. Gewerbliche Unternehmenslizenzen werden durch die zuständige Regierungsbehörde erteilt; persönliche Fahrerlaubnisse richten sich nach dem Vehicle & Traffic Code.
+Der gewerbliche Transport von Personen, insbesondere durch Taxi-, Bus- oder vergleichbare Beförderungsunternehmen, kann eine besondere Unternehmenslizenz erfordern. Diese Unternehmenslizenz wird ausschließlich durch die zuständige Regierungsbehörde erteilt, geändert, ausgesetzt oder dauerhaft entzogen.
 
-## SABLC § 304 – Medizinische Dienstleistungen
-Gewerbliche oder staatliche medizinische Tätigkeiten dürfen nur durch hierzu befugte Personen oder Einrichtungen ausgeübt werden.
+Persönliche Fahrerlaubnisse und persönliche Berechtigungen zum Führen entsprechender Fahrzeuge richten sich ausschließlich nach dem Vehicle & Traffic Code. Die Erteilung durch die zuständige staatliche Fahrerlaubnisstelle sowie vorläufige oder dauerhafte Fahrerlaubnismaßnahmen bleiben von der Unternehmenslizenz rechtlich getrennt.
+
+## SABLC § 304 – Medizinische Dienstleistungen und medizinische Berufslizenzen
+Gewerbliche oder staatliche medizinische Tätigkeiten dürfen nur durch hierzu befugte Personen oder Einrichtungen ausgeübt werden. Soweit für eine medizinische Tätigkeit eine persönliche Berufs-, Behandlungs- oder sonstige Fachlizenz erforderlich ist, wird diese durch die gesetzlich zuständige staatliche Gesundheits-, Berufs- oder Lizenzbehörde erteilt.
+
+Die vorübergehende Aussetzung und der dauerhafte Entzug einer solchen persönlichen medizinischen Berufslizenz obliegen ausschließlich der gesetzlich zuständigen staatlichen Lizenz- oder Berufsaufsichtsbehörde. Vollzugsbehörden dürfen bei einer konkreten unmittelbaren erheblichen Gefahr die gefährliche Tätigkeit vorläufig unterbinden, begründen dadurch jedoch keinen dauerhaften Lizenzentzug.
 
 ## SABLC § 305 – Sicherheitsdienstlizenz
-Private Sicherheitsunternehmen können einer besonderen Lizenz unterliegen. Eine Sicherheitsdienstlizenz verleiht keine allgemeinen Polizeibefugnisse.
+Private Sicherheitsunternehmen und, soweit gesetzlich vorgesehen, einzelne gewerbliche Sicherheitskräfte können einer besonderen Lizenzpflicht unterliegen. Unternehmens- und persönliche Sicherheitsdienstlizenzen werden durch die gesetzlich zuständige Regierungs- oder Lizenzbehörde erteilt, geändert, ausgesetzt oder dauerhaft entzogen.
+
+Eine Sicherheitsdienstlizenz verleiht keine allgemeinen Polizeibefugnisse. Zuständige Vollzugsbehörden dürfen bei unmittelbarer erheblicher Gefahr notwendige vorläufige Gefahrenabwehrmaßnahmen treffen und waffenrechtliche Maßnahmen nach dem Firearms & Weapons Code durchführen, sind jedoch nicht befugt, eine Sicherheitsdienstlizenz dauerhaft zu entziehen.
 
 ## SABLC § 306 – Glücksspielbetrieb
-Der Betrieb eines Casinos oder sonstigen lizenzpflichtigen Glücksspielunternehmens bedarf einer gültigen staatlichen Genehmigung.
+Der Betrieb eines Casinos oder sonstigen lizenzpflichtigen Glücksspielunternehmens bedarf einer gültigen staatlichen Genehmigung. Erteilung, Änderung, Aussetzung und dauerhafter Entzug einer Glücksspiel- oder Casinogenehmigung obliegen ausschließlich der zuständigen Regierungs- oder Lizenzbehörde.
+
+Bei einem rechtswidrigen oder unmittelbar gefährlichen Betrieb dürfen Vollzugsbehörden die gesetzlich zulässigen vorläufigen Sicherungs- und Gefahrenabwehrmaßnahmen treffen. Eine dauerhafte Betriebsschließung oder endgültige Entziehung der Glücksspielgenehmigung bleibt der zuständigen Regierung oder Regierungsbehörde vorbehalten.
 
 ## SABLC § 307 – Alkohol- und Gastronomielizenzen
-Der State kann für bestimmte gewerbliche Tätigkeiten im Bereich Gastronomie und Alkoholverkauf besondere Lizenzen vorsehen.
+Der State kann für bestimmte gewerbliche Tätigkeiten im Bereich Gastronomie und Alkoholverkauf besondere Lizenzen vorsehen. Soweit eine solche Lizenz vorgeschrieben ist, wird sie durch die zuständige Regierungs- oder Lizenzbehörde erteilt, geändert, ausgesetzt oder dauerhaft entzogen.
 
 ## SABLC § 308 – Fahrzeughandel und Werkstätten
-Gewerblicher Fahrzeughandel und bestimmte Werkstattdienstleistungen können registrierungs- oder lizenzpflichtig sein.
+Gewerblicher Fahrzeughandel und bestimmte Werkstattdienstleistungen können registrierungs- oder lizenzpflichtig sein. Soweit eine Lizenz vorgeschrieben ist, wird sie durch die zuständige Regierungs- oder Lizenzbehörde erteilt, geändert, ausgesetzt oder dauerhaft entzogen.
 
-## SABLC § 309 – Weitere Speziallizenzen
+## SABLC § 309 – Weitere Spezial- und Berufslizenzen
 Weitere Lizenzpflichten können durch Gesetz oder öffentlich bekannt gemachte staatliche Regelung eingeführt werden, sofern sie sachlich begründet und allgemein anwendbar sind.
+
+Soweit ein Spezialgesetz keine andere Zuständigkeit bestimmt, werden staatliche Gewerbe-, Unternehmens-, Spezial- und persönliche Berufslizenzen durch die hierfür zuständige Regierungs-, Verwaltungs- oder Berufsaufsichtsbehörde erteilt, geändert, vorübergehend ausgesetzt und dauerhaft entzogen. Die gerichtliche Überprüfung belastender endgültiger Entscheidungen bleibt gewährleistet.
+
+Die vorübergehende Nichterreichbarkeit oder fehlende personelle Besetzung der zuständigen Lizenzbehörde überträgt deren Befugnis zur endgültigen Lizenzentscheidung nicht auf eine Vollzugsbehörde. Gesetzlich zulässige vorläufige Gefahrenabwehrmaßnahmen bleiben unberührt.
 
 ---
 
 # Title IV – Lizenzverfahren
 
 ## SABLC § 401 – Antrag
-Eine Gewerbe- oder Unternehmenslizenz ist bei der Regierung oder der von ihr zuständig bestimmten Regierungsbehörde zu beantragen. Erforderliche Angaben müssen wahrheitsgemäß gemacht werden.
+Eine Gewerbe-, Unternehmens-, Spezial- oder Berufslizenz ist bei der jeweils gesetzlich zuständigen staatlichen Stelle zu beantragen. Erforderliche Angaben müssen wahrheitsgemäß gemacht werden.
 
 ## SABLC § 402 – Prüfung
-Die zuständige Regierungsstelle darf prüfen, ob die gesetzlichen Voraussetzungen für die beantragte Tätigkeit erfüllt sind.
+Die zuständige staatliche Stelle darf prüfen, ob die gesetzlichen Voraussetzungen für die beantragte Tätigkeit erfüllt sind.
 
 ## SABLC § 403 – Ablehnung
 Eine Lizenz darf insbesondere abgelehnt werden, wenn konkrete Tatsachen belegen, dass gesetzliche Voraussetzungen nicht erfüllt sind oder die beantragte Tätigkeit unmittelbar rechtswidrigen Zwecken dienen soll.
@@ -101,15 +113,15 @@ Lizenzen können befristet erteilt und bei fortbestehenden Voraussetzungen verl�
 Eine Lizenz kann mit angemessenen, sachbezogenen Auflagen verbunden werden.
 
 ## SABLC § 407 – Ruhen und Entzug
-Bei schweren oder wiederholten Verstößen gegen unmittelbar lizenzbezogene Vorschriften kann die zuständige Regierungsbehörde eine Gewerbe- oder Unternehmenslizenz vorübergehend aussetzen oder dauerhaft entziehen.
+Bei schweren oder wiederholten Verstößen gegen unmittelbar lizenzbezogene Vorschriften kann die jeweils zuständige staatliche Lizenz-, Verwaltungs- oder Berufsaufsichtsbehörde eine von ihr verwaltete Gewerbe-, Unternehmens-, Spezial- oder Berufslizenz vorübergehend aussetzen oder dauerhaft entziehen.
 
-Vollzugsbehörden dürfen Gewerbe- oder Unternehmenslizenzen weder endgültig entziehen noch selbst aufheben.
+Vollzugsbehörden dürfen solche Lizenzen weder endgültig entziehen noch selbst aufheben. Vorläufige Fahrerlaubnismaßnahmen nach dem Vehicle & Traffic Code und vorläufige waffenrechtliche Maßnahmen nach dem Firearms & Weapons Code bleiben als besondere gesetzliche Regelungen unberührt.
 
 ## SABLC § 408 – Rechtliches Gehör
 Vor einem dauerhaften Lizenzentzug ist dem Betroffenen grundsätzlich Gelegenheit zur Stellungnahme zu geben, sofern keine unmittelbare erhebliche Gefahr ein sofortiges vorläufiges Handeln erfordert.
 
 ## SABLC § 409 – Gerichtliche Überprüfung
-Endgültige belastende Lizenzentscheidungen der Regierung können nach Maßgabe des geltenden Verfahrensrechts durch ein zuständiges Gericht überprüft werden. Die gerichtliche Überprüfung ersetzt nicht die gesetzliche Zuständigkeit der Regierung für Erteilung und Entzug der Gewerbe- oder Unternehmenslizenz.
+Endgültige belastende Lizenzentscheidungen der zuständigen staatlichen Lizenz-, Verwaltungs- oder Berufsaufsichtsbehörde können nach Maßgabe des geltenden Verfahrensrechts durch ein zuständiges Gericht überprüft werden. Die gerichtliche Überprüfung ersetzt nicht die gesetzliche Zuständigkeit der jeweiligen Behörde für Erteilung und Entzug der Lizenz.
 
 ---
 
@@ -182,21 +194,23 @@ Ein allgemeiner unbegrenzter Zugriff staatlicher Behörden auf sämtliche Untern
 # Title VIII – Staatliche Kontrollen
 
 ## SABLC § 801 – Zuständige Aufsichtsbehörden
-Der State of San Andreas kann Behörden mit der Kontrolle lizenzpflichtiger Unternehmen beauftragen.
+Der State of San Andreas kann Behörden mit der Kontrolle lizenzpflichtiger Unternehmen und Tätigkeiten beauftragen.
 
 ## SABLC § 802 – Reguläre Kontrollen
 Lizenzbezogene Kontrollen dürfen im gesetzlich vorgesehenen Umfang durchgeführt werden, soweit sie sachlich mit der jeweiligen Lizenz verbunden sind.
 
 ## SABLC § 803 – Durchsuchungen
-Eine reguläre Gewerbekontrolle berechtigt nicht automatisch zur vollständigen strafrechtlichen Durchsuchung privater oder nicht öffentlich zugänglicher Geschäftsräume. Strafrechtliche Durchsuchungen richten sich nach dem Code of Criminal Procedure.
+Eine reguläre Gewerbe- oder Lizenzkontrolle berechtigt nicht automatisch zur vollständigen strafrechtlichen Durchsuchung privater oder nicht öffentlich zugänglicher Geschäftsräume. Strafrechtliche Durchsuchungen richten sich nach dem Code of Criminal Procedure.
 
 ## SABLC § 804 – Sofortmaßnahmen durch Vollzugsbehörden
 Bei einer konkreten unmittelbaren erheblichen Gefahr dürfen zuständige Vollzugsbehörden notwendige vorläufige Maßnahmen treffen. Sie können insbesondere einen Betrieb räumen, gefährliche Tätigkeiten untersagen oder den Geschäftsbetrieb vorübergehend einstellen lassen.
 
-Eine solche Maßnahme stellt weder einen endgültigen Entzug der Gewerbelizenz noch eine dauerhafte Unternehmensschließung dar und ist unverzüglich aufzuheben, sobald die unmittelbare Gefahr nicht mehr besteht oder die zuständige Regierungsbehörde eine weitergehende Entscheidung getroffen hat.
+Soweit die unmittelbare Gefahr von der konkreten Ausübung einer lizenzpflichtigen medizinischen, sicherheitsbezogenen oder sonstigen besonders regulierten Tätigkeit ausgeht, kann auch diese konkrete Tätigkeit vorläufig untersagt werden. Eine solche Maßnahme stellt keinen dauerhaften Entzug einer Berufs-, Spezial-, Gewerbe- oder Unternehmenslizenz dar.
+
+Jede vollzugsbehördliche Sofortmaßnahme ist unverzüglich aufzuheben, sobald die unmittelbare Gefahr nicht mehr besteht oder die zuständige Lizenz- oder Regierungsbehörde eine weitergehende rechtmäßige Entscheidung getroffen hat.
 
 ## SABLC § 805 – Dokumentation
-Schwerwiegende vorläufige Betriebsschließungen und dauerhafte Lizenzentscheidungen sind nachvollziehbar zu dokumentieren.
+Schwerwiegende vorläufige Betriebsschließungen, Tätigkeitsuntersagungen und dauerhafte Lizenzentscheidungen sind nachvollziehbar zu dokumentieren.
 
 ---
 
@@ -246,7 +260,7 @@ Digitale Verträge und elektronische Unterschriften können als rechtswirksam an
 # Title XI – Besondere Unternehmensbereiche
 
 ## SABLC § 1101 – Taxi- und Personenbeförderungsunternehmen
-Taxiunternehmen und vergleichbare Beförderungsdienste dürfen im Rahmen ihrer Lizenzen Personen gewerblich transportieren. Fahrer müssen erforderliche Fahrerlaubnisse besitzen.
+Taxiunternehmen und vergleichbare Beförderungsdienste dürfen im Rahmen einer gültigen Unternehmenslizenz Personen gewerblich transportieren. Die Unternehmenslizenz richtet sich nach SABLC § 303. Fahrer müssen zusätzlich die nach dem Vehicle & Traffic Code erforderlichen persönlichen Fahrerlaubnisse besitzen.
 
 ## SABLC § 1102 – Abschleppunternehmen
 Abschleppunternehmen dürfen Fahrzeuge aufgrund privater Aufträge oder rechtmäßiger behördlicher Anordnungen transportieren. Eine Abschlepplizenz verleiht keine allgemeinen polizeilichen Befugnisse.
@@ -255,7 +269,7 @@ Abschleppunternehmen dürfen Fahrzeuge aufgrund privater Aufträge oder rechtmä
 Werkstätten dürfen rechtmäßige Reparaturen und Fahrzeugumbauten durchführen. Die bewusste Unterstützung bei der Verschleierung gestohlener Fahrzeuge oder manipulierter Fahrzeugidentitäten ist verboten.
 
 ## SABLC § 1104 – Private Sicherheitsunternehmen
-Private Sicherheitskräfte dürfen Eigentum und Personen im Rahmen allgemeiner Gesetze schützen. Sie besitzen keine automatischen hoheitlichen Festnahme-, Durchsuchungs- oder Sonderrechte.
+Private Sicherheitskräfte dürfen Eigentum und Personen im Rahmen allgemeiner Gesetze und ihrer gültigen Lizenzen schützen. Sie besitzen keine automatischen hoheitlichen Festnahme-, Durchsuchungs- oder Sonderrechte. Waffenrechtliche Berechtigungen richten sich unabhängig von der Sicherheitsdienstlizenz nach dem Firearms & Weapons Code.
 
 ## SABLC § 1105 – Medienunternehmen
 Medienunternehmen und Journalisten genießen die durch die Verfassung und andere Gesetze geschützte Pressefreiheit. Eine Unternehmenslizenz darf nicht zur politischen Kontrolle rechtmäßiger Berichterstattung missbraucht werden.
@@ -265,18 +279,20 @@ Medienunternehmen und Journalisten genießen die durch die Verfassung und andere
 # Title XII – Regierungszuständigkeit und gerichtliche Kontrolle
 
 ## SABLC § 1201 – Verwaltungsentscheidungen
-Die Regierung und die von ihr zuständig bestimmten Verwaltungsstellen dürfen Unternehmensregistrierungen, Lizenzanträge, Verlängerungen und sonstige reguläre gewerberechtliche Verwaltungsverfahren im Rahmen ihrer gesetzlichen Befugnisse bearbeiten und entscheiden.
+Die Regierung und die von ihr zuständig bestimmten Verwaltungs-, Lizenz- und Berufsaufsichtsstellen dürfen Unternehmensregistrierungen, Lizenzanträge, Verlängerungen und sonstige reguläre gewerbe- oder berufsrechtliche Verwaltungsverfahren im Rahmen ihrer gesetzlichen Befugnisse bearbeiten und entscheiden.
 
 ## SABLC § 1202 – Schwerwiegende Maßnahmen
 Dauerhafte Unternehmensschließungen und endgültige Entzüge von Gewerbe- oder Unternehmenslizenzen sind ausschließlich durch die hierfür zuständige Regierung oder Regierungsbehörde zulässig.
 
+Endgültige Entzüge persönlicher staatlicher Berufs- oder Speziallizenzen sind ausschließlich durch die jeweils gesetzlich zuständige staatliche Lizenz-, Verwaltungs- oder Berufsaufsichtsbehörde zulässig. Besondere Zuständigkeiten für Fahrerlaubnisse und persönliche Waffenlizenzen richten sich nach den jeweiligen Spezialgesetzen.
+
 Endgültige umfangreiche Vermögenseinziehungen und andere Maßnahmen, die nach Gesetz einer gerichtlichen Entscheidung vorbehalten sind, bleiben der zuständigen Justiz vorbehalten.
 
 ## SABLC § 1203 – Gerichtliche Überprüfung
-Belastende endgültige Entscheidungen der Regierung können nach Maßgabe des geltenden Rechts gerichtlich überprüft werden. Das Gericht kann eine rechtswidrige Entscheidung aufheben oder zur erneuten Entscheidung zurückverweisen, übernimmt dadurch jedoch nicht die gesetzliche Zuständigkeit der Regierung zur Erteilung oder dauerhaften Entziehung einer Gewerbelizenz oder zur dauerhaften Unternehmensschließung.
+Belastende endgültige Entscheidungen der Regierung oder einer zuständigen staatlichen Lizenz-, Verwaltungs- oder Berufsaufsichtsbehörde können nach Maßgabe des geltenden Rechts gerichtlich überprüft werden. Das Gericht kann eine rechtswidrige Entscheidung aufheben oder zur erneuten Entscheidung zurückverweisen, übernimmt dadurch jedoch nicht die gesetzliche Zuständigkeit zur Erteilung oder dauerhaften Entziehung einer Gewerbe-, Unternehmens-, Berufs- oder Speziallizenz oder zur dauerhaften Unternehmensschließung.
 
 ## SABLC § 1204 – Vorläufige Gefahrenabwehr
-Unmittelbar notwendige Maßnahmen zur Abwehr konkreter erheblicher Gefahren bleiben zulässig. Vollzugsbehördliche Maßnahmen sind auf das erforderliche Maß und die erforderliche Dauer zu beschränken und begründen keine dauerhafte Unternehmensschließung.
+Unmittelbar notwendige Maßnahmen zur Abwehr konkreter erheblicher Gefahren bleiben zulässig. Vollzugsbehördliche Maßnahmen sind auf das erforderliche Maß und die erforderliche Dauer zu beschränken und begründen weder eine dauerhafte Unternehmensschließung noch einen endgültigen Lizenzentzug.
 
 ---
 
