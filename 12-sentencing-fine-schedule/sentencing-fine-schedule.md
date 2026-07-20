@@ -79,11 +79,11 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 | SAPC § 201 | Assault | $2.000 | 1 HE | – |
 | SAPC § 202 | Battery | $3.500 | 2 HE | – |
 | SAPC § 203 | Aggravated Assault | $10.000 | 3 HE | Waffenlizenzprüfung möglich |
-| SAPC § 204 | Aggravated Battery | $15.000 | 4 HE | Waffenlizenzentzug möglich |
+| SAPC § 204 | Aggravated Battery | $15.000 | 4 HE | vorläufige Waffenlizenzsperre möglich |
 | SAPC § 205 | Manslaughter | $35.000 | 8 HE | Lizenzfolgen möglich |
-| SAPC § 206 | Murder | $50.000 | 10 HE | Waffenlizenzentzug, gerichtliches Verfahren möglich |
+| SAPC § 206 | Murder | $50.000 | 10 HE | vorläufige Waffenlizenzsperre; gerichtlicher Entzug möglich |
 | SAPC § 207 | Aggravated Murder | ab $75.000 | 12 HE oder gerichtliche Entscheidung | gerichtliche Sonderentscheidung möglich |
-| SAPC § 208 | Attempted Murder | $30.000 | 7 HE | Waffenlizenzentzug möglich |
+| SAPC § 208 | Attempted Murder | $30.000 | 7 HE | vorläufige Waffenlizenzsperre; gerichtlicher Entzug möglich |
 | SAPC § 209 | Reckless Endangerment | $7.500 | 2 HE | Lizenzfolgen je nach Tatmittel |
 
 ---
@@ -111,8 +111,8 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 | SAPC § 404 | Burglary | $7.500 | 3 HE | – |
 | SAPC § 405 | Trespassing | $1.500 | 1 HE | Hausverbot möglich |
 | SAPC § 406 | Robbery | $10.000 | 3 HE | – |
-| SAPC § 407 | Armed Robbery | $20.000 | 5 HE | Waffenlizenzentzug möglich |
-| SAPC § 408 | Aggravated Robbery | $30.000 | 7 HE | Waffenlizenzentzug möglich |
+| SAPC § 407 | Armed Robbery | $20.000 | 5 HE | vorläufige Waffenlizenzsperre möglich |
+| SAPC § 408 | Aggravated Robbery | $30.000 | 7 HE | vorläufige Waffenlizenzsperre; gerichtlicher Entzug möglich |
 | SAPC § 409 | Bank Robbery | $30.000 | 7 HE | Tatmittel sicherstellbar |
 | SAPC § 410 | Armored Transport Robbery | $35.000 | 8 HE | Tatmittel sicherstellbar |
 | SAPC § 411 | Robbery of Government Facility | $40.000 | 8 HE | gerichtliches Verfahren möglich |
@@ -127,14 +127,14 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 | Code | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
 |---|---|---:|---:|---|
 | SAPC § 501 | Fraud | $5.000–$15.000 | 2–4 HE | Rückzahlung/Schadensersatz |
-| SAPC § 502 | Embezzlement | $10.000 | 3 HE | Rückzahlung, Amts-/Firmenfolgen möglich |
+| SAPC § 502 | Embezzlement | $10.000 | 3 HE | Rückzahlung, Amts-/Unternehmensfolgen möglich |
 | SAPC § 503 | Money Laundering | $20.000 | 5 HE | Vermögenssicherung möglich |
 | SAPC § 504 | Tax Evasion | $10.000 | 3 HE | Nachzahlung möglich |
 | SAPC § 505 | Document Forgery | $7.500 | 2 HE | Dokumente einziehbar |
 | SAPC § 506 | Insurance Fraud | $7.500 | 2 HE | Rückzahlung möglich |
 | SAPC § 507 | Extortion | $10.000 | 3 HE | – |
 | SAPC § 508 | Bribery | $15.000 | 4 HE | Amts-/Lizenzfolgen möglich |
-| SAPC § 509 | Corporate Criminal Liability | fallabhängig | fallabhängig | Geldstrafe, Lizenzmaßnahme oder gerichtliche Maßnahme |
+| SAPC § 509 | Corporate Criminal Liability | fallabhängig | fallabhängig | Geldstrafe, Regierungsentscheidung über Gewerbelizenz oder sonstige gesetzliche Maßnahme |
 
 ---
 
@@ -147,7 +147,7 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 | SAPC § 603 | Evading Arrest | $2.500 | 1 HE | – |
 | SAPC § 604 | Interference with Law Enforcement | $3.000 | 1 HE | – |
 | SAPC § 605 | Assault on Law Enforcement | $7.500 | 3 HE | – |
-| SAPC § 606 | Aggravated Assault on Law Enforcement | $20.000 | 5 HE | Waffenlizenzentzug möglich |
+| SAPC § 606 | Aggravated Assault on Law Enforcement | $20.000 | 5 HE | vorläufige Waffenlizenzsperre; gerichtlicher Entzug möglich |
 | SAPC § 607 | Impersonating Law Enforcement | $7.500 | 2 HE | Ausrüstung sicherstellbar |
 | SAPC § 608 | Perjury | $10.000 | 3 HE | – |
 | SAPC § 609 | Witness Tampering | $10.000 | 3 HE | – |
@@ -181,7 +181,7 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 | SAPC § 801 | Criminal Organization | $20.000 | 5 HE | nur bei nachgewiesener aktiver Beteiligung |
 | SAPC § 802 | Organized Criminal Activity | $30.000 | 7 HE | RICO-Verfahren möglich |
 | SAPC § 803 | Criminal Conspiracy | bis 75 % der Zieltat | bis 75 % der Zieltat | abhängig von geplanter Straftat |
-| SAPC § 804 | RICO Proceedings | gerichtliches Verfahren | gerichtliches Verfahren | Vermögens-/Unternehmensmaßnahmen möglich |
+| SAPC § 804 | RICO Proceedings | gerichtliches Verfahren | gerichtliches Verfahren | Vermögensmaßnahmen möglich; Unternehmensschließung ausschließlich durch Regierung |
 
 ---
 
@@ -205,8 +205,8 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 
 | Code | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
 |---|---|---:|---:|---|
-| SAPC § 1001 | Unlicensed Gambling Operation | $5.000 | 1 HE | Betriebsschließung/Lizenzmaßnahme möglich |
-| SAPC § 1002 | Illegal Gambling Enterprise | $15.000 | 4 HE | Betriebsschließung möglich |
+| SAPC § 1001 | Unlicensed Gambling Operation | $5.000 | 1 HE | vorläufige Betriebsschließung möglich; Lizenzentscheidung durch Regierung |
+| SAPC § 1002 | Illegal Gambling Enterprise | $15.000 | 4 HE | vorläufige Betriebsschließung möglich; dauerhafte Schließung nur durch Regierung |
 | SAPC § 1003 | Gambling Fraud | $10.000 | 3 HE | Rückzahlung möglich |
 | SAPC § 1004 | Gambling-Related Money Laundering | $25.000 | 6 HE | Vermögenssicherung möglich |
 
@@ -216,41 +216,40 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 
 | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
 |---|---:|---:|---|
-| Führen ohne erforderliche Lizenz | $5.000 | 2 HE | Waffe sicherstellbar |
-| Besitz verbotener Waffe | $15.000 | 4 HE | Einziehung, Lizenzentzug |
-| Besitz illegaler vollautomatischer Waffe | $20.000 | 5 HE | Einziehung, Lizenzentzug |
-| Besitz illegaler Explosivmittel | $25.000 | 6 HE | Einziehung, Lizenzentzug |
+| Besitz oder Führen einer erlaubnispflichtigen Waffe ohne erforderliche Lizenz | $5.000 | 2 HE | Waffe sicherstellbar; vorläufige Lizenzsperre möglich |
+| Unlawful Possession of Class III Weapon | $20.000 | 5 HE | Waffe einziehbar; vorläufige Lizenzsperre; gerichtlicher Entzug möglich |
+| Unlawful Possession of Class IV Weapon | $25.000 | 6 HE | Waffe/Sprengmittel einziehbar; vorläufige Lizenzsperre; gerichtlicher Entzug möglich |
 | Manipulierte Seriennummer | $10.000 | 3 HE | Waffe einziehbar |
-| Illegale Waffenweitergabe | $15.000 | 4 HE | Lizenzentzug |
-| Illegaler Waffenhandel | $25.000 | 6 HE | Lizenzentzug |
+| Illegale Waffenweitergabe | $15.000 | 4 HE | vorläufige Lizenzsperre; gerichtlicher Entzug möglich |
+| Illegaler Waffenhandel | $25.000 | 6 HE | Gewerbe- und Waffenlizenzmaßnahmen nach zuständigem Recht |
 | Schwerer Arms Trafficking | $40.000 | 9 HE | gerichtliches Verfahren möglich |
-| Brandishing / rechtswidriges Bedrohen mit Waffe | $7.500 | 2 HE | Lizenzentzug möglich |
-| Rechtswidrige Schussabgabe | $10.000 | 3 HE | Lizenzentzug möglich |
+| Brandishing / rechtswidriges Bedrohen mit Waffe | $7.500 | 2 HE | vorläufige Lizenzsperre möglich |
+| Rechtswidrige Schussabgabe | $10.000 | 3 HE | vorläufige Lizenzsperre; gerichtlicher Entzug möglich |
 
 ---
 
 # Title XIII – Kontrollierte Substanzen
 
-## SFS § 1301 – Mengenstufen
-Für die strafrechtliche Einordnung kontrollierter Substanzen gelten folgende Mengenstufen:
+## SFS § 1301 – Einheitliche Mengenstufen
+Für sämtliche kontrollierten Substanzen gelten unabhängig von ihrer Stoffklasse dieselben Mengengrenzen:
 
-- **Eigenbedarf:** geringe Menge ohne konkrete Handelsindizien
-- **Erweiterter Besitz:** deutlich über Eigenbedarf, aber ohne ausreichenden Nachweis einer Handelsabsicht
-- **Handelsmenge:** Menge oder Begleitumstände begründen nachweisbar eine Handelsabsicht
-- **Großhandel:** erhebliche Menge im Rahmen organisierter oder gewerblicher Verteilung
+- **Eigenbedarf:** bis einschließlich **5 Einheiten**
+- **Erweiterter Besitz:** **6 bis 15 Einheiten**
+- **Handelsmenge:** **16 bis 40 Einheiten**
+- **Großhandel:** ab **41 Einheiten**
 
-Die zuständige Gesundheits-, Verwaltungs- oder Justizbehörde kann durch allgemein bekannt gemachte Rechtsverordnung verbindliche Mengengrenzen sowie die Zuordnung einzelner kontrollierter Substanzen zu den gesetzlichen Stoffklassen festlegen. Änderungen dürfen nicht rückwirkend zu einer Strafverschärfung führen.
+Die Stoffklasse beeinflusst die vorgesehene Sanktion, nicht jedoch die Mengengrenzen. Eine Handelsabsicht kann auch bei geringeren Mengen durch konkrete Beweise nachgewiesen werden. Soweit ein Straftatbestand eine Handelsabsicht voraussetzt, ersetzt die Menge allein nicht in jedem Fall den erforderlichen Tatnachweis.
 
 | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
 |---|---:|---:|---|
-| Geringfügiger Eigenbesitz Klasse I | $500 | 0 HE | Substanz eingezogen |
-| Eigenbesitz Klasse II | $1.500 | 1 HE | Substanz eingezogen |
-| Eigenbesitz Klasse III | $2.500 | 1 HE | Substanz eingezogen |
-| Erweiterter Besitz | $5.000 | 2 HE | Substanz eingezogen |
-| Besitz mit Handelsabsicht | $10.000 | 3 HE | Substanz eingezogen |
+| Geringfügiger Eigenbesitz Klasse I bis 5 Einheiten | $500 | 0 HE | Substanz eingezogen |
+| Eigenbesitz Klasse II bis 5 Einheiten | $1.500 | 1 HE | Substanz eingezogen |
+| Eigenbesitz Klasse III bis 5 Einheiten | $2.500 | 1 HE | Substanz eingezogen |
+| Erweiterter Besitz 6–15 Einheiten | $5.000 | 2 HE | Substanz eingezogen |
+| Besitz mit nachgewiesener Handelsabsicht | $10.000 | 3 HE | Substanz eingezogen |
 | Drogenhandel | $15.000 | 4 HE | Gewinne sicherstellbar |
 | Drug Trafficking | $25.000 | 6 HE | Tatmittel sicherstellbar |
-| Aggravated Drug Trafficking | $40.000 | 9 HE | gerichtliches Verfahren möglich |
+| Aggravated Drug Trafficking / Großhandel | $40.000 | 9 HE | gerichtliches Verfahren möglich |
 | Illegale Drogenherstellung | $20.000 | 5 HE | Labor/Tatmittel sicherstellbar |
 | Betrieb eines Drogenlabors | $30.000 | 7 HE | Tatmittel sicherstellbar |
 | Drug Smuggling | $25.000 | 6 HE | Tatmittel sicherstellbar |
@@ -261,24 +260,33 @@ Die Good Samaritan Rule des SACSA bleibt unberührt.
 
 # Title XIV – Verkehrsverstöße
 
+## SFS § 1401 – Stufen der Geschwindigkeitsüberschreitung
+Für Geschwindigkeitsverstöße gelten entsprechend SAVC § 204 folgende Stufen:
+
+- **gering:** bis einschließlich **20 mph** über der zulässigen Höchstgeschwindigkeit,
+- **mittel:** **21 bis 50 mph** über der zulässigen Höchstgeschwindigkeit,
+- **erheblich:** mehr als **50 mph** über der zulässigen Höchstgeschwindigkeit.
+
+Bei einer Überschreitung von mehr als **80 mph** kann zusätzlich Reckless Driving vorliegen, wenn die gesetzlichen Voraussetzungen einer grob rücksichtslosen Fahrweise oder konkreten Gefährdung erfüllt sind.
+
 | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
 |---|---:|---:|---|
-| Geringe Geschwindigkeitsüberschreitung | $250 | – | – |
-| Mittlere Geschwindigkeitsüberschreitung | $500 | – | – |
-| Erhebliche Geschwindigkeitsüberschreitung | $1.000 | – | Führerscheinmaßnahmen möglich |
+| Geringe Geschwindigkeitsüberschreitung bis 20 mph | $250 | – | – |
+| Mittlere Geschwindigkeitsüberschreitung 21–50 mph | $500 | – | – |
+| Erhebliche Geschwindigkeitsüberschreitung über 50 mph | $1.000 | – | Führerscheinmaßnahmen möglich |
 | Careless Driving | $1.000 | – | – |
-| Reckless Driving | $2.500 | 1 HE | Führerscheinentzug möglich |
+| Reckless Driving | $2.500 | 1 HE | vorläufiger Führerscheinentzug möglich |
 | Fahren ohne gültige Fahrerlaubnis | $2.000 | – | Weiterfahrt untersagt |
 | Fahren trotz Entzug | $5.000 | 1 HE | Fahrzeugmaßnahme möglich |
-| DUI | $3.500 | 1 HE | Führerscheinentzug möglich |
-| Schweres DUI mit Gefährdung | $7.500 | 2 HE | Führerscheinentzug |
+| DUI | $3.500 | 1 HE | vorläufiger Führerscheinentzug möglich |
+| Schweres DUI mit Gefährdung | $7.500 | 2 HE | vorläufiger Führerscheinentzug; gerichtlicher Dauerentzug möglich |
 | Fahrerflucht nach Sachschaden | $3.000 | 1 HE | Führerscheinmaßnahmen möglich |
-| Fahrerflucht mit Personenschaden | $10.000 | 3 HE | Führerscheinentzug |
-| Illegales Straßenrennen | $5.000 | 1 HE | Führerscheinentzug möglich |
+| Fahrerflucht mit Personenschaden | $10.000 | 3 HE | vorläufiger Führerscheinentzug; gerichtlicher Dauerentzug möglich |
+| Illegales Straßenrennen | $5.000 | 1 HE | vorläufiger Führerscheinentzug möglich |
 | Organisation illegaler Straßenrennen | $7.500 | 2 HE | Lizenz-/Fahrzeugfolgen möglich |
-| Flucht vor Polizei im Fahrzeug | $7.500 | 2 HE | Führerscheinentzug möglich |
-| Schwere gefährliche Flucht | $15.000 | 4 HE | Führerscheinentzug, Fahrzeug sicherstellbar |
-| Vorsätzliches Rammen eines Polizeifahrzeugs | $15.000 | 4 HE | Führerscheinentzug möglich |
+| Flucht vor Polizei im Fahrzeug | $7.500 | 2 HE | vorläufiger Führerscheinentzug möglich |
+| Schwere gefährliche Flucht | $15.000 | 4 HE | vorläufiger Führerscheinentzug, Fahrzeug sicherstellbar |
+| Vorsätzliches Rammen eines Polizeifahrzeugs | $15.000 | 4 HE | vorläufiger Führerscheinentzug möglich |
 | Missbrauch von Einsatzfahrzeug/Sondersignal | $5.000 | 1 HE | – |
 | Kennzeichenmanipulation | $3.000 | 1 HE | Fahrzeugkontrolle möglich |
 | Fehlende Zulassung/Kennzeichen | $1.500 | – | Weiterfahrt ggf. untersagt |
@@ -287,23 +295,26 @@ Die Good Samaritan Rule des SACSA bleibt unberührt.
 
 # Title XV – Lizenzmaßnahmen
 
-## SFS § 1501 – Führerscheinentzug
-Ein Führerschein kann bei schweren oder wiederholten Verkehrsdelikten vorübergehend entzogen werden.
+## SFS § 1501 – Führerscheinmaßnahmen
+Bei schweren oder wiederholten Verkehrsdelikten kann eine zuständige Vollzugsbehörde die Fahrerlaubnis vorläufig sicherstellen oder ein zeitlich begrenztes Fahrverbot aussprechen. Ein dauerhafter Fahrerlaubnisentzug bedarf grundsätzlich einer gerichtlichen Entscheidung.
 
-Empfohlene Stufen:
+Empfohlene Stufen für vorläufige Maßnahmen:
 - Stufe 1: 1–3 Tage
 - Stufe 2: 3–7 Tage
 - Stufe 3: 7–14 Tage
-- Dauerhafter Entzug: nur in außergewöhnlichen Fällen und aufgrund einer gerichtlichen oder gesetzlich besonders vorgesehenen Entscheidung
+- Dauerhafter Entzug: ausschließlich aufgrund einer gerichtlichen Entscheidung, soweit kein besonderes Gesetz ausdrücklich etwas anderes bestimmt
 
-## SFS § 1502 – Waffenlizenzentzug
-Bei schweren Waffendelikten oder vorsätzlichen schweren Gewaltdelikten kann eine Waffenlizenz vorübergehend oder dauerhaft entzogen werden.
+## SFS § 1502 – Waffenlizenzmaßnahmen
+Bei schweren Waffendelikten oder vorsätzlichen schweren Gewaltdelikten kann eine zuständige Vollzugsbehörde eine Waffenlizenz vorläufig aussetzen und Waffen sicherstellen. Ein dauerhafter Entzug einer persönlichen Waffenlizenz bedarf grundsätzlich einer gerichtlichen Entscheidung.
 
-## SFS § 1503 – Gewerbelizenz
-Schwere wiederholte unmittelbar betriebsbezogene Verstöße können zur Aussetzung einer Gewerbelizenz führen. Dauerhafte Entzüge richten sich nach dem Business & Licensing Code.
+## SFS § 1503 – Gewerbe- und Unternehmenslizenzen
+Schwere wiederholte unmittelbar betriebsbezogene Verstöße können der zuständigen Regierung zur Prüfung vorgelegt werden. Die endgültige Aussetzung oder der dauerhafte Entzug einer Gewerbe- oder Unternehmenslizenz richtet sich nach dem Business & Licensing Code und darf ausschließlich durch die hierfür zuständige Regierung oder Regierungsbehörde angeordnet werden.
 
 ## SFS § 1504 – Medizinische oder besondere Berufslizenzen
 Berufslizenzen dürfen nur bei unmittelbar berufsbezogenen erheblichen Verstößen und nach den hierfür vorgesehenen Verfahren eingeschränkt werden.
+
+## SFS § 1505 – Dauerhafte Unternehmensschließung
+Eine dauerhafte staatliche Unternehmensschließung darf ausschließlich durch die Regierung des State of San Andreas oder eine hierzu ausdrücklich befugte Regierungsbehörde angeordnet werden. Vollzugsbehörden dürfen bei unmittelbarer erheblicher Gefahr lediglich eine vorläufige Betriebsschließung oder Räumung anordnen.
 
 ---
 
@@ -364,10 +375,12 @@ Soweit das Gesetz eine unmittelbare Ahndung durch Polizei- oder andere Vollzugsb
 ## SFS § 1802 – Obergrenze
 Ohne eine darüber hinausgehende richterliche Entscheidung darf eine einzelne zusammenhängende Strafsache grundsätzlich **12 HE (120 Minuten)** Freiheitsentzug nicht überschreiten.
 
-## SFS § 1803 – Gerichtspflichtige Sondermaßnahmen
-Maßnahmen, die nach Gesetz einer gerichtlichen Entscheidung vorbehalten sind, insbesondere lebenslange Freiheitsstrafen, endgültige umfangreiche Vermögenseinziehungen und vergleichbar schwerwiegende endgültige Rechtsfolgen, dürfen nicht allein durch Vollzugsbehörden angeordnet werden.
+## SFS § 1803 – Sondermaßnahmen außerhalb der Vollzugszuständigkeit
+Maßnahmen, die nach Gesetz einer gerichtlichen oder besonderen Regierungsentscheidung vorbehalten sind, dürfen nicht allein durch Vollzugsbehörden angeordnet werden.
 
-Ist ein zuständiges Gericht vorübergehend nicht erreichbar, bleiben ausschließlich die gesetzlich vorgesehenen vorläufigen Sicherungs- und Eilmaßnahmen zulässig. Eine erforderliche gerichtliche Überprüfung ist unverzüglich nachzuholen.
+Hierzu gehören insbesondere lebenslange Freiheitsstrafen und endgültige umfangreiche Vermögenseinziehungen als gerichtliche Maßnahmen sowie dauerhafte Unternehmensschließungen und endgültige Gewerbelizenzentzüge als Maßnahmen der zuständigen Regierung.
+
+Ist die jeweils zuständige Stelle vorübergehend nicht erreichbar, bleiben ausschließlich die gesetzlich vorgesehenen vorläufigen Sicherungs-, Sperr- und Gefahrenabwehrmaßnahmen zulässig. Eine erforderliche gerichtliche oder behördliche Überprüfung ist unverzüglich nachzuholen.
 
 ## SFS § 1804 – Lebenslange Freiheitsstrafe
 Eine lebenslange Freiheitsstrafe darf ausschließlich durch ein zuständiges Gericht verhängt werden.
