@@ -14,7 +14,9 @@ Der San Andreas Business & Licensing Code regelt die Gründung, den Betrieb, die
 Jede Person darf grundsätzlich ein rechtmäßiges Unternehmen gründen und betreiben, soweit für die konkrete Tätigkeit keine besondere Lizenz oder Genehmigung erforderlich ist.
 
 ## SABLC § 102 – Unternehmensregistrierung
-Unternehmen, die dauerhaft am Wirtschaftsleben teilnehmen, können zur Registrierung bei der zuständigen staatlichen Stelle verpflichtet werden.
+Unternehmen, die dauerhaft am Wirtschaftsleben teilnehmen und als registriertes Unternehmen auftreten, sind bei der zuständigen staatlichen Registerstelle anzumelden. Die Registrierung soll mindestens den Unternehmensnamen, die verantwortliche Geschäftsführung, den wesentlichen Unternehmenszweck und, soweit erforderlich, die Eigentumsverhältnisse erkennen lassen.
+
+Solange keine besondere Unternehmensregister-, Wirtschafts- oder vergleichbare Verwaltungsbehörde ordnungsgemäß eingerichtet und personell besetzt ist, nimmt die Regierung des State of San Andreas oder eine von ihr bestimmte zentrale Verwaltungsstelle die Registrierung und Registerführung wahr.
 
 ## SABLC § 103 – Unternehmensname
 Ein Unternehmensname darf nicht vorsätzlich zur Täuschung über Identität, staatliche Zugehörigkeit oder bestehende Unternehmen verwendet werden.
@@ -42,10 +44,21 @@ Der State of San Andreas kann Unternehmensformen mit eigener rechtlicher Identit
 Unternehmen können vollständig oder teilweise im Eigentum des State of San Andreas stehen, sofern dies gesetzlich oder durch eine rechtmäßige Regierungsentscheidung vorgesehen ist.
 
 ## SABLC § 205 – Eigentümerwechsel
-Die Übertragung wesentlicher Unternehmensanteile oder des gesamten Unternehmens ist nachvollziehbar zu dokumentieren.
+Die Übertragung wesentlicher Unternehmensanteile oder des gesamten Unternehmens ist nachvollziehbar zu dokumentieren. Bei registrierten Unternehmen ist ein wesentlicher Eigentümerwechsel der zuständigen staatlichen Registerstelle anzuzeigen und im Unternehmensregister zu aktualisieren.
+
+Die Registerstelle darf die für die Änderung erforderlichen Nachweise verlangen. Die Eintragung eines Eigentümerwechsels ersetzt keine zusätzlich erforderliche Lizenzentscheidung.
 
 ## SABLC § 206 – Unternehmensverkauf
-Der Verkauf eines registrierten Unternehmens bedarf grundsätzlich einer schriftlichen Vereinbarung zwischen den Beteiligten.
+Der Verkauf eines registrierten Unternehmens bedarf grundsätzlich einer schriftlichen Vereinbarung zwischen den Beteiligten. Der daraus folgende Eigentümerwechsel ist der zuständigen staatlichen Registerstelle anzuzeigen und nach Prüfung der erforderlichen Unterlagen im Unternehmensregister zu vermerken.
+
+Personenbezogene oder an besondere gesetzliche Voraussetzungen gebundene Lizenzen und Genehmigungen gehen durch einen Unternehmensverkauf nicht automatisch auf den Erwerber über.
+
+## SABLC § 207 – Unternehmensregister und Registerzuständigkeit
+Die zuständige staatliche Registerstelle führt ein Unternehmensregister über registrierte Unternehmen. Zu ihren Aufgaben gehören insbesondere die Erstregistrierung, die Änderung wesentlicher Unternehmensdaten, die Eintragung von Eigentümerwechseln und die Abmeldung aufgelöster Unternehmen.
+
+Solange keine besondere Unternehmensregister-, Wirtschafts- oder vergleichbare Verwaltungsbehörde ordnungsgemäß eingerichtet und personell besetzt ist, werden diese Aufgaben unmittelbar durch die Regierung des State of San Andreas oder eine von ihr bestimmte zentrale Verwaltungsstelle wahrgenommen.
+
+Mit der ordnungsgemäßen Einrichtung und personellen Besetzung einer zuständigen Fachbehörde geht die reguläre Registerzuständigkeit auf diese Behörde über. Bereits wirksam vorgenommene Registrierungen und Registeränderungen bleiben bestehen.
 
 ---
 
@@ -224,7 +237,7 @@ Schwerwiegende vorläufige Betriebsschließungen, Tätigkeitsuntersagungen und d
 # Title IX – Unternehmensschließung und Insolvenz
 
 ## SABLC § 901 – Freiwillige Schließung
-Eigentümer können ein Unternehmen grundsätzlich freiwillig schließen oder den Geschäftsbetrieb einstellen.
+Eigentümer können ein Unternehmen grundsätzlich freiwillig schließen oder den Geschäftsbetrieb einstellen. Ein registriertes Unternehmen ist bei der zuständigen staatlichen Registerstelle abzumelden. Die Abmeldung beendet die Registerführung des Unternehmens, lässt jedoch bereits entstandene gesetzliche oder vertragliche Verpflichtungen unberührt.
 
 ## SABLC § 902 – Abwicklung
 Bei einer Unternehmensauflösung sind bestehende Eigentumsrechte und nachweisbare Verpflichtungen nach den Regeln des Civil Code zu berücksichtigen.
@@ -286,9 +299,9 @@ Medienunternehmen und Journalisten genießen die durch die Verfassung und andere
 # Title XII – Regierungszuständigkeit und gerichtliche Kontrolle
 
 ## SABLC § 1201 – Verwaltungsentscheidungen
-Die Regierung und die von ihr zuständig bestimmten Verwaltungs-, Lizenz- und Berufsaufsichtsstellen dürfen Unternehmensregistrierungen, Lizenzanträge, Verlängerungen und sonstige reguläre gewerbe- oder berufsrechtliche Verwaltungsverfahren im Rahmen ihrer gesetzlichen Befugnisse bearbeiten und entscheiden.
+Die Regierung und die von ihr zuständig bestimmten Verwaltungs-, Register-, Lizenz- und Berufsaufsichtsstellen dürfen Unternehmensregistrierungen, Registeränderungen, Eigentümerwechsel, Abmeldungen, Lizenzanträge, Verlängerungen und sonstige reguläre gewerbe- oder berufsrechtliche Verwaltungsverfahren im Rahmen ihrer gesetzlichen Befugnisse bearbeiten und entscheiden.
 
-Solange eine besondere Fachbehörde für eine Lizenzart noch nicht ordnungsgemäß eingerichtet und personell besetzt ist, gilt die Übergangszuständigkeit nach SABLC § 310.
+Solange eine besondere Fachbehörde für die Unternehmensregisterführung oder eine Lizenzart noch nicht ordnungsgemäß eingerichtet und personell besetzt ist, gelten die Übergangszuständigkeiten nach SABLC §§ 207 und 310.
 
 ## SABLC § 1202 – Schwerwiegende Maßnahmen
 Dauerhafte Unternehmensschließungen und endgültige Entzüge von Gewerbe- oder Unternehmenslizenzen sind ausschließlich durch die hierfür zuständige Regierung oder Regierungsbehörde zulässig.
