@@ -74,7 +74,7 @@ Für Waffen der Klassen III und IV können ausschließlich in gesetzlich vorgese
 
 (2) Ist ein zuständiger Richter trotz angemessener Bemühungen innerhalb angemessener Frist nicht erreichbar, kann das Los Santos Police Department eine reguläre Waffenlizenz erteilen, sofern sämtliche Voraussetzungen nach SAWC § 202 nachgewiesen sind.
 
-(3) Eine nach Absatz 2 erteilte Lizenz besitzt die gleiche vorläufige Wirksamkeit wie eine regulär erteilte Lizenz und ist einer späteren gerichtlichen Überprüfung zugänglich.
+(3) Eine nach Absatz 2 erteilte Lizenz ist voll wirksam und bleibt wirksam, solange sie nicht nach diesem Gesetz ausgesetzt, entzogen oder durch eine zuständige gerichtliche Entscheidung aufgehoben wird. Sie ist einer späteren gerichtlichen Überprüfung zugänglich.
 
 (4) Ein Anspruch auf eine Sondergenehmigung für Waffen der Klassen III oder IV besteht nicht.
 
