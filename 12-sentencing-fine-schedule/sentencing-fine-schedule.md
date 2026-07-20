@@ -13,7 +13,14 @@ Der San Andreas Sentencing & Fine Schedule legt den Rahmen für Geldstrafen, Haf
 # Title I – Grundregeln
 
 ## SFS § 101 – Hafteinheiten
-Eine Hafteinheit (HE) entspricht der vom Server technisch festgelegten Gefängniszeit. Die Umrechnung in reale Minuten wird serverseitig bestimmt.
+Eine Hafteinheit (HE) entspricht **10 realen Minuten Gefängniszeit**.
+
+Beispiele:
+- 1 HE = 10 Minuten
+- 3 HE = 30 Minuten
+- 6 HE = 60 Minuten
+- 10 HE = 100 Minuten
+- 12 HE = 120 Minuten
 
 ## SFS § 102 – Geldstrafen
 Geldstrafen werden in Dollar ($) angegeben und sind an die Wirtschaft des Servers anzupassen.
@@ -52,13 +59,13 @@ Eine strafrechtliche Verurteilung führt nicht automatisch zu einem Character De
 | Klasse | Typischer Rahmen | Geldstrafe | Haft |
 |---|---|---:|---:|
 | Infraction | geringfügiger Verstoß | $100–$1.500 | keine |
-| Misdemeanor C | leichter Straftatbestand | $500–$3.000 | 0–10 HE |
-| Misdemeanor B | mittlerer Straftatbestand | $1.000–$5.000 | 5–20 HE |
-| Misdemeanor A | schweres Vergehen | $2.000–$10.000 | 10–30 HE |
-| Felony D | leichteres Verbrechen | $5.000–$15.000 | 15–40 HE |
-| Felony C | schweres Verbrechen | $10.000–$30.000 | 25–60 HE |
-| Felony B | sehr schweres Verbrechen | $20.000–$50.000 | 40–90 HE |
-| Felony A | schwerstes reguläres Verbrechen | $30.000–$100.000 | 60–120 HE |
+| Misdemeanor C | leichter Straftatbestand | $500–$3.000 | 0–1 HE |
+| Misdemeanor B | mittlerer Straftatbestand | $1.000–$5.000 | 1–2 HE |
+| Misdemeanor A | schweres Vergehen | $2.000–$10.000 | 2–3 HE |
+| Felony D | leichteres Verbrechen | $5.000–$15.000 | 2–4 HE |
+| Felony C | schweres Verbrechen | $10.000–$30.000 | 4–6 HE |
+| Felony B | sehr schweres Verbrechen | $20.000–$50.000 | 6–9 HE |
+| Felony A | schwerstes reguläres Verbrechen | $30.000–$100.000 | 9–12 HE |
 | Special | außergewöhnlicher Fall | gerichtliche Entscheidung | gerichtliche Entscheidung |
 
 Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschlägigen Gesetz und diesem Katalog. Eine Todesstrafe existiert nicht.
@@ -69,15 +76,15 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 
 | Code | Tatbestand | Geldstrafe | Haft | Mögliche Nebenfolgen |
 |---|---|---:|---:|---|
-| SAPC § 201 | Assault | $2.000 | 10 HE | – |
-| SAPC § 202 | Battery | $3.500 | 15 HE | – |
-| SAPC § 203 | Aggravated Assault | $10.000 | 30 HE | Waffenlizenzprüfung möglich |
-| SAPC § 204 | Aggravated Battery | $15.000 | 40 HE | Waffenlizenzentzug möglich |
-| SAPC § 205 | Manslaughter | $35.000 | 75 HE | Lizenzfolgen möglich |
-| SAPC § 206 | Murder | $50.000 | 100 HE | Waffenlizenzentzug, Justizfall möglich |
-| SAPC § 207 | Aggravated Murder | ab $75.000 | 120 HE oder Justiz | gerichtliche Sonderentscheidung möglich |
-| SAPC § 208 | Attempted Murder | $30.000 | 70 HE | Waffenlizenzentzug möglich |
-| SAPC § 209 | Reckless Endangerment | $7.500 | 20 HE | Lizenzfolgen je nach Tatmittel |
+| SAPC § 201 | Assault | $2.000 | 1 HE | – |
+| SAPC § 202 | Battery | $3.500 | 2 HE | – |
+| SAPC § 203 | Aggravated Assault | $10.000 | 3 HE | Waffenlizenzprüfung möglich |
+| SAPC § 204 | Aggravated Battery | $15.000 | 4 HE | Waffenlizenzentzug möglich |
+| SAPC § 205 | Manslaughter | $35.000 | 8 HE | Lizenzfolgen möglich |
+| SAPC § 206 | Murder | $50.000 | 10 HE | Waffenlizenzentzug, Justizfall möglich |
+| SAPC § 207 | Aggravated Murder | ab $75.000 | 12 HE oder Justiz | gerichtliche Sonderentscheidung möglich |
+| SAPC § 208 | Attempted Murder | $30.000 | 7 HE | Waffenlizenzentzug möglich |
+| SAPC § 209 | Reckless Endangerment | $7.500 | 2 HE | Lizenzfolgen je nach Tatmittel |
 
 ---
 
@@ -85,12 +92,12 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 
 | Code | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
 |---|---|---:|---:|---|
-| SAPC § 301 | Unlawful Restraint | $7.500 | 25 HE | – |
-| SAPC § 302 | Kidnapping | $15.000 | 40 HE | – |
-| SAPC § 303 | Aggravated Kidnapping | $25.000 | 60 HE | – |
-| SAPC § 304 | Hostage Taking | $30.000 | 70 HE | – |
-| SAPC § 305 | Ransom Extortion | $20.000 | 50 HE | Vermögenssicherung möglich |
-| SAPC § 306 | Human Trafficking | $40.000 | 90 HE | Justizfall/RICO möglich |
+| SAPC § 301 | Unlawful Restraint | $7.500 | 3 HE | – |
+| SAPC § 302 | Kidnapping | $15.000 | 4 HE | – |
+| SAPC § 303 | Aggravated Kidnapping | $25.000 | 6 HE | – |
+| SAPC § 304 | Hostage Taking | $30.000 | 7 HE | – |
+| SAPC § 305 | Ransom Extortion | $20.000 | 5 HE | Vermögenssicherung möglich |
+| SAPC § 306 | Human Trafficking | $40.000 | 9 HE | Justizfall/RICO möglich |
 
 ---
 
@@ -98,20 +105,20 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 
 | Code | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
 |---|---|---:|---:|---|
-| SAPC § 401 | Theft | $3.000 | 10 HE | Rückgabe/Schadensersatz |
-| SAPC § 402 | Grand Theft | $7.500 | 20 HE | Rückgabe/Schadensersatz |
-| SAPC § 403 | Vehicle Theft | $7.500 | 20 HE | Tatfahrzeug ggf. sicherstellbar |
-| SAPC § 404 | Burglary | $7.500 | 25 HE | – |
-| SAPC § 405 | Trespassing | $1.500 | 5 HE | Hausverbot möglich |
-| SAPC § 406 | Robbery | $10.000 | 30 HE | – |
-| SAPC § 407 | Armed Robbery | $20.000 | 50 HE | Waffenlizenzentzug möglich |
-| SAPC § 408 | Aggravated Robbery | $30.000 | 70 HE | Waffenlizenzentzug möglich |
-| SAPC § 409 | Bank Robbery | $30.000 | 70 HE | Tatmittel sicherstellbar |
-| SAPC § 410 | Armored Transport Robbery | $35.000 | 75 HE | Tatmittel sicherstellbar |
-| SAPC § 411 | Robbery of Government Facility | $40.000 | 80 HE | Justizfall möglich |
-| SAPC § 412 | Critical Infrastructure Robbery | $45.000 | 90 HE | Justizfall möglich |
-| SAPC § 413 | Property Damage | $1.000–$10.000 | 0–20 HE | Schadensersatz |
-| SAPC § 414 | Arson | $15.000 | 40 HE | Schadensersatz; bei Personengefahr höhere Einstufung möglich |
+| SAPC § 401 | Theft | $3.000 | 1 HE | Rückgabe/Schadensersatz |
+| SAPC § 402 | Grand Theft | $7.500 | 2 HE | Rückgabe/Schadensersatz |
+| SAPC § 403 | Vehicle Theft | $7.500 | 2 HE | Tatfahrzeug ggf. sicherstellbar |
+| SAPC § 404 | Burglary | $7.500 | 3 HE | – |
+| SAPC § 405 | Trespassing | $1.500 | 1 HE | Hausverbot möglich |
+| SAPC § 406 | Robbery | $10.000 | 3 HE | – |
+| SAPC § 407 | Armed Robbery | $20.000 | 5 HE | Waffenlizenzentzug möglich |
+| SAPC § 408 | Aggravated Robbery | $30.000 | 7 HE | Waffenlizenzentzug möglich |
+| SAPC § 409 | Bank Robbery | $30.000 | 7 HE | Tatmittel sicherstellbar |
+| SAPC § 410 | Armored Transport Robbery | $35.000 | 8 HE | Tatmittel sicherstellbar |
+| SAPC § 411 | Robbery of Government Facility | $40.000 | 8 HE | Justizfall möglich |
+| SAPC § 412 | Critical Infrastructure Robbery | $45.000 | 9 HE | Justizfall möglich |
+| SAPC § 413 | Property Damage | $1.000–$10.000 | 0–2 HE | Schadensersatz |
+| SAPC § 414 | Arson | $15.000 | 4 HE | Schadensersatz; bei Personengefahr höhere Einstufung möglich |
 
 ---
 
@@ -119,14 +126,14 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 
 | Code | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
 |---|---|---:|---:|---|
-| SAPC § 501 | Fraud | $5.000–$15.000 | 15–35 HE | Rückzahlung/Schadensersatz |
-| SAPC § 502 | Embezzlement | $10.000 | 30 HE | Rückzahlung, Amts-/Firmenfolgen möglich |
-| SAPC § 503 | Money Laundering | $20.000 | 50 HE | Vermögenssicherung möglich |
-| SAPC § 504 | Tax Evasion | $10.000 | 25 HE | Nachzahlung möglich |
-| SAPC § 505 | Document Forgery | $7.500 | 20 HE | Dokumente einziehbar |
-| SAPC § 506 | Insurance Fraud | $7.500 | 20 HE | Rückzahlung möglich |
-| SAPC § 507 | Extortion | $10.000 | 30 HE | – |
-| SAPC § 508 | Bribery | $15.000 | 40 HE | Amts-/Lizenzfolgen möglich |
+| SAPC § 501 | Fraud | $5.000–$15.000 | 2–4 HE | Rückzahlung/Schadensersatz |
+| SAPC § 502 | Embezzlement | $10.000 | 3 HE | Rückzahlung, Amts-/Firmenfolgen möglich |
+| SAPC § 503 | Money Laundering | $20.000 | 5 HE | Vermögenssicherung möglich |
+| SAPC § 504 | Tax Evasion | $10.000 | 3 HE | Nachzahlung möglich |
+| SAPC § 505 | Document Forgery | $7.500 | 2 HE | Dokumente einziehbar |
+| SAPC § 506 | Insurance Fraud | $7.500 | 2 HE | Rückzahlung möglich |
+| SAPC § 507 | Extortion | $10.000 | 3 HE | – |
+| SAPC § 508 | Bribery | $15.000 | 4 HE | Amts-/Lizenzfolgen möglich |
 | SAPC § 509 | Corporate Criminal Liability | fallabhängig | fallabhängig | Geldstrafe, Lizenzmaßnahme oder gerichtliche Maßnahme |
 
 ---
@@ -135,20 +142,20 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 
 | Code | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
 |---|---|---:|---:|---|
-| SAPC § 601 | Obstruction of Justice | $5.000 | 15 HE | – |
-| SAPC § 602 | Resisting Arrest | $3.000 | 10 HE | – |
-| SAPC § 603 | Evading Arrest | $2.500 | 10 HE | – |
-| SAPC § 604 | Interference with Law Enforcement | $3.000 | 10 HE | – |
-| SAPC § 605 | Assault on Law Enforcement | $7.500 | 25 HE | – |
-| SAPC § 606 | Aggravated Assault on Law Enforcement | $20.000 | 50 HE | Waffenlizenzentzug möglich |
-| SAPC § 607 | Impersonating Law Enforcement | $7.500 | 20 HE | Ausrüstung sicherstellbar |
-| SAPC § 608 | Perjury | $10.000 | 30 HE | – |
-| SAPC § 609 | Witness Tampering | $10.000 | 30 HE | – |
-| SAPC § 610 | Evidence Tampering | $7.500 | 25 HE | – |
-| SAPC § 611 | False Report | $2.500 | 10 HE | – |
-| SAPC § 612 | Emergency Call Abuse | $2.500 | 10 HE | Einsatzkosten möglich |
-| SAPC § 613 | Interference with Emergency Services | $5.000 | 15 HE | – |
-| SAPC § 614 | Unauthorized Emergency Equipment | $5.000 | 10 HE | Ausrüstung sicherstellbar |
+| SAPC § 601 | Obstruction of Justice | $5.000 | 2 HE | – |
+| SAPC § 602 | Resisting Arrest | $3.000 | 1 HE | – |
+| SAPC § 603 | Evading Arrest | $2.500 | 1 HE | – |
+| SAPC § 604 | Interference with Law Enforcement | $3.000 | 1 HE | – |
+| SAPC § 605 | Assault on Law Enforcement | $7.500 | 3 HE | – |
+| SAPC § 606 | Aggravated Assault on Law Enforcement | $20.000 | 5 HE | Waffenlizenzentzug möglich |
+| SAPC § 607 | Impersonating Law Enforcement | $7.500 | 2 HE | Ausrüstung sicherstellbar |
+| SAPC § 608 | Perjury | $10.000 | 3 HE | – |
+| SAPC § 609 | Witness Tampering | $10.000 | 3 HE | – |
+| SAPC § 610 | Evidence Tampering | $7.500 | 3 HE | – |
+| SAPC § 611 | False Report | $2.500 | 1 HE | – |
+| SAPC § 612 | Emergency Call Abuse | $2.500 | 1 HE | Einsatzkosten möglich |
+| SAPC § 613 | Interference with Emergency Services | $5.000 | 2 HE | – |
+| SAPC § 614 | Unauthorized Emergency Equipment | $5.000 | 1 HE | Ausrüstung sicherstellbar |
 
 ---
 
@@ -156,14 +163,14 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 
 | Code | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
 |---|---|---:|---:|---|
-| SAPC § 701 | Abuse of Office | $10.000 | 30 HE | Suspendierung/Amtsenthebung möglich |
-| SAPC § 702 | Official Corruption | $25.000 | 60 HE | Amtsenthebung möglich |
-| SAPC § 703 | Obstruction by Public Official | $15.000 | 40 HE | Amtsfolgen möglich |
-| SAPC § 704 | Evidence Manipulation by Public Official | $20.000 | 50 HE | Amtsenthebung möglich |
-| SAPC § 705 | Unlawful Arrest | $10.000 | 25 HE | Amts-/Zivilfolgen möglich |
-| SAPC § 706 | Excessive Use of Force | $15.000 | 35 HE | Amts-/Zivilfolgen möglich |
-| SAPC § 707 | Unauthorized Disclosure of Confidential Information | $10.000 | 25 HE | Amtsfolgen möglich |
-| SAPC § 708 | Misuse of Government Databases | $7.500 | 20 HE | Amtsfolgen möglich |
+| SAPC § 701 | Abuse of Office | $10.000 | 3 HE | Suspendierung/Amtsenthebung möglich |
+| SAPC § 702 | Official Corruption | $25.000 | 6 HE | Amtsenthebung möglich |
+| SAPC § 703 | Obstruction by Public Official | $15.000 | 4 HE | Amtsfolgen möglich |
+| SAPC § 704 | Evidence Manipulation by Public Official | $20.000 | 5 HE | Amtsenthebung möglich |
+| SAPC § 705 | Unlawful Arrest | $10.000 | 3 HE | Amts-/Zivilfolgen möglich |
+| SAPC § 706 | Excessive Use of Force | $15.000 | 4 HE | Amts-/Zivilfolgen möglich |
+| SAPC § 707 | Unauthorized Disclosure of Confidential Information | $10.000 | 3 HE | Amtsfolgen möglich |
+| SAPC § 708 | Misuse of Government Databases | $7.500 | 2 HE | Amtsfolgen möglich |
 
 ---
 
@@ -171,8 +178,8 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 
 | Code | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
 |---|---|---:|---:|---|
-| SAPC § 801 | Criminal Organization | $20.000 | 50 HE | nur bei nachgewiesener aktiver Beteiligung |
-| SAPC § 802 | Organized Criminal Activity | $30.000 | 70 HE | RICO möglich |
+| SAPC § 801 | Criminal Organization | $20.000 | 5 HE | nur bei nachgewiesener aktiver Beteiligung |
+| SAPC § 802 | Organized Criminal Activity | $30.000 | 7 HE | RICO möglich |
 | SAPC § 803 | Criminal Conspiracy | bis 75 % der Zieltat | bis 75 % der Zieltat | abhängig von geplanter Straftat |
 | SAPC § 804 | RICO Proceedings | gerichtliches Verfahren | gerichtliches Verfahren | Vermögens-/Unternehmensmaßnahmen möglich |
 
@@ -182,15 +189,15 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 
 | Code | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
 |---|---|---:|---:|---|
-| SAPC § 901 | Unauthorized Computer Access | $5.000 | 15 HE | Geräte/Beweise sicherstellbar |
-| SAPC § 902 | Data Theft | $10.000 | 25 HE | Geräte/Beweise sicherstellbar |
-| SAPC § 903 | Data Manipulation | $10.000 | 25 HE | Schadensersatz möglich |
-| SAPC § 904 | Identity Theft | $10.000 | 25 HE | Schadensersatz möglich |
-| SAPC § 905 | Digital Fraud | $10.000 | 25 HE | Rückzahlung möglich |
-| SAPC § 906 | Cyber Extortion | $15.000 | 40 HE | – |
-| SAPC § 907 | Attack on Government Systems | $25.000 | 60 HE | Justizfall möglich |
-| SAPC § 908 | Attack on Critical Infrastructure | $40.000 | 90 HE | Justizfall möglich |
-| SAPC § 909 | Unlawful Surveillance | $7.500 | 20 HE | Geräte/Beweise sicherstellbar |
+| SAPC § 901 | Unauthorized Computer Access | $5.000 | 2 HE | Geräte/Beweise sicherstellbar |
+| SAPC § 902 | Data Theft | $10.000 | 3 HE | Geräte/Beweise sicherstellbar |
+| SAPC § 903 | Data Manipulation | $10.000 | 3 HE | Schadensersatz möglich |
+| SAPC § 904 | Identity Theft | $10.000 | 3 HE | Schadensersatz möglich |
+| SAPC § 905 | Digital Fraud | $10.000 | 3 HE | Rückzahlung möglich |
+| SAPC § 906 | Cyber Extortion | $15.000 | 4 HE | – |
+| SAPC § 907 | Attack on Government Systems | $25.000 | 6 HE | Justizfall möglich |
+| SAPC § 908 | Attack on Critical Infrastructure | $40.000 | 9 HE | Justizfall möglich |
+| SAPC § 909 | Unlawful Surveillance | $7.500 | 2 HE | Geräte/Beweise sicherstellbar |
 
 ---
 
@@ -198,10 +205,10 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 
 | Code | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
 |---|---|---:|---:|---|
-| SAPC § 1001 | Unlicensed Gambling Operation | $5.000 | 10 HE | Betriebsschließung/Lizenzmaßnahme möglich |
-| SAPC § 1002 | Illegal Gambling Enterprise | $15.000 | 35 HE | Betriebsschließung möglich |
-| SAPC § 1003 | Gambling Fraud | $10.000 | 25 HE | Rückzahlung möglich |
-| SAPC § 1004 | Gambling-Related Money Laundering | $25.000 | 60 HE | Vermögenssicherung möglich |
+| SAPC § 1001 | Unlicensed Gambling Operation | $5.000 | 1 HE | Betriebsschließung/Lizenzmaßnahme möglich |
+| SAPC § 1002 | Illegal Gambling Enterprise | $15.000 | 4 HE | Betriebsschließung möglich |
+| SAPC § 1003 | Gambling Fraud | $10.000 | 3 HE | Rückzahlung möglich |
+| SAPC § 1004 | Gambling-Related Money Laundering | $25.000 | 6 HE | Vermögenssicherung möglich |
 
 ---
 
@@ -209,16 +216,16 @@ Die Einordnung eines konkreten Tatbestands richtet sich nach dem jeweils einschl
 
 | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
 |---|---:|---:|---|
-| Führen ohne erforderliche Lizenz | $5.000 | 15 HE | Waffe sichergestellt |
-| Besitz verbotener Waffe | $15.000 | 35 HE | Einziehung, Lizenzentzug |
-| Besitz illegaler vollautomatischer Waffe | $20.000 | 45 HE | Einziehung, Lizenzentzug |
-| Besitz illegaler Explosivmittel | $25.000 | 55 HE | Einziehung, Lizenzentzug |
-| Manipulierte Seriennummer | $10.000 | 25 HE | Waffe eingezogen |
-| Illegale Waffenweitergabe | $15.000 | 35 HE | Lizenzentzug |
-| Illegaler Waffenhandel | $25.000 | 60 HE | Lizenzentzug |
-| Schwerer Arms Trafficking | $40.000 | 90 HE | Justizfall möglich |
-| Brandishing / rechtswidriges Bedrohen mit Waffe | $7.500 | 20 HE | Lizenzentzug möglich |
-| Rechtswidrige Schussabgabe | $10.000 | 25 HE | Lizenzentzug möglich |
+| Führen ohne erforderliche Lizenz | $5.000 | 2 HE | Waffe sichergestellt |
+| Besitz verbotener Waffe | $15.000 | 4 HE | Einziehung, Lizenzentzug |
+| Besitz illegaler vollautomatischer Waffe | $20.000 | 5 HE | Einziehung, Lizenzentzug |
+| Besitz illegaler Explosivmittel | $25.000 | 6 HE | Einziehung, Lizenzentzug |
+| Manipulierte Seriennummer | $10.000 | 3 HE | Waffe eingezogen |
+| Illegale Waffenweitergabe | $15.000 | 4 HE | Lizenzentzug |
+| Illegaler Waffenhandel | $25.000 | 6 HE | Lizenzentzug |
+| Schwerer Arms Trafficking | $40.000 | 9 HE | Justizfall möglich |
+| Brandishing / rechtswidriges Bedrohen mit Waffe | $7.500 | 2 HE | Lizenzentzug möglich |
+| Rechtswidrige Schussabgabe | $10.000 | 3 HE | Lizenzentzug möglich |
 
 ---
 
@@ -237,16 +244,16 @@ Konkrete Item-Grenzen können in einer separaten administrativen Tabelle gepfleg
 | Tatbestand | Geldstrafe | Haft | Nebenfolgen |
 |---|---:|---:|---|
 | Geringfügiger Eigenbesitz Klasse I | $500 | 0 HE | Substanz eingezogen |
-| Eigenbesitz Klasse II | $1.500 | 5 HE | Substanz eingezogen |
-| Eigenbesitz Klasse III | $2.500 | 10 HE | Substanz eingezogen |
-| Erweiterter Besitz | $5.000 | 15 HE | Substanz eingezogen |
-| Besitz mit Handelsabsicht | $10.000 | 30 HE | Substanz eingezogen |
-| Drogenhandel | $15.000 | 40 HE | Gewinne sicherstellbar |
-| Drug Trafficking | $25.000 | 60 HE | Tatmittel sicherstellbar |
-| Aggravated Drug Trafficking | $40.000 | 90 HE | Justizfall möglich |
-| Illegale Drogenherstellung | $20.000 | 50 HE | Labor/Tatmittel sichergestellt |
-| Betrieb eines Drogenlabors | $30.000 | 70 HE | Tatmittel sichergestellt |
-| Drug Smuggling | $25.000 | 60 HE | Tatmittel sicherstellbar |
+| Eigenbesitz Klasse II | $1.500 | 1 HE | Substanz eingezogen |
+| Eigenbesitz Klasse III | $2.500 | 1 HE | Substanz eingezogen |
+| Erweiterter Besitz | $5.000 | 2 HE | Substanz eingezogen |
+| Besitz mit Handelsabsicht | $10.000 | 3 HE | Substanz eingezogen |
+| Drogenhandel | $15.000 | 4 HE | Gewinne sicherstellbar |
+| Drug Trafficking | $25.000 | 6 HE | Tatmittel sicherstellbar |
+| Aggravated Drug Trafficking | $40.000 | 9 HE | Justizfall möglich |
+| Illegale Drogenherstellung | $20.000 | 5 HE | Labor/Tatmittel sichergestellt |
+| Betrieb eines Drogenlabors | $30.000 | 7 HE | Tatmittel sichergestellt |
+| Drug Smuggling | $25.000 | 6 HE | Tatmittel sicherstellbar |
 
 Die Good Samaritan Rule des SACSA bleibt unberührt.
 
@@ -260,20 +267,20 @@ Die Good Samaritan Rule des SACSA bleibt unberührt.
 | Mittlere Geschwindigkeitsüberschreitung | $500 | – | – |
 | Erhebliche Geschwindigkeitsüberschreitung | $1.000 | – | Führerscheinmaßnahmen möglich |
 | Careless Driving | $1.000 | – | – |
-| Reckless Driving | $2.500 | 5 HE | Führerscheinentzug möglich |
+| Reckless Driving | $2.500 | 1 HE | Führerscheinentzug möglich |
 | Fahren ohne gültige Fahrerlaubnis | $2.000 | – | Weiterfahrt untersagt |
-| Fahren trotz Entzug | $5.000 | 10 HE | Fahrzeugmaßnahme möglich |
-| DUI | $3.500 | 10 HE | Führerscheinentzug möglich |
-| Schweres DUI mit Gefährdung | $7.500 | 20 HE | Führerscheinentzug |
-| Fahrerflucht nach Sachschaden | $3.000 | 5 HE | Führerscheinmaßnahmen möglich |
-| Fahrerflucht mit Personenschaden | $10.000 | 25 HE | Führerscheinentzug |
-| Illegales Straßenrennen | $5.000 | 10 HE | Führerscheinentzug möglich |
-| Organisation illegaler Straßenrennen | $7.500 | 15 HE | Lizenz-/Fahrzeugfolgen möglich |
-| Flucht vor Polizei im Fahrzeug | $7.500 | 20 HE | Führerscheinentzug möglich |
-| Schwere gefährliche Flucht | $15.000 | 40 HE | Führerscheinentzug, Fahrzeug sicherstellbar |
-| Vorsätzliches Rammen eines Polizeifahrzeugs | $15.000 | 35 HE | Führerscheinentzug möglich |
-| Missbrauch von Einsatzfahrzeug/Sondersignal | $5.000 | 10 HE | – |
-| Kennzeichenmanipulation | $3.000 | 5 HE | Fahrzeugkontrolle möglich |
+| Fahren trotz Entzug | $5.000 | 1 HE | Fahrzeugmaßnahme möglich |
+| DUI | $3.500 | 1 HE | Führerscheinentzug möglich |
+| Schweres DUI mit Gefährdung | $7.500 | 2 HE | Führerscheinentzug |
+| Fahrerflucht nach Sachschaden | $3.000 | 1 HE | Führerscheinmaßnahmen möglich |
+| Fahrerflucht mit Personenschaden | $10.000 | 3 HE | Führerscheinentzug |
+| Illegales Straßenrennen | $5.000 | 1 HE | Führerscheinentzug möglich |
+| Organisation illegaler Straßenrennen | $7.500 | 2 HE | Lizenz-/Fahrzeugfolgen möglich |
+| Flucht vor Polizei im Fahrzeug | $7.500 | 2 HE | Führerscheinentzug möglich |
+| Schwere gefährliche Flucht | $15.000 | 4 HE | Führerscheinentzug, Fahrzeug sicherstellbar |
+| Vorsätzliches Rammen eines Polizeifahrzeugs | $15.000 | 4 HE | Führerscheinentzug möglich |
+| Missbrauch von Einsatzfahrzeug/Sondersignal | $5.000 | 1 HE | – |
+| Kennzeichenmanipulation | $3.000 | 1 HE | Fahrzeugkontrolle möglich |
 | Fehlende Zulassung/Kennzeichen | $1.500 | – | Weiterfahrt ggf. untersagt |
 
 ---
@@ -355,13 +362,13 @@ Ein Umstand, der bereits zwingender Bestandteil eines verschärften Tatbestands 
 Solange keine aktive Justiz verfügbar ist, dürfen Polizei- und Vollzugsbehörden reguläre Strafen nach diesem Katalog unmittelbar verhängen.
 
 ## SFS § 1802 – Obergrenze
-Ohne aktive richterliche Entscheidung soll eine einzelne zusammenhängende Strafsache grundsätzlich **120 HE** nicht überschreiten.
+Ohne aktive richterliche Entscheidung soll eine einzelne zusammenhängende Strafsache grundsätzlich **12 HE (120 Minuten)** nicht überschreiten.
 
 ## SFS § 1803 – Schwere Sonderfälle
 Fälle, die nach Gesetz eine darüber hinausgehende Sanktion, dauerhafte umfangreiche Vermögenseinziehung oder vergleichbare endgültige Maßnahme erfordern würden, sind bis zur Verfügbarkeit einer zuständigen Justiz auf die zulässigen Übergangsmaßnahmen zu begrenzen.
 
 ## SFS § 1804 – Keine lebenslange Haft durch Polizei
-Lebenslange Freiheitsstrafen dürfen nicht unmittelbar durch Polizeibehörden verhängt werden.
+Lebenslange Freiheitsstrafen dürfen nicht unmittelbar durch Polizeibehörden verhängt werden. Eine Life Sentence ist ausschließlich durch ein zuständiges Gericht zulässig.
 
 ---
 
