@@ -39,7 +39,7 @@ Eine Person darf sich in ihrer Wohnung oder ihrem rechtmäßig genutzten private
 Freiwillige Geständnisse, nachweisbare Kooperation und rechtmäßige Plea Deals können strafmildernd berücksichtigt werden. Vereinbarungen sind zu dokumentieren.
 
 ## SAPC § 109 – Wiederholungstäter und Three Strikes
-Rechtskräftige einschlägige Vorverurteilungen können strafverschärfend berücksichtigt werden. Bei drei schweren Gewaltverbrechen oder vergleichbaren Felonies kann die Staatsanwaltschaft eine besonders hohe Strafe beantragen. Lebenslange Haft erfolgt niemals automatisch und darf ausschließlich durch ein Gericht verhängt werden.
+Rechtskräftige einschlägige Vorverurteilungen können strafverschärfend berücksichtigt werden. Bei drei schweren Gewaltverbrechen oder vergleichbaren Felonies kann die Staatsanwaltschaft oder eine sonstige gesetzlich zur Vertretung der staatlichen Anklage befugte Stelle im gerichtlichen Verfahren eine besonders hohe Strafe beantragen. Lebenslange Haft erfolgt niemals automatisch und darf ausschließlich durch ein Gericht verhängt werden.
 
 ---
 
